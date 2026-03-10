@@ -1,0 +1,235 @@
+{
+  "main": {
+    "id": "fd4405c5f3c9eeaa",
+    "type": "split",
+    "children": [
+      {
+        "id": "2ec5121ec2921c6a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "70d31885f9f6a984",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DSA/DSA - Stack and Queue Fundamentals.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "DSA - Stack and Queue Fundamentals"
+            }
+          },
+          {
+            "id": "17300b865d0bbe2f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DSA/DSA - Stack and Queue Fundamentals.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "DSA - Stack and Queue Fundamentals"
+            }
+          },
+          {
+            "id": "5dad96cd7a0766a4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Project/Restaurant Intelligence System/Note 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Note 1"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d1e312ab749a2b8b",
+    "type": "split",
+    "children": [
+      {
+        "id": "00ea8d87245a29b9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5715ee7f490332bf",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "04d8c213d6248828",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "348fb87706fcd19b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 297.5
+  },
+  "right": {
+    "id": "f3d7dbb0b3824ae7",
+    "type": "split",
+    "children": [
+      {
+        "id": "1610c5c99d3da98f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "231cb62b96d366e6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Project/Restaurant Intelligence System/Note 1.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Note 1"
+            }
+          },
+          {
+            "id": "2bbef83e9747ebed",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Welcome.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Welcome"
+            }
+          },
+          {
+            "id": "cc7d84ea43d9a746",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "60ff83646fad9037",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "41f09197afc1b138",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Welcome.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Welcome"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-excalidraw-plugin:New drawing": false
+    }
+  },
+  "active": "5715ee7f490332bf",
+  "lastOpenFiles": [
+    "README.md",
+    "Project/Restaurant Intelligence System/Note 1.md",
+    "SQL Learning/SQL Concept.md",
+    "Project/Restaurant Intelligence System",
+    "Project",
+    "SQL Learning/Pasted image 20260309085702.png",
+    "SQL Learning/Pasted image 20260309085600.png",
+    "DSA/DSA - Stack and Queue Fundamentals.md",
+    "SQL Learning",
+    "USE _CASE_DIAGRAM.png",
+    "Excalidraw/Drawing 2026-03-07 17.58.57.excalidraw.md",
+    "Welcome.md",
+    "Untitled.canvas",
+    "Excalidraw",
+    "DSA",
+    "Untitled 1"
+  ]
+}

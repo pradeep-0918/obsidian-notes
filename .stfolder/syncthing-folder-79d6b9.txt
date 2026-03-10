@@ -1,0 +1,5 @@
+# This directory is a Syncthing folder marker.
+# Do not delete.
+
+folderID: r4lam-mjcnk
+created: 2026-03-05T15:38:23+05:30
