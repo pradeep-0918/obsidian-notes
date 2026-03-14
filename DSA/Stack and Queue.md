@@ -156,3 +156,5 @@ int value = stack[top];
 *Pop operation*-  `stack.remove()stack.size()-1;`
 *peek opeartion* - `stack.get(stack.size() - 1);`
 
+
+

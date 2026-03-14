@@ -55,16 +55,352 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project/Restaurant Intelligence System/Note 2.md",
+                "file": "DSA/Stack and Queue.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Note 2"
+              "title": "Stack and Queue"
+            }
+          },
+          {
+            "id": "1754f01e4551c7bc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DSA/Arrays.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Arrays"
+            }
+          },
+          {
+            "id": "27e0d7e052a07a62",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DSA/Strings.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Strings"
+            }
+          },
+          {
+            "id": "05496f48b6ae0878",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DSA/Linked List.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Linked List"
+            }
+          },
+          {
+            "id": "f1ebe159ed0240a1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DSA/Tree.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Tree"
+            }
+          },
+          {
+            "id": "ae2023217fd7d26f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DSA/Graph.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Graph"
+            }
+          },
+          {
+            "id": "6c96f90db6e7f49d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DSA/Dynamic Programing.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Dynamic Programing"
+            }
+          },
+          {
+            "id": "96fa0b107379a5a0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DSA/Monotonicstack.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Monotonicstack"
+            }
+          },
+          {
+            "id": "3d63fd27bdba21f3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataEngineering/SQL.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "SQL"
+            }
+          },
+          {
+            "id": "fb396c84cf85e312",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataEngineering/SQL.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "SQL"
+            }
+          },
+          {
+            "id": "bec26f6535f968b0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataEngineering/DataModeling.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "DataModeling"
+            }
+          },
+          {
+            "id": "a123c139466853c0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataEngineering/ETL.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ETL"
+            }
+          },
+          {
+            "id": "173c05f5179a5e3c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataEngineering/Spark.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Spark"
+            }
+          },
+          {
+            "id": "c7cf5e676a06720b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataEngineering/Kafka.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Kafka"
+            }
+          },
+          {
+            "id": "18deef1e76dcc9d5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataEngineering/Airflow.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Airflow"
+            }
+          },
+          {
+            "id": "24201f509fdabedf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataEngineering/DatawareHouse.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "DatawareHouse"
+            }
+          },
+          {
+            "id": "01001f1df14122ba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataEngineering/SystemDesign.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "SystemDesign"
+            }
+          },
+          {
+            "id": "6c2abe797f345b21",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Projects/Datapipelineproject.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Datapipelineproject"
+            }
+          },
+          {
+            "id": "e99a01a04a353661",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Projects/AnalyticsProject.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "AnalyticsProject"
+            }
+          },
+          {
+            "id": "0ec9de1bb2a84c83",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Projects/AIProjects.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "AIProjects"
+            }
+          },
+          {
+            "id": "57ec46bb3b970192",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Competitons/Kaggle.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Kaggle"
+            }
+          },
+          {
+            "id": "fde707e1ef2bbfbb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Competitons/Hackathons.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Hackathons"
+            }
+          },
+          {
+            "id": "488a300088b33deb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Competitons/Hackathons.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Hackathons"
+            }
+          },
+          {
+            "id": "f1fe5ad1dc075441",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "WSL SETUP/LINUX UBUNTU.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "LINUX UBUNTU"
+            }
+          },
+          {
+            "id": "744e6467305f3f3d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Roadmap/Note.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Note"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 27
       }
     ],
     "direction": "vertical"
@@ -238,27 +574,47 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "d653a6a94a28d454",
+  "active": "744e6467305f3f3d",
   "lastOpenFiles": [
-    "Project/Restaurant Intelligence System/Note 1.md",
-    "Project/Restaurant Intelligence System/Note 2.md",
     "WSL SETUP/LINUX UBUNTU.md",
-    "WSL SETUP",
-    "DSA/DSA - Stack and Queue Fundamentals.md",
-    "DSA/hello.md",
+    "Roadmap/Note.md",
+    "Roadmap",
+    "LinuxCommands/Untitled.md",
+    "DSA/Dynamic Programing.md",
+    "LinuxCommands",
+    "DSA/Linked List.md",
+    "DSA/Graph.md",
+    "DSA/Stack and Queue.md",
+    "DSA/Monotonicstack.md",
+    "DSA/Strings.md",
+    "DataEngineering/Python.md",
     "README.md",
-    "SQL Learning/SQL Concept.md",
-    "Project/Restaurant Intelligence System",
-    "Project",
+    "Welcome.md",
+    "Competitons/CodingContests.md",
+    "DailyLogs",
+    "Projects/Untitled 2.md",
+    "Projects/Untitled 1.md",
+    "Competitons/Hackathons.md",
+    "Competitons/Kaggle.md",
+    "Projects/AIProjects.md",
+    "Competitons",
+    "Projects/AnalyticsProject.md",
+    "Projects/Datapipelineproject.md",
+    "DataEngineering/SystemDesign.md",
+    "Projects",
+    "DataEngineering/DatawareHouse.md",
+    "DataEngineering/Airflow.md",
+    "DataEngineering/Kafka.md",
+    "DataEngineering/Spark.md",
+    "DataEngineering/ETL.md",
+    "DataEngineering",
+    "WSL SETUP",
+    "RelearningProject/Restaurant Intelligence System",
+    "RelearningProject",
     "SQL Learning/Pasted image 20260309085702.png",
     "SQL Learning/Pasted image 20260309085600.png",
     "SQL Learning",
     "USE _CASE_DIAGRAM.png",
-    "Excalidraw/Drawing 2026-03-07 17.58.57.excalidraw.md",
-    "Welcome.md",
-    "Untitled.canvas",
-    "Excalidraw",
-    "DSA",
-    "Untitled 1"
+    "Untitled.canvas"
   ]
 }
