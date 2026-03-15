@@ -212,7 +212,6 @@ SQL is designed to **communicate with relational databases**. It allows you to:
 - [[Spark & PySpark]]
 - [[Data Warehouse Design]]
 
----
 
 ## 🧠 Key Mental Models
 
