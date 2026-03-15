@@ -391,16 +391,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Roadmap/Note.md",
+                "file": "DataEngineering/SQL.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Note"
+              "title": "SQL"
+            }
+          },
+          {
+            "id": "20d6ee17da2c9dc6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SQL/SQL Intro.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "SQL Intro"
             }
           }
         ],
-        "currentTab": 27
+        "currentTab": 28
       }
     ],
     "direction": "vertical"
@@ -574,10 +588,23 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "744e6467305f3f3d",
+  "active": "20d6ee17da2c9dc6",
   "lastOpenFiles": [
-    "WSL SETUP/LINUX UBUNTU.md",
+    "SQL/SQL Basics.md",
+    "SQL/SQL Intro.md",
+    "SQL/TCL - Transaction Control Language.md",
+    "SQL/DML - Data Manipulation Language.md",
+    "SQL/DCL - Data Control Language.md",
+    "SQL/DDL - Data Definition Language.md",
+    "SQL/Data Engineering.md",
+    "DataEngineering/SQL.md",
+    "SQL/SQL Basic.md",
     "Roadmap/Note.md",
+    "SQL",
+    "DataEngineering/Python.md",
+    "DataEngineering/dbt — Data Build Tool.md",
+    "DataEngineering/Python + SQL with Pandas & SQLAlchemy.md",
+    "WSL SETUP/LINUX UBUNTU.md",
     "Roadmap",
     "LinuxCommands/Untitled.md",
     "DSA/Dynamic Programing.md",
@@ -587,33 +614,20 @@
     "DSA/Stack and Queue.md",
     "DSA/Monotonicstack.md",
     "DSA/Strings.md",
-    "DataEngineering/Python.md",
     "README.md",
     "Welcome.md",
     "Competitons/CodingContests.md",
     "DailyLogs",
     "Projects/Untitled 2.md",
     "Projects/Untitled 1.md",
-    "Competitons/Hackathons.md",
-    "Competitons/Kaggle.md",
-    "Projects/AIProjects.md",
     "Competitons",
-    "Projects/AnalyticsProject.md",
-    "Projects/Datapipelineproject.md",
-    "DataEngineering/SystemDesign.md",
     "Projects",
-    "DataEngineering/DatawareHouse.md",
-    "DataEngineering/Airflow.md",
-    "DataEngineering/Kafka.md",
-    "DataEngineering/Spark.md",
-    "DataEngineering/ETL.md",
     "DataEngineering",
     "WSL SETUP",
     "RelearningProject/Restaurant Intelligence System",
     "RelearningProject",
     "SQL Learning/Pasted image 20260309085702.png",
     "SQL Learning/Pasted image 20260309085600.png",
-    "SQL Learning",
     "USE _CASE_DIAGRAM.png",
     "Untitled.canvas"
   ]
