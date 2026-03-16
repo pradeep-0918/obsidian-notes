@@ -405,12 +405,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SQL/DDL - Data Definition Language.md",
+                "file": "SQL/SQL Intro.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "DDL - Data Definition Language"
+              "title": "SQL Intro"
             }
           }
         ],
@@ -591,11 +591,11 @@
   "active": "20d6ee17da2c9dc6",
   "lastOpenFiles": [
     "SQL/SQL Basics.md",
-    "SQL/SQL Intro.md",
     "SQL/TCL - Transaction Control Language.md",
-    "SQL/DML - Data Manipulation Language.md",
-    "SQL/DCL - Data Control Language.md",
     "SQL/DDL - Data Definition Language.md",
+    "SQL/DML - Data Manipulation Language.md",
+    "SQL/SQL Intro.md",
+    "SQL/DCL - Data Control Language.md",
     "SQL/Data Engineering.md",
     "DataEngineering/SQL.md",
     "SQL/SQL Basic.md",

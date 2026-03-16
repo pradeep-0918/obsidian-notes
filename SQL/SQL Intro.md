@@ -64,7 +64,7 @@ SQL is designed to **communicate with relational databases**. It allows you to:
 
 #### 1.1 Basic Queries
 
-- [ ] `SELECT`, `FROM`, `WHERE`
+- [x] `SELECT`, `FROM`, `WHERE`
 - [ ] `ORDER BY`, `LIMIT`, `DISTINCT`
 - [ ] Filtering with `AND`, `OR`, `NOT`, `IN`, `BETWEEN`, `LIKE`
 
