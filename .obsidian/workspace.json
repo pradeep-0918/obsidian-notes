@@ -405,12 +405,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SQL/Sql ctas temptables ctes.md",
+                "file": "Roadmap/Note.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sql ctas temptables ctes"
+              "title": "Note"
             }
           }
         ],
@@ -588,19 +588,19 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "20d6ee17da2c9dc6",
+  "active": "5715ee7f490332bf",
   "lastOpenFiles": [
     "SQL/Sql ctas temptables ctes.md",
-    "SQL/SQL Intro.md",
-    "SQL/SQL Basics.md",
-    "SQL/TCL - Transaction Control Language.md",
+    "Roadmap/Note.md",
     "SQL/DDL - Data Definition Language.md",
+    "SQL/SQL Basics.md",
+    "SQL/SQL Intro.md",
+    "SQL/TCL - Transaction Control Language.md",
     "SQL/DML - Data Manipulation Language.md",
     "SQL/DCL - Data Control Language.md",
     "SQL/Data Engineering.md",
     "DataEngineering/SQL.md",
     "SQL/SQL Basic.md",
-    "Roadmap/Note.md",
     "SQL",
     "DataEngineering/Python.md",
     "DataEngineering/dbt — Data Build Tool.md",
