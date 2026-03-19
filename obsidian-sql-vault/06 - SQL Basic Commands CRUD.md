@@ -1,0 +1,255 @@
+# 06 — SQL Basic Commands (CRUD)
+
+#beginner #dml #interview
+
+---
+
+## 🧠 Introduction
+
+**CRUD** = Create, Read, Update, Delete — the four fundamental operations on data.
+
+> Every application in the world — Instagram, Swiggy, Amazon — is built on top of CRUD. Master these and you have the foundation of everything.
+
+---
+
+## 🏗️ Setup — Sample Tables
+
+```sql
+CREATE DATABASE ecommerce;
+USE ecommerce;
+
+CREATE TABLE users (
+    user_id   INT PRIMARY KEY AUTO_INCREMENT,
+    name      VARCHAR(100) NOT NULL,
+    email     VARCHAR(255) UNIQUE,
+    city      VARCHAR(50),
+    joined_at DATE
+);
+
+CREATE TABLE orders (
+    order_id   INT PRIMARY KEY AUTO_INCREMENT,
+    user_id    INT,
+    product    VARCHAR(100),
+    amount     DECIMAL(10,2),
+    order_date DATE,
+    status     ENUM('pending','shipped','delivered','cancelled')
+);
+```
+
+---
+
+## 🟢 CREATE — INSERT
+
+Add new records to a table.
+
+### Single Row
+
+```sql
+INSERT INTO users (name, email, city, joined_at)
+VALUES ('Priya Sharma', 'priya@email.com', 'Chennai', '2024-01-15');
+```
+
+### Multiple Rows (Efficient — one round trip to DB)
+
+```sql
+INSERT INTO users (name, email, city, joined_at)
+VALUES 
+    ('Ravi Kumar',   'ravi@email.com',   'Bangalore', '2024-02-10'),
+    ('Anita Desai',  'anita@email.com',  'Mumbai',    '2024-03-05'),
+    ('Suresh Nair',  'suresh@email.com', 'Hyderabad', '2024-01-20');
+```
+
+### Insert from Another Table
+
+```sql
+-- Copy data from one table to another
+INSERT INTO archived_users (user_id, name, email)
+SELECT user_id, name, email
+FROM users
+WHERE joined_at < '2023-01-01';
+```
+
+---
+
+## 🔵 READ — SELECT
+
+The most used command. Fetch data from tables.
+
+### Basic SELECT
+
+```sql
+-- All columns
+SELECT * FROM users;
+
+-- Specific columns
+SELECT name, city FROM users;
+
+-- With condition
+SELECT name, email FROM users WHERE city = 'Chennai';
+```
+
+### ORDER BY
+
+```sql
+-- Sort ascending (default)
+SELECT name, joined_at FROM users ORDER BY joined_at;
+
+-- Sort descending
+SELECT name, joined_at FROM users ORDER BY joined_at DESC;
+
+-- Multiple sort columns
+SELECT name, city, joined_at FROM users ORDER BY city, joined_at DESC;
+```
+
+### LIMIT & OFFSET (Pagination)
+
+```sql
+-- First 10 users
+SELECT * FROM users LIMIT 10;
+
+-- Users 11-20 (page 2)
+SELECT * FROM users LIMIT 10 OFFSET 10;
+
+-- Top 5 highest orders
+SELECT * FROM orders ORDER BY amount DESC LIMIT 5;
+```
+
+### DISTINCT
+
+```sql
+-- Unique cities where users live
+SELECT DISTINCT city FROM users;
+
+-- Count distinct cities
+SELECT COUNT(DISTINCT city) AS unique_cities FROM users;
+```
+
+---
+
+## 🟡 UPDATE — Modify Records
+
+```sql
+-- Update single field
+UPDATE users
+SET city = 'Delhi'
+WHERE user_id = 1;
+
+-- Update multiple fields
+UPDATE users
+SET city = 'Pune', name = 'Priya S.'
+WHERE user_id = 1;
+
+-- Update based on condition
+UPDATE orders
+SET status = 'cancelled'
+WHERE order_date < '2024-01-01' AND status = 'pending';
+
+-- Update with calculation
+UPDATE orders
+SET amount = amount * 1.18   -- Apply 18% GST
+WHERE order_date >= '2024-04-01';
+```
+
+> ⚠️ Always use WHERE with UPDATE — without it, ALL rows get updated!
+
+---
+
+## 🔴 DELETE — Remove Records
+
+```sql
+-- Delete specific row
+DELETE FROM users WHERE user_id = 5;
+
+-- Delete based on condition
+DELETE FROM orders WHERE status = 'cancelled' AND order_date < '2023-01-01';
+
+-- Delete all rows (DML — can rollback)
+DELETE FROM temp_users;
+
+-- Safe deletion pattern
+START TRANSACTION;
+DELETE FROM orders WHERE user_id = 10;
+-- Verify count
+SELECT ROW_COUNT();  -- Returns number of deleted rows
+COMMIT;  -- or ROLLBACK if something seems off
+```
+
+---
+
+## 🌍 Real-World Use Case — E-Commerce
+
+```sql
+-- New user registration
+INSERT INTO users (name, email, city, joined_at)
+VALUES ('Karthik M.', 'karthik@gmail.com', 'Chennai', CURDATE());
+
+-- User places an order
+INSERT INTO orders (user_id, product, amount, order_date, status)
+VALUES (LAST_INSERT_ID(), 'iPhone 15', 79999.00, CURDATE(), 'pending');
+
+-- Fetch user's order history
+SELECT o.order_id, o.product, o.amount, o.status
+FROM orders o
+WHERE o.user_id = 1
+ORDER BY o.order_date DESC;
+
+-- Mark order as shipped
+UPDATE orders SET status = 'shipped' WHERE order_id = 101;
+
+-- User deletes account (soft delete pattern)
+ALTER TABLE users ADD COLUMN is_deleted BOOLEAN DEFAULT FALSE;
+UPDATE users SET is_deleted = TRUE WHERE user_id = 1;
+-- (Don't actually DELETE — preserve order history)
+```
+
+---
+
+## 💼 Interview Questions
+
+1. **What is the difference between DELETE and TRUNCATE?**
+   > DELETE is DML, can use WHERE clause, can be rolled back, slower. TRUNCATE is DDL, removes all rows, auto-commits, faster, resets AUTO_INCREMENT.
+
+2. **How do you prevent accidentally updating all rows?**
+   > Always use a WHERE clause. Enable `sql_safe_updates = 1` in MySQL Workbench/session.
+
+3. **What does `LAST_INSERT_ID()` return?**
+   > The AUTO_INCREMENT ID generated by the most recent INSERT in the current session.
+
+4. **How do you implement pagination in SQL?**
+   > Use `LIMIT n OFFSET m` where n = page size, m = (page_number - 1) * page_size.
+
+5. **Scenario:** *"You need to move all orders from 2022 to an archive table and delete them from the main table. How?"*
+   ```sql
+   START TRANSACTION;
+   INSERT INTO orders_archive SELECT * FROM orders WHERE YEAR(order_date) = 2022;
+   DELETE FROM orders WHERE YEAR(order_date) = 2022;
+   COMMIT;
+   ```
+
+---
+
+## 💡 Tips & Best Practices
+
+- Use `SELECT` with specific column names instead of `*` in production (performance)
+- Always wrap related INSERT + DELETE operations in a transaction
+- Use `LIMIT 1` when you expect exactly one row — faster and safer
+- Test your `WHERE` clause with a `SELECT` first before running `UPDATE` or `DELETE`
+
+---
+
+## ⚠️ Common Mistakes
+
+- `UPDATE` without `WHERE` → updates all rows!
+- `DELETE` without `WHERE` → deletes all rows!
+- Using `SELECT *` in production queries — wastes bandwidth and CPU
+- Not using `LAST_INSERT_ID()` after insert — leads to extra SELECT queries
+
+---
+
+## 🔗 Related Topics
+
+- [[09 - WHERE Clause]] — Filtering data precisely
+- [[12 - Aggregation Functions]] — COUNT, SUM, AVG with SELECT
+- [[05 - DDL DML TCL DCL]] — SQL command categories
+- [[22 - Joins]] — Combine data from multiple tables
+- [[28 - COMMIT ROLLBACK]] — Transaction safety
