@@ -389,10 +389,14 @@
             "id": "744e6467305f3f3d",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "DataEngineering_Obsidian_Vault/Apache Spark.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Apache Spark"
             }
           }
         ],
@@ -449,8 +453,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -573,6 +576,18 @@
   },
   "active": "744e6467305f3f3d",
   "lastOpenFiles": [
+    "DataEngineering_Obsidian_Vault/Big Data Technologies.md",
+    "DataEngineering_Obsidian_Vault/Cloud for Data Engineering.md",
+    "DataEngineering_Obsidian_Vault/Data Engineering Blueprint Index.md",
+    "DataEngineering_Obsidian_Vault/Strategy/Top 1% Data Engineer Strategy.md",
+    "DataEngineering_Obsidian_Vault/Projects/Project 11-25 - Advanced Projects.md",
+    "DataEngineering_Obsidian_Vault/Projects/Project 06-10 - API to Enterprise CSV.md",
+    "DataEngineering_Obsidian_Vault/Projects/Project 02-05 - Scraper to Clickstream.md",
+    "DataEngineering_Obsidian_Vault/Projects/Project 01 - CSV Data Pipeline.md",
+    "DataEngineering_Obsidian_Vault/Concepts/Core Concepts & Advanced Tools.md",
+    "DataEngineering_Obsidian_Vault/Career/Data Engineer Career Roadmap.md",
+    "DataEngineering_Obsidian_Vault/Interview Preparation.md",
+    "DataEngineering_Obsidian_Vault/Career",
     "DSA-Notes/DSA Problem Bank.md",
     "DSA-Notes/Algorithms Index.md",
     "DSA-Notes/Algorithms/Two Pointers.md",
@@ -592,23 +607,11 @@
     "RelearningProject/Restaurant Intelligence System",
     "RelearningProject",
     "Projects/Datapipelineproject.md",
-    "Projects/AnalyticsProject.md",
-    "Projects/AIProjects.md",
     "Projects",
     "LinuxCommands",
-    "DSA/Tree.md",
-    "DSA/Strings.md",
-    "DSA/Stack and Queue.md",
-    "DSA/Monotonicstack.md",
-    "DSA/Linked List.md",
-    "DSA/Graph.md",
-    "DSA/Dynamic Programing.md",
-    "DSA/Arrays.md",
     "DSA",
-    "DataEngineering_Obsidian_Vault/SQL for Data Engineering.md",
     "DataEngineering_Obsidian_Vault",
     "DataEngineering",
-    "DailyLogs",
     "SQL Learning/Pasted image 20260309085702.png",
     "SQL Learning/Pasted image 20260309085600.png",
     "USE _CASE_DIAGRAM.png",
