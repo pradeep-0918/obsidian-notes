@@ -18,6 +18,20 @@
             }
           },
           {
+            "id": "ce7a1c4fc9287b63",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2026-03-22.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-03-22"
+            }
+          },
+          {
             "id": "5dad96cd7a0766a4",
             "type": "leaf",
             "state": {
@@ -367,7 +381,8 @@
               "title": "01 - Event Overview"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -541,8 +556,20 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "17300b865d0bbe2f",
+  "active": "ce7a1c4fc9287b63",
   "lastOpenFiles": [
+    "Untitled.base",
+    "2026-03-22.md",
+    "Excalidraw/Drawing 2026-03-22 20.23.33.excalidraw.md",
+    "Excalidraw",
+    "SQL/40 - Data Engineering Concepts.md",
+    "DSA-Notes/Templates/Problem Template.md",
+    "DSA-Notes/Templates/Note Template.md",
+    "aptitude_vault/QA_06_Ages.md",
+    "aptitude_vault/00_Master_Index.md",
+    "DSA-Notes/DataStructures/Array.md",
+    "DSA-Notes/Algorithms/2D Grid DP.md",
+    "aptitude_vault/01_Quant_Index.md",
     "aptitude_vault/VM_10_Drills_Practice.md",
     "aptitude_vault/VM_09_Algebra_Drills.md",
     "aptitude_vault/VM_08_Fractions_Decimals.md",
@@ -554,21 +581,10 @@
     "aptitude_vault/VM_01_Sutras_Overview.md",
     "aptitude_vault/VM_00_Vedic_Index.md",
     "aptitude_vault/VM_06_Squaring_Roots_Cubing.md",
-    "aptitude_vault/00_Master_Index.md",
     "SQL/11 - Keys.md",
     "aptitude_vault/QA_15_Number_System.md",
     "aptitude_vault/QA_14_Mixtures_Alligations.md",
     "aptitude_vault/QA_13_Percentage.md",
-    "aptitude_vault/QA_12_Probability.md",
-    "aptitude_vault/QA_11_SI_CI.md",
-    "aptitude_vault/QA_10_Area_Mensuration.md",
-    "aptitude_vault/QA_09_Ratio_Proportion.md",
-    "aptitude_vault/QA_08_Permutations_Combinations.md",
-    "aptitude_vault/QA_07_Profit_Loss.md",
-    "aptitude_vault/QA_06_Ages.md",
-    "aptitude_vault/QA_05_Train_Problems.md",
-    "aptitude_vault/QA_04_HCF_LCM.md",
-    "aptitude_vault/QA_03_Time_Work.md",
     "aptitude_vault",
     "Aptitude",
     "Event",
@@ -577,8 +593,6 @@
     "SQL Learning",
     "Roadmap",
     "RelearningProject/Restaurant Intelligence System",
-    "RelearningProject",
-    "Projects",
     "SQL Learning/Pasted image 20260309085702.png",
     "SQL Learning/Pasted image 20260309085600.png",
     "USE _CASE_DIAGRAM.png",
