@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "aptitude_vault/VM_02_Addition_Subtraction.md",
+                "file": "Event/06 - Organizer Checklist.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "VM_02_Addition_Subtraction"
+              "title": "06 - Organizer Checklist"
             }
           },
           {
@@ -561,11 +561,11 @@
   },
   "active": "17300b865d0bbe2f",
   "lastOpenFiles": [
+    "aptitude_vault/VM_02_Addition_Subtraction.md",
     "aptitude_vault/VM_08_Fractions_Decimals.md",
     "aptitude_vault/VM_06_Squaring_Roots_Cubing.md",
     "aptitude_vault/VM_05_Division.md",
     "aptitude_vault/VM_03_Multiplication_Core.md",
-    "aptitude_vault/VM_02_Addition_Subtraction.md",
     "aptitude_vault/VM_01_Sutras_Overview.md",
     "aptitude_vault/VM_00_Vedic_Index.md",
     "aptitude_vault/02_Reasoning_Index.md",
