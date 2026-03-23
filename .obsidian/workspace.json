@@ -11,10 +11,14 @@
             "id": "17300b865d0bbe2f",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "DSA-Notes/DataStructures/String.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "String"
             }
           },
           {
@@ -381,8 +385,7 @@
               "title": "01 - Event Overview"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -556,10 +559,16 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "ce7a1c4fc9287b63",
+  "active": "17300b865d0bbe2f",
   "lastOpenFiles": [
-    "Untitled.base",
+    "aptitude_vault/VM_00_Vedic_Index.md",
+    "aptitude_vault/QA_15_Number_System.md",
+    "aptitude_vault/QA_14_Mixtures_Alligations.md",
+    "aptitude_vault/VM_01_Sutras_Overview.md",
+    "Event/00 - Home.md",
+    "Untitled 1.base",
     "2026-03-22.md",
+    "Untitled.base",
     "Excalidraw/Drawing 2026-03-22 20.23.33.excalidraw.md",
     "Excalidraw",
     "SQL/40 - Data Engineering Concepts.md",
@@ -578,12 +587,8 @@
     "aptitude_vault/VM_04_Multiplication_Advanced.md",
     "aptitude_vault/VM_03_Multiplication_Core.md",
     "aptitude_vault/VM_02_Addition_Subtraction.md",
-    "aptitude_vault/VM_01_Sutras_Overview.md",
-    "aptitude_vault/VM_00_Vedic_Index.md",
     "aptitude_vault/VM_06_Squaring_Roots_Cubing.md",
     "SQL/11 - Keys.md",
-    "aptitude_vault/QA_15_Number_System.md",
-    "aptitude_vault/QA_14_Mixtures_Alligations.md",
     "aptitude_vault/QA_13_Percentage.md",
     "aptitude_vault",
     "Aptitude",
@@ -592,7 +597,6 @@
     "DataEngineering_Obsidian_Vault/Career",
     "SQL Learning",
     "Roadmap",
-    "RelearningProject/Restaurant Intelligence System",
     "SQL Learning/Pasted image 20260309085702.png",
     "SQL Learning/Pasted image 20260309085600.png",
     "USE _CASE_DIAGRAM.png",

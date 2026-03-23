@@ -1,3 +1,4 @@
+
 # 🕉️ Vedic Mathematics — Complete System Index
 > Part of [[00_Master_Index]] | The Ancient Speed Calculation System
 
