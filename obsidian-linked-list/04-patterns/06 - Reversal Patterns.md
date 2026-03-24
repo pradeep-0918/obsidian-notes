@@ -1,4 +1,4 @@
-# 06 — Reversal Patterns
+  v# 06 — Reversal Patterns
 
 > **MOC:** [[Linked List MOC]] | **Prev:** [[05 - Two Pointer Patterns]] | **Next:** [[07 - Cycle Detection]]
 

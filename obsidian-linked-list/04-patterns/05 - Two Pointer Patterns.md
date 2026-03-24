@@ -37,7 +37,7 @@ public ListNode findMiddle(ListNode head) {
         fast = fast.next.next;
     }
     return slow;  // slow is at middle
-
+    
     /*
     List: 1→2→3→4→5
     After loop: slow=3 (middle)

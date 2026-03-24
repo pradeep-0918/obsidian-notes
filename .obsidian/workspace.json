@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "obsidian-linked-list/01-fundamentals/02 - Node Anatomy in Java.md",
+                "file": "obsidian-linked-list/06-java-templates/10 - Java Code Templates.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "02 - Node Anatomy in Java"
+              "title": "10 - Java Code Templates"
             }
           },
           {
@@ -561,14 +561,21 @@
   },
   "active": "17300b865d0bbe2f",
   "lastOpenFiles": [
-    "obsidian-linked-list/01-fundamentals/01 - What is a Linked List.md",
+    "Untitled 1.base",
+    "obsidian-linked-list/06-java-templates/10 - Java Code Templates.md",
     "obsidian-linked-list/05-problems/12 - Pro Tips and Gotchas.md",
     "obsidian-linked-list/05-problems/11 - Top 30 Problems Classified.md",
-    "obsidian-linked-list/00-MOC/Linked List MOC.md",
-    "obsidian-linked-list/06-java-templates/10 - Java Code Templates.md",
+    "Untitled.base",
+    "obsidian-linked-list/04-patterns/09 - Recursion on Linked Lists.md",
+    "obsidian-linked-list/04-patterns/08 - Merge and Sort.md",
+    "obsidian-linked-list/04-patterns/07 - Cycle Detection.md",
+    "obsidian-linked-list/04-patterns/05 - Two Pointer Patterns.md",
+    "obsidian-linked-list/04-patterns/06 - Reversal Patterns.md",
     "obsidian-linked-list/03-operations/04 - Core Operations.md",
     "obsidian-linked-list/02-types/03 - Types of Linked Lists.md",
     "obsidian-linked-list/01-fundamentals/02 - Node Anatomy in Java.md",
+    "obsidian-linked-list/01-fundamentals/01 - What is a Linked List.md",
+    "obsidian-linked-list/00-MOC/Linked List MOC.md",
     "DSA-Notes/DataStructures/String.md",
     "aptitude_vault/VM_09_Algebra_Drills.md",
     "aptitude_vault/VM_03_Multiplication_Core.md",
@@ -581,14 +588,6 @@
     "aptitude_vault/VM_01_Sutras_Overview.md",
     "aptitude_vault/02_Reasoning_Index.md",
     "aptitude_vault/00_Master_Index.md",
-    "DSA-Notes/DSA Problem Bank.md",
-    "DSA-Notes/DataStructures/Hash Map.md",
-    "DSA-Notes/DataStructures/Hash Set.md",
-    "DSA-Notes/Data Structures Index.md",
-    "aptitude_vault/QA_15_Number_System.md",
-    "aptitude_vault/QA_14_Mixtures_Alligations.md",
-    "Untitled 1.base",
-    "Untitled.base",
     "Excalidraw",
     "aptitude_vault",
     "Aptitude",
