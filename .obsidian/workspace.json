@@ -13,12 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "obsidian-linked-list/06-java-templates/10 - Java Code Templates.md",
+                "file": "obsidian-vault/01-Projects/P2-Loan-Default/P2 - Loan Default Prediction.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "10 - Java Code Templates"
+              "title": "P2 - Loan Default Prediction"
+            }
+          },
+          {
+            "id": "5e9c0cdd9f0023eb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "obsidian-vault/01-Projects/P2-Loan-Default/Topics.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Topics"
             }
           },
           {
@@ -385,7 +399,8 @@
               "title": "01 - Event Overview"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -559,43 +574,44 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "17300b865d0bbe2f",
+  "active": "5e9c0cdd9f0023eb",
   "lastOpenFiles": [
-    "Untitled 1.base",
+    "obsidian-vault/01-Projects/P2-Loan-Default/P2 - Loan Default Prediction.md",
+    "obsidian-vault/01-Projects/P2-Loan-Default/Topics.md",
+    "obsidian-vault/01-Projects/P1-ETL-Pipeline/P1 - ETL Data Pipeline.md",
+    "obsidian-vault/00-Home/Project Roadmap.md",
+    "obsidian-vault/00-Home/Dashboard.md",
+    "obsidian-linked-list/04-patterns/06 - Reversal Patterns.md",
+    "obsidian-vault/01-Projects/P4-Mortgage-Analytics/P4 - Mortgage Market Analytics.md",
+    "obsidian-vault/01-Projects/P5-Stock-Sentiment/P5 - Stock Sentiment NLP.md",
+    "obsidian-vault/01-Projects/P3-Fraud-Detection/P3 - Fraud Detection System.md",
+    "obsidian-vault/01-Projects/P5-Stock-Sentiment",
+    "obsidian-vault/01-Projects/P3-Fraud-Detection",
+    "obsidian-vault/01-Projects/P4-Mortgage-Analytics",
+    "obsidian-vault/01-Projects/P2-Loan-Default",
+    "obsidian-vault/01-Projects/P1-ETL-Pipeline",
+    "obsidian-vault/01-Projects",
+    "obsidian-vault/00-Home/≡ƒù║∩╕Å Project Roadmap.md",
+    "obsidian-vault/00-Home/≡ƒÅá Dashboard.md",
+    "obsidian-vault/00-Home",
+    "obsidian-vault/02-Study-Notes/DataEngineering/Data Engineering Notes.md",
+    "obsidian-vault/02-Study-Notes/DataEngineering",
+    "obsidian-vault/02-Study-Notes/SQL/SQL Notes.md",
+    "obsidian-vault/02-Study-Notes/Python/Python Notes.md",
+    "obsidian-vault/02-Study-Notes/ML/ML Notes.md",
+    "obsidian-vault/02-Study-Notes/SQL",
+    "obsidian-vault/02-Study-Notes/Python",
+    "obsidian-linked-list/04-patterns/05 - Two Pointer Patterns.md",
     "obsidian-linked-list/06-java-templates/10 - Java Code Templates.md",
     "obsidian-linked-list/05-problems/12 - Pro Tips and Gotchas.md",
     "obsidian-linked-list/05-problems/11 - Top 30 Problems Classified.md",
-    "Untitled.base",
     "obsidian-linked-list/04-patterns/09 - Recursion on Linked Lists.md",
     "obsidian-linked-list/04-patterns/08 - Merge and Sort.md",
     "obsidian-linked-list/04-patterns/07 - Cycle Detection.md",
-    "obsidian-linked-list/04-patterns/05 - Two Pointer Patterns.md",
-    "obsidian-linked-list/04-patterns/06 - Reversal Patterns.md",
     "obsidian-linked-list/03-operations/04 - Core Operations.md",
     "obsidian-linked-list/02-types/03 - Types of Linked Lists.md",
     "obsidian-linked-list/01-fundamentals/02 - Node Anatomy in Java.md",
     "obsidian-linked-list/01-fundamentals/01 - What is a Linked List.md",
-    "obsidian-linked-list/00-MOC/Linked List MOC.md",
-    "DSA-Notes/DataStructures/String.md",
-    "aptitude_vault/VM_09_Algebra_Drills.md",
-    "aptitude_vault/VM_03_Multiplication_Core.md",
-    "aptitude_vault/VM_00_Vedic_Index.md",
-    "Event/06 - Organizer Checklist.md",
-    "aptitude_vault/VM_02_Addition_Subtraction.md",
-    "aptitude_vault/VM_08_Fractions_Decimals.md",
-    "aptitude_vault/VM_06_Squaring_Roots_Cubing.md",
-    "aptitude_vault/VM_05_Division.md",
-    "aptitude_vault/VM_01_Sutras_Overview.md",
-    "aptitude_vault/02_Reasoning_Index.md",
-    "aptitude_vault/00_Master_Index.md",
-    "Excalidraw",
-    "aptitude_vault",
-    "Aptitude",
-    "Event",
-    "AI-Detective-Vault",
-    "DataEngineering_Obsidian_Vault/Career",
-    "SQL Learning",
-    "Roadmap",
     "SQL Learning/Pasted image 20260309085702.png",
     "SQL Learning/Pasted image 20260309085600.png",
     "USE _CASE_DIAGRAM.png",
