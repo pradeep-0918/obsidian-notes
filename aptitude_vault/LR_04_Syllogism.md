@@ -15,6 +15,8 @@ Syllogism tests **logical deduction** — given statements, determine which conc
 
 ---
 
+
+/
 ## 📌 The Four Statement Types
 
 | Type | Form | Symbol | Venn Diagram |
@@ -155,7 +157,7 @@ For a conclusion to be valid:
    > II: Since some pens are pencils and all books are pens: books are a subset of pens. Some pencils overlap with pens but not necessarily books → **Invalid**
    > **Neither follows**
 
-2. All cats are dogs. All dogs are animals.
+2. All cats are dogs. All do+1gs are animals.
    Conclusions: I. All cats are animals. II. All animals are dogs.
    > I: All cats→dogs→animals, so all cats are animals → **Valid (follows)**
    > II: We only know dogs are animals, but animals may not all be dogs → **Invalid**
