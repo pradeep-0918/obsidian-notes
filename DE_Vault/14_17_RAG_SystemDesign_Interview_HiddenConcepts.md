@@ -1,7 +1,7 @@
 # 14 — GenAI & RAG Pipelines for Data Engineers
 #rag #llm #embeddings #vector-db #langchain #chunking #evaluation
 
-**Roadmap Days:** 25–26 | [[00_Master_Index]] | Prev → [[11_14_Delta_Kafka_Flink]] | Next → [[15_System_Design_DE]]
+**Roadmap Days:** 25–26 | [[DE_Vault/00_Master_Index]] | Prev → [[11_14_Delta_Kafka_Flink]] | Next → [[15_System_Design_DE]]
 
 ---
 
@@ -294,7 +294,7 @@ dag_instance = document_ingestion_pipeline()
 # 15 — System Design for Data Engineers
 #system-design #architecture #lakehouse #streaming #fraud-detection
 
-**Roadmap Day:** 30 | [[00_Master_Index]] | Prev → [[14_GenAI_RAG_Pipelines]] | Next → [[16_Interview_Prep]]
+**Roadmap Day:** 30 | [[DE_Vault/00_Master_Index]] | Prev → [[14_GenAI_RAG_Pipelines]] | Next → [[16_Interview_Prep]]
 
 ---
 
@@ -433,7 +433,7 @@ Serving (FastAPI):
 # 16 — Interview Prep Reference
 #interview #sql #spark #kafka #dbt #system-design
 
-**[[00_Master_Index]]** | Prev → [[15_System_Design_DE]]
+**[[DE_Vault/00_Master_Index]]** | Prev → [[15_System_Design_DE]]
 
 ---
 
@@ -530,7 +530,7 @@ WHEN NOT MATCHED THEN
 # 17 — Hidden Concepts, Tips & Tricks
 #hidden #tips #tricks #advanced #gotchas
 
-**[[00_Master_Index]]** | The stuff tutorials skip.
+**[[DE_Vault/00_Master_Index]]** | The stuff tutorials skip.
 
 ---
 

@@ -1,6 +1,6 @@
 
 # 🕉️ Vedic Mathematics — Complete System Index
-> Part of [[00_Master_Index]] | The Ancient Speed Calculation System
+> Part of [[aptitude_vault/00_Master_Index]] | The Ancient Speed Calculation System
 
 ---
 
@@ -118,7 +118,7 @@ Verifying your answer?
 - [[CALC_02_Mental_Math_System]] — Full exam mental math system
 - [[03_Formula_Sheet]] — All aptitude formulas
 - [[06_Exam_Strategy]] — How to use speed math in exams
-- [[00_Master_Index]] — Main dashboard
+- [[aptitude_vault/00_Master_Index]] — Main dashboard
 
 ---
 

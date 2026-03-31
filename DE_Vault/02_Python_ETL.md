@@ -1,7 +1,7 @@
 # 02 — Python for Data Engineering
 #python #etl #oop #async #pydantic #testing #cli
 
-**Roadmap Days:** 3–4 | [[00_Master_Index]] | Prev → [[01_SQL_Advanced]] | Next → [[03_Linux_Shell]]
+**Roadmap Days:** 3–4 | [[DE_Vault/00_Master_Index]] | Prev → [[01_SQL_Advanced]] | Next → [[03_Linux_Shell]]
 
 ---
 

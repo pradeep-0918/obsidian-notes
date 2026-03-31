@@ -1,5 +1,5 @@
 # 📅 30-Day Preparation Roadmap
-> 🔙 [[00_Master_Index]] | A structured path from beginner to exam-ready
+> 🔙 [[aptitude_vault/00_Master_Index]] | A structured path from beginner to exam-ready
 
 ---
 
@@ -303,4 +303,4 @@ Night (15 min):
 
 ---
 
-*🔙 [[00_Master_Index]] | Test day tactics: [[06_Exam_Strategy]]*
+*🔙 [[aptitude_vault/00_Master_Index]] | Test day tactics: [[06_Exam_Strategy]]*

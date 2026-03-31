@@ -1,5 +1,5 @@
 # ✖️ VM-03: Core Multiplication — Nikhilam & Urdhva-Tiryak
-> Part of [[VM_00_Vedic_Index]] | 🔙 [[00_Master_Index]]
+> Part of [[VM_00_Vedic_Index]] | 🔙 [[aptitude_vault/00_Master_Index]]
 
 ---
 

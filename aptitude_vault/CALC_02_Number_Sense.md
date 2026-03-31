@@ -1,5 +1,5 @@
 # 🔭 Number Sense — Pattern Recognition & Estimation
-> Part of [[VM_00_Vedic_Index]] | 🔙 [[00_Master_Index]]
+> Part of [[VM_00_Vedic_Index]] | 🔙 [[aptitude_vault/00_Master_Index]]
 
 ---
 
@@ -421,4 +421,4 @@ For average speed problems:
 
 ---
 
-*⬅️ [[CALC_01_Mental_Math_Master]] | 🔙 [[00_Master_Index]]*
+*⬅️ [[CALC_01_Mental_Math_Master]] | 🔙 [[aptitude_vault/00_Master_Index]]*

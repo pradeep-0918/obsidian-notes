@@ -1,7 +1,7 @@
 # 📊 Quantitative Aptitude — Master Index
 
 > *All quant topics organized for systematic study*
-> 🔙 Back to [[00_Master_Index]]
+> 🔙 Back to [[aptitude_vault/00_Master_Index]]
 
 ---
 
@@ -84,4 +84,4 @@ Full problem bank → [[04_Problem_Bank]]
 
 ---
 
-*🔙 [[00_Master_Index]] | ➡️ [[02_Reasoning_Index]]*
+*🔙 [[aptitude_vault/00_Master_Index]] | ➡️ [[02_Reasoning_Index]]*

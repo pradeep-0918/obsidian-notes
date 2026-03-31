@@ -1,7 +1,7 @@
 # 🧠 Logical Reasoning — Master Index
 
 > *All reasoning topics organized for systematic study*
-> 🔙 Back to [[00_Master_Index]]
+> 🔙 Back to [[aptitude_vault/00_Master_Index]]
 
 ---
 
@@ -105,4 +105,4 @@
 
 ---
 
-*🔙 [[00_Master_Index]] | ⬅️ [[01_Quant_Index]]*
+*🔙 [[aptitude_vault/00_Master_Index]] | ⬅️ [[01_Quant_Index]]*

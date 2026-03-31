@@ -1,7 +1,7 @@
 # 09 — Snowflake
 #snowflake #data-warehouse #time-travel #zero-copy #streams #tasks
 
-**Roadmap Day:** 17 | [[00_Master_Index]] | Prev → [[08_AWS_Data_Services]] | Next → [[10_dbt]]
+**Roadmap Day:** 17 | [[DE_Vault/00_Master_Index]] | Prev → [[08_AWS_Data_Services]] | Next → [[10_dbt]]
 
 ---
 

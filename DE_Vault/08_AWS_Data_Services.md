@@ -1,7 +1,7 @@
 # 08 — AWS Core Data Services
 #aws #s3 #glue #athena #kinesis #lambda #redshift #emr #iam
 
-**Roadmap Days:** 15–16 | [[00_Master_Index]] | Prev → [[07_Data_Modeling]] | Next → [[09_Snowflake]]
+**Roadmap Days:** 15–16 | [[DE_Vault/00_Master_Index]] | Prev → [[07_Data_Modeling]] | Next → [[09_Snowflake]]
 
 ---
 

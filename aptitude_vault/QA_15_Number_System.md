@@ -1,5 +1,5 @@
 # 🔢 Number System
-> Part of [[01_Quant_Index]] | 🔙 [[00_Master_Index]]
+> Part of [[01_Quant_Index]] | 🔙 [[aptitude_vault/00_Master_Index]]
 
 **Difficulty:** ⭐⭐⭐ Medium | **Exam Weight:** High
 

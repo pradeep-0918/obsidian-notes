@@ -1,5 +1,5 @@
 # 📐 Formula Sheet — Quick Revision
-> 🔙 [[00_Master_Index]] | All formulas in one place for rapid review
+> 🔙 [[aptitude_vault/00_Master_Index]] | All formulas in one place for rapid review
 
 ---
 
@@ -336,4 +336,4 @@ Multiples: (6,8,10) (9,12,15) (10,24,26) etc.
 
 ---
 
-*🔙 [[00_Master_Index]] | Vedic Details: [[VM_00_Vedic_Index]]*
+*🔙 [[aptitude_vault/00_Master_Index]] | Vedic Details: [[VM_00_Vedic_Index]]*

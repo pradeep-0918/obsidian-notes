@@ -1,7 +1,7 @@
 # 05 — Spark Structured Streaming
 #spark #streaming #watermark #kafka #checkpointing
 
-**Roadmap Day:** 10 | [[00_Master_Index]] | Prev → [[04_Apache_Spark]] | Next → [[06_Apache_Airflow]]
+**Roadmap Day:** 10 | [[DE_Vault/00_Master_Index]] | Prev → [[04_Apache_Spark]] | Next → [[06_Apache_Airflow]]
 
 ---
 

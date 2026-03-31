@@ -1,7 +1,7 @@
 # 11 — Delta Lake & Databricks
 #delta-lake #databricks #acid #time-travel #merge #optimize #zorder #cdf
 
-**Roadmap Day:** 19 | [[00_Master_Index]] | Prev → [[10_dbt]] | Next → [[12_Apache_Kafka]]
+**Roadmap Day:** 19 | [[DE_Vault/00_Master_Index]] | Prev → [[10_dbt]] | Next → [[12_Apache_Kafka]]
 
 ---
 
@@ -162,7 +162,7 @@ SELECT * FROM table_changes('events', 0, 5);
 # 12 — Apache Kafka
 #kafka #streaming #producer #consumer #schema-registry #debezium #exactly-once
 
-**Roadmap Days:** 22–23 | [[00_Master_Index]] | Prev → [[11_Delta_Lake_Databricks]] | Next → [[13_Apache_Flink]]
+**Roadmap Days:** 22–23 | [[DE_Vault/00_Master_Index]] | Prev → [[11_Delta_Lake_Databricks]] | Next → [[13_Apache_Flink]]
 
 ---
 
@@ -423,7 +423,7 @@ kafka-consumer-groups.sh \
 # 13 — Apache Flink
 #flink #streaming #stateful #watermarks #windows #checkpointing
 
-**Roadmap Day:** 24 | [[00_Master_Index]] | Prev → [[12_Apache_Kafka]] | Next → [[14_GenAI_RAG_Pipelines]]
+**Roadmap Day:** 24 | [[DE_Vault/00_Master_Index]] | Prev → [[12_Apache_Kafka]] | Next → [[14_GenAI_RAG_Pipelines]]
 
 ---
 

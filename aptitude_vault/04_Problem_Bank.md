@@ -1,5 +1,5 @@
 # 🧪 Problem Bank — 100+ Curated Questions
-> 🔙 [[00_Master_Index]] | Organized by topic and difficulty
+> 🔙 [[aptitude_vault/00_Master_Index]] | Organized by topic and difficulty
 
 **Legend:** ⭐ Easy | ⭐⭐ Medium | ⭐⭐⭐ Hard | ✅ Answer provided
 
@@ -240,4 +240,4 @@
 
 ---
 
-*🔙 [[00_Master_Index]] | Formulas: [[03_Formula_Sheet]] | Strategy: [[06_Exam_Strategy]]*
+*🔙 [[aptitude_vault/00_Master_Index]] | Formulas: [[03_Formula_Sheet]] | Strategy: [[06_Exam_Strategy]]*

@@ -1,7 +1,7 @@
 # 04 — Apache Spark Deep Dive
 #spark #pyspark #optimization #catalyst #tungsten #aqe #interview
 
-**Roadmap Days:** 8–9 | [[00_Master_Index]] | Prev → [[03_Linux_Shell]] | Next → [[05_Structured_Streaming]]
+**Roadmap Days:** 8–9 | [[DE_Vault/00_Master_Index]] | Prev → [[03_Linux_Shell]] | Next → [[05_Structured_Streaming]]
 
 ---
 

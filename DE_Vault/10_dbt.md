@@ -1,7 +1,7 @@
 # 10 — dbt (Data Build Tool)
 #dbt #sql #data-transformation #incremental #snapshots #testing #cicd
 
-**Roadmap Day:** 18 | [[00_Master_Index]] | Prev → [[09_Snowflake]] | Next → [[11_Delta_Lake_Databricks]]
+**Roadmap Day:** 18 | [[DE_Vault/00_Master_Index]] | Prev → [[09_Snowflake]] | Next → [[11_Delta_Lake_Databricks]]
 
 ---
 

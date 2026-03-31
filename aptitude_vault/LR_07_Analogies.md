@@ -1,5 +1,5 @@
 # 🔗 Analogies
-> Part of [[02_Reasoning_Index]] | 🔙 [[00_Master_Index]]
+> Part of [[02_Reasoning_Index]] | 🔙 [[aptitude_vault/00_Master_Index]]
 
 **Difficulty:** ⭐⭐ Easy | **Exam Weight:** High | **Time per Q:** 30–45 sec
 

@@ -27,12 +27,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SQL/22 - Joins.md",
+                "file": "SQL/12 - Aggregation Functions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "22 - Joins"
+              "title": "12 - Aggregation Functions"
+            }
+          },
+          {
+            "id": "892aceb25a0de41b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "aptitude_vault/Time distance speed/02 - The Magic Triangle.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "02 - The Magic Triangle"
             }
           },
           {
@@ -400,7 +414,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -574,34 +588,36 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "5e9c0cdd9f0023eb",
+  "active": "892aceb25a0de41b",
   "lastOpenFiles": [
-    "SQL/17 - String Functions.md",
-    "SQL/06 - SQL Basic Commands CRUD.md",
-    "SQL/07 - CREATE TABLE Variants.md",
-    "SQL/08 - ALTER TABLE.md",
-    "SQL/09 - WHERE Clause.md",
+    "aptitude_vault/Time distance speed/01 - The Big Idea (Feynman Start).md",
+    "aptitude_vault/00_Master_Index.md",
+    "aptitude_vault/Time distance speed/HOME - Time Speed Distance Vault.md",
+    "aptitude_vault/QA_02_Time_Distance.md",
+    "aptitude_vault/Time distance speed/03 - Unit Conversion (The Secret Weapon).md",
+    "aptitude_vault/Time distance speed/02 - The Magic Triangle.md",
+    "aptitude_vault/Time distance speed/10 - Cheat Sheet (Exam Day).md",
+    "aptitude_vault/Time distance speed/09 - Practice Problems (Leveled).md",
+    "aptitude_vault/Time distance speed/08 - Shortcut Tricks Master Sheet.md",
+    "aptitude_vault/Time distance speed/07 - Boats & Streams.md",
+    "aptitude_vault/Time distance speed/06 - Trains & Platforms.md",
+    "aptitude_vault/Time distance speed/05 - Relative Speed.md",
+    "aptitude_vault/Time distance speed/04 - Average Speed (The Tricky One).md",
+    "Notes/1.notes1.md",
+    "aptitude_vault/Time distance speed",
+    "DSA-Notes/DataStructures/Stack.md",
+    "Notes",
+    "DSA-Notes/DataStructures/Suffix Tree.md",
+    "DSA-Notes/DataStructures/Sparse Array.md",
+    "SQL/22 - Joins.md",
+    "SQL/12 - Aggregation Functions.md",
     "SQL/11 - Keys.md",
     "SQL/10 - SQL Constraints.md",
-    "SQL/12 - Aggregation Functions.md",
-    "SQL/14 - Alias.md",
+    "SQL/09 - WHERE Clause.md",
+    "SQL/08 - ALTER TABLE.md",
+    "Excalidraw/Drawing 2026-03-30 09.58.57.excalidraw.md",
+    "SQL/21 - Views.md",
     "SQL/18 - Date and Time.md",
-    "DSA-Notes/DataStructures/Stack.md",
-    "DSA-Notes/DataStructures/Simple Queue.md",
-    "DSA-Notes/DataStructures/Array.md",
-    "DSA-Notes/DataStructures/Dynamic Array.md",
-    "DSA-Notes/DataStructures/Sparse Array.md",
-    "DSA-Notes/DataStructures/String.md",
-    "DSA-Notes/DataStructures/Linked List.md",
-    "DSA-Notes/DataStructures/Singly Linked List.md",
-    "DSA-Notes/DataStructures/Doubly Linked List.md",
-    "DSA-Notes/DataStructures/Circular Linked List.md",
-    "DSA-Notes/DataStructures/Queue.md",
-    "DSA-Notes/DataStructures/Priority Queue.md",
-    "DSA-Notes/DataStructures/Quad Tree.md",
-    "DE_Vault/04_Apache_Spark.md",
-    "DE_Vault/07_Data_Modeling.md",
-    "DE_Vault/05_Structured_Streaming.md",
     "DE_Vault",
     "obsidian-vault/01-Projects/P5-Stock-Sentiment",
     "obsidian-vault/01-Projects/P3-Fraud-Detection",
@@ -610,8 +626,6 @@
     "obsidian-vault/01-Projects/P1-ETL-Pipeline",
     "obsidian-vault/01-Projects",
     "obsidian-vault/00-Home",
-    "obsidian-vault/02-Study-Notes/DataEngineering",
-    "obsidian-vault/02-Study-Notes/SQL",
     "SQL Learning/Pasted image 20260309085702.png",
     "SQL Learning/Pasted image 20260309085600.png",
     "USE _CASE_DIAGRAM.png",

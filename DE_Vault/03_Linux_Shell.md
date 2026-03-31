@@ -1,7 +1,7 @@
 # 03 — Linux + Shell Scripting
 #linux #bash #shell #cron #ssh #text-processing
 
-**Roadmap Day:** 5 | [[00_Master_Index]] | Prev → [[02_Python_ETL]] | Next → [[04_Apache_Spark]]
+**Roadmap Day:** 5 | [[DE_Vault/00_Master_Index]] | Prev → [[02_Python_ETL]] | Next → [[04_Apache_Spark]]
 
 ---
 

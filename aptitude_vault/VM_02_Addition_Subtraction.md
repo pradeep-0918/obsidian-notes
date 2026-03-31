@@ -1,5 +1,5 @@
 # ➕➖ VM-02: Vedic Addition & Subtraction
-> Part of [[VM_00_Vedic_Index]] | 🔙 [[00_Master_Index]]
+> Part of [[VM_00_Vedic_Index]] | 🔙 [[aptitude_vault/00_Master_Index]]
 
 ---
 

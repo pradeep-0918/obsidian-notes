@@ -1,7 +1,7 @@
 # 01 — SQL Advanced
 #sql #window-functions #cte #indexing #transactions #optimization
 
-**Roadmap Days:** 1–2 | [[00_Master_Index]] | Next → [[02_Python_ETL]]
+**Roadmap Days:** 1–2 | [[DE_Vault/00_Master_Index]] | Next → [[02_Python_ETL]]
 
 ---
 

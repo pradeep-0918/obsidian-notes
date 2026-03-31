@@ -1,7 +1,7 @@
 # 06 — Apache Airflow
 #airflow #orchestration #dag #taskflow #xcom #sensors
 
-**Roadmap Day:** 11 | [[00_Master_Index]] | Prev → [[05_Structured_Streaming]] | Next → [[07_Data_Modeling]]
+**Roadmap Day:** 11 | [[DE_Vault/00_Master_Index]] | Prev → [[05_Structured_Streaming]] | Next → [[07_Data_Modeling]]
 
 ---
 

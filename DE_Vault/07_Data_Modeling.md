@@ -1,7 +1,7 @@
 # 07 — Data Modeling
 #data-modeling #star-schema #scd #normalization #data-vault #cdc
 
-**Roadmap Day:** 12 | [[00_Master_Index]] | Prev → [[06_Apache_Airflow]] | Next → [[08_AWS_Data_Services]]
+**Roadmap Day:** 12 | [[DE_Vault/00_Master_Index]] | Prev → [[06_Apache_Airflow]] | Next → [[08_AWS_Data_Services]]
 
 ---
 

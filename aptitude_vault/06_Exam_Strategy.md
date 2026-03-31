@@ -1,5 +1,5 @@
 # 🏹 Exam Strategy & Tactics
-> 🔙 [[00_Master_Index]] | Your edge on test day
+> 🔙 [[aptitude_vault/00_Master_Index]] | Your edge on test day
 
 ---
 
@@ -239,4 +239,4 @@ After every mock/test:
 
 ---
 
-*🔙 [[00_Master_Index]] | Problems: [[04_Problem_Bank]] | Study Plan: [[05_Study_Plan]]*
+*🔙 [[aptitude_vault/00_Master_Index]] | Problems: [[04_Problem_Bank]] | Study Plan: [[05_Study_Plan]]*

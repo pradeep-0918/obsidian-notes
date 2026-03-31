@@ -1,5 +1,5 @@
 # 📊 Data Sufficiency
-> Part of [[02_Reasoning_Index]] | 🔙 [[00_Master_Index]]
+> Part of [[02_Reasoning_Index]] | 🔙 [[aptitude_vault/00_Master_Index]]
 
 **Difficulty:** ⭐⭐⭐ Medium | **Exam Weight:** Medium | **Time per Q:** 90 sec
 
