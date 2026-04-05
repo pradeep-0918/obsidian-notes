@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java_DSA_Vault/06_Stack.md",
+                "file": "SQL/02 - MySQL Installation Windows.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "06_Stack"
+              "title": "02 - MySQL Installation Windows"
             }
           },
           {
@@ -576,6 +576,15 @@
   },
   "active": "5dad96cd7a0766a4",
   "lastOpenFiles": [
+    "SQL/01 - Introduction.md",
+    "SQL/07 - CREATE TABLE Variants.md",
+    "SQL/06 - SQL Basic Commands CRUD.md",
+    "SQL/05 - DDL DML TCL DCL.md",
+    "SQL/04 - MySQL Notebooks.md",
+    "SQL/02 - MySQL Installation Windows.md",
+    "SQL/08 - ALTER TABLE.md",
+    "SQL/03 - MySQL Installation Linux.md",
+    "Java_DSA_Vault/06_Stack.md",
     "Java_DSA_Vault/07_LinkedList.md",
     "Java_DSA_Vault/09_Tree.md",
     "Java_DSA_Vault/12_StringTokenizer.md",
@@ -587,7 +596,6 @@
     "DSA-Notes/DataStructures/Linked List.md",
     "Java_DSA_Vault/10_Builtin_Functions.md",
     "Java_DSA_Vault/08_Graph.md",
-    "Java_DSA_Vault/06_Stack.md",
     "Java_DSA_Vault/05_Queue.md",
     "Java_DSA_Vault/04_Hashing.md",
     "Java_DSA_Vault",
@@ -595,14 +603,6 @@
     "05_Dynamic_Programming.md",
     "04_Linked_List.md",
     "03_Stack.md",
-    "02_Trees_Binary_Trees.md",
-    "01_Graph_BFS_DFS.md",
-    "00_DSA_INDEX.md",
-    "DSA-Notes/Data Structures Index.md",
-    "DSA-Notes/DSA Problem Bank.md",
-    "DSA-Notes/Templates/Problem Template.md",
-    "DSA-Notes/Templates/Note Template.md",
-    "DSA_Vault/01 - Two Pointers.md",
     "DSA_Vault",
     "blood_relations/Untitled.base",
     "Untitled.canvas",
