@@ -1,5 +1,5 @@
 # 🧩 Syllogism
-### [← Direction Sense](./03_Direction_Sense.md) | [🏠 Index](./00_INDEX.md) | *(End of Series)*
+### [← Direction Sense](03_Direction_Sense.md) | [🏠 Index](Notes/00_INDEX.md) | *(End of Series)*
 
 ---
 
@@ -340,9 +340,9 @@ Step 6: If unsure → draw a VENN DIAGRAM!
 
 | ← Previous | 🏠 Home | Next → |
 |------------|---------|--------|
-| [Direction Sense](./03_Direction_Sense.md) | [Index](./00_INDEX.md) | *(You've completed all topics! 🎉)* |
+| [Direction Sense](03_Direction_Sense.md) | [Index](Notes/00_INDEX.md) | *(You've completed all topics! 🎉)* |
 
 ---
 
 > 🏆 **Congratulations!** You've completed the full Aptitude Master Notes series!
-> Now go back to [the Index](./00_INDEX.md) and review your weak topics. Practice daily and you'll solve these in seconds! 💪
+> Now go back to [the Index](Notes/00_INDEX.md) and review your weak topics. Practice daily and you'll solve these in seconds! 💪

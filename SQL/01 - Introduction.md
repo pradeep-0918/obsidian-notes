@@ -28,7 +28,7 @@ A **DBMS** (Database Management System) is the software that manages that data.
 > For Data Engineering roles, you'll primarily work with **RDBMS + Data Warehouses**.
 
 ---
-
+x
 ## 🔑 Core Concepts
 
 ### Table

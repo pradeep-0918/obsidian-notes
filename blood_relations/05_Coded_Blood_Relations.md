@@ -214,4 +214,4 @@ TRAPS:
 
 > **Next → [[06_Practice_Problems]]** — 30 questions, from Easy to Pro! 💪
 
-*Back to → [[00_INDEX]]*
+*Back to → [[Notes/00_INDEX]]*

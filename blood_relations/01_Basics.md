@@ -1,6 +1,6 @@
 # 01 — What Is Blood Relation? 🧠
 
-> **← [[00_INDEX]] | Next → [[02_Family_Tree_Chart]]**
+> **← [[Notes/00_INDEX]] | Next → [[02_Family_Tree_Chart]]**
 
 ---
 
@@ -138,4 +138,4 @@ Riya's Grandfather
 
 > **Next → [[02_Family_Tree_Chart]]** — See the complete family tree map!
 
-*Back to → [[00_INDEX]]*
+*Back to → [[Notes/00_INDEX]]*

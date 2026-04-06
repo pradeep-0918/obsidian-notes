@@ -1,5 +1,5 @@
 # 🧭 Direction Sense
-### [← Blood Relations](./02_Blood_Relations.md) | [🏠 Index](./00_INDEX.md) | [Syllogism →](./04_Syllogism.md)
+### [← Blood Relations](02_Blood_Relations.md) | [🏠 Index](Notes/00_INDEX.md) | [Syllogism →](04_Syllogism.md)
 
 ---
 
@@ -323,4 +323,4 @@ EVENING → Shadow points EAST (sun is west)
 
 | ← Previous | 🏠 Home | Next → |
 |------------|---------|--------|
-| [Blood Relations](./02_Blood_Relations.md) | [Index](./00_INDEX.md) | [Syllogism](./04_Syllogism.md) |
+| [Blood Relations](02_Blood_Relations.md) | [Index](Notes/00_INDEX.md) | [Syllogism](04_Syllogism.md) |

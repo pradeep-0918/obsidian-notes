@@ -1,7 +1,7 @@
 # 12 — StringTokenizer in Java
 
 #java #stringtokenizer #fastinput #syntax #dsa
-← [[11_BufferedReader]] | Back → [[00_Index]]
+← [[11_BufferedReader]] | Back → [[Notes/00_INDEX]]
 
 ---
 

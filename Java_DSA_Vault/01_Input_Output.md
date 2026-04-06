@@ -1,7 +1,7 @@
 # 01 — Input & Output in Java
 
 #java #input #output #syntax
-← [[00_Index]] | Next → [[02_Arrays]]
+← [[Notes/00_INDEX]] | Next → [[02_Arrays]]
 
 ---
 

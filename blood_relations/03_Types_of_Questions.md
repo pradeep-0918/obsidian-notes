@@ -179,4 +179,4 @@ When you see a question, scan for:
 
 > **Next → [[04_Shortcuts_and_Tricks]]** — The real speed tricks! ⚡
 
-*Back to → [[00_INDEX]]*
+*Back to → [[Notes/00_INDEX]]*

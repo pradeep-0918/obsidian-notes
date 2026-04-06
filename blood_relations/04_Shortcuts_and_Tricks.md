@@ -200,4 +200,4 @@ Answers: 1-Cousin, 2-Sister or Cousin (depends), 3-N/A, 4-Cousin(F), 5-N/A
 
 > **Next → [[05_Coded_Blood_Relations]]** — Decode the symbols! 🔐
 
-*Back to → [[00_INDEX]]*
+*Back to → [[Notes/00_INDEX]]*

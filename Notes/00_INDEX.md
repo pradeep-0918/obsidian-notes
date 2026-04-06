@@ -12,10 +12,10 @@
 
 | # | Topic | What You'll Learn |
 |---|-------|-------------------|
-| 1 | [🔐 Coding & Decoding](./01_Coding_Decoding.md) | Secret codes, letter shifts, number patterns |
-| 2 | [👨‍👩‍👧 Blood Relations](./02_Blood_Relations.md) | Family trees, who is whose what |
-| 3 | [🧭 Direction Sense](./03_Direction_Sense.md) | Left, right, North, South — find your way |
-| 4 | [🧩 Syllogism](./04_Syllogism.md) | Logic with All, Some, No statements |
+| 1 | [🔐 Coding & Decoding](01_Coding_Decoding.md) | Secret codes, letter shifts, number patterns |
+| 2 | [👨‍👩‍👧 Blood Relations](02_Blood_Relations.md) | Family trees, who is whose what |
+| 3 | [🧭 Direction Sense](03_Direction_Sense.md) | Left, right, North, South — find your way |
+| 4 | [🧩 Syllogism](04_Syllogism.md) | Logic with All, Some, No statements |
 
 ---
 
@@ -67,4 +67,4 @@ Step 4 → SIMPLIFY again — use examples & pictures
 
 ---
 
-*Start with [🔐 Coding & Decoding](./01_Coding_Decoding.md) — it's the most fun!* 🎉
+*Start with [🔐 Coding & Decoding](01_Coding_Decoding.md) — it's the most fun!* 🎉

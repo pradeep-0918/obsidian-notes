@@ -1,5 +1,5 @@
 .# 👨‍👩‍👧 Blood Relations
-### [← Coding & Decoding](./01_Coding_Decoding.md) | [🏠 Index](./00_INDEX.md) | [Direction Sense →](./03_Direction_Sense.md)
+### [← Coding & Decoding](01_Coding_Decoding.md) | [🏠 Index](Notes/00_INDEX.md) | [Direction Sense →](03_Direction_Sense.md)
 
 ---
 
@@ -287,4 +287,4 @@ Mother's mother = Grandmother
 
 | ← Previous | 🏠 Home | Next → |
 |------------|---------|--------|
-| [Coding & Decoding](./01_Coding_Decoding.md) | [Index](./00_INDEX.md) | [Direction Sense](./03_Direction_Sense.md) |
+| [Coding & Decoding](01_Coding_Decoding.md) | [Index](Notes/00_INDEX.md) | [Direction Sense](03_Direction_Sense.md) |

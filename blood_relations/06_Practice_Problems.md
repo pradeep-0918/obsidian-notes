@@ -1,6 +1,6 @@
 # 06 — 💪 Practice Problems (Easy → Pro)
 
-> **← [[05_Coded_Blood_Relations]] | Back to → [[00_INDEX]]**
+> **← [[05_Coded_Blood_Relations]] | Back to → [[Notes/00_INDEX]]**
 
 ---
 
@@ -432,4 +432,4 @@ Contradiction in the chain → **Data inconsistent / Cannot be determined**
 
 > 🎉 **Congratulations! You've completed the full Blood Relations vault!**
 
-*Return to → [[00_INDEX]] | Shortcuts → [[04_Shortcuts_and_Tricks]]*
+*Return to → [[Notes/00_INDEX]] | Shortcuts → [[04_Shortcuts_and_Tricks]]*

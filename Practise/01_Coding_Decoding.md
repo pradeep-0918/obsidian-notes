@@ -1,5 +1,5 @@
 # 🔐 Coding & Decoding
-### [← Back to Index](./00_INDEX.md) | Next: [Blood Relations →](./02_Blood_Relations.md)
+### [← Back to Index](Notes/00_INDEX.md) | Next: [Blood Relations →](02_Blood_Relations.md)
 
 ---
 
@@ -233,4 +233,4 @@ Code = 01, 11, 10 ✅
 
 | ← Previous | 🏠 Home | Next → |
 |------------|---------|--------|
-| *(Start)* | [Index](./00_INDEX.md) | [Blood Relations](./02_Blood_Relations.md) |
+| *(Start)* | [Index](Notes/00_INDEX.md) | [Blood Relations](02_Blood_Relations.md) |

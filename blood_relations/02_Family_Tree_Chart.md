@@ -160,4 +160,4 @@ CROSSWAYS = In-laws (marriage relations)
 
 > **Next → [[03_Types_of_Questions]]** — The 5 question types every exam asks!
 
-*Back to → [[00_INDEX]]*
+*Back to → [[Notes/00_INDEX]]*
