@@ -45,7 +45,7 @@ When someone wants to read page 500,000:
 
 ---
 
-## 🔑 HDFS Key Components
+## 🔑 HDFS Key Components -> Master Slave Architecture
 
 ### 1. NameNode (The Brain / Master)
 
@@ -101,7 +101,7 @@ Block 2: bytes 128MB–256MB   → DataNodes: D, E, A
 Block 3: bytes 256MB–384MB   → DataNodes: B, F, G
 Block 4: bytes 384MB–500MB   → DataNodes: C, D, H
 ```
-
+32
 ---
 
 ## 🔁 Replication — Why 3 Copies?
@@ -176,7 +176,7 @@ Step 4: Data streams directly from DataNode to Client
 
 > 🔑 **HDFS does NOT support random writes.** Once a file is written, you can only **append** to it or **delete** it. This is why HDFS is perfect for log files and batch data, but bad for databases.
 
----
+
 
 ## 🚫 HDFS Limitations
 

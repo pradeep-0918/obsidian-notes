@@ -8,7 +8,7 @@
 - *HDFS*
 - *Map & Reduce(Java Batch Processing)*
 - *SQL -> Hive (Facebook Invented) ->(Query Engine) ->(doesn't know about Java)*
-- *50 / 50 -> Linux,java,sql,python and scala*
+- *50 / 50 -> Linux ,java,sql,python and scala*
 - *Yahoo -> Pig Latin(doesn't know about java as well as Sql)*
 - *Scoop -> Group of Contributors -> RDMS* 
 - *OOZIE (Yahoo) -> Scheduler (Automation)* 
@@ -38,3 +38,9 @@ Flume -> RDMS and Batch Processing & Stream Processing
 * 95% Hadoop can be connected by other components.
 * Open Source Tools...
 * Integration (Easy to connect Ml , Ai, Data Science)
+
+file system vs database
+
+## Distributed file System  
+                        > peer to peer communication
+                        > Master & Slave Computing(Hadoop & Spark)
