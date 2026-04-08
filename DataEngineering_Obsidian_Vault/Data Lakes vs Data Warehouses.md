@@ -127,7 +127,7 @@ ML team → reads from S3 Silver directly for model training
 
 - [[Data Warehousing]] — Deep dive into the warehouse side
 - [[Big Data Technologies]] — Hadoop is the original data lake technology
-- [[Apache Spark]] — Primary processing engine for data lakes
+- [[DataEngineering_Obsidian_Vault/Apache Spark]] — Primary processing engine for data lakes
 - [[Cloud for Data Engineering]] — Lakes live in cloud object storage
 - [[ETL vs ELT]] — Pipelines move data between lake layers
 

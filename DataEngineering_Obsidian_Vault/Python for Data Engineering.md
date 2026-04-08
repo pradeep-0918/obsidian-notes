@@ -119,7 +119,7 @@ logger.error("Failed to connect to database")
 | `sqlalchemy` | Database connections (ORM) |
 | `requests` | HTTP API calls |
 | `boto3` | AWS SDK for Python |
-| `pyspark` | Big data processing (see [[Apache Spark]]) |
+| `pyspark` | Big data processing (see [[DataEngineering_Obsidian_Vault/Apache Spark]]) |
 | `great_expectations` | Data quality validation |
 | `python-dotenv` | Manage secrets/config |
 | `loguru` | Better logging |
@@ -141,7 +141,7 @@ logger.error("Failed to connect to database")
 - [[SQL for Data Engineering]] — Use Python to run SQL queries programmatically
 - [[ETL vs ELT]] — Python powers the Extract and Transform steps
 - [[Data Pipelines]] — Pipelines are often written in Python
-- [[Apache Spark]] — PySpark is Python's interface to Spark
+- [[DataEngineering_Obsidian_Vault/Apache Spark]] — PySpark is Python's interface to Spark
 - [[Airflow]] — DAGs (pipeline workflows) are written in Python
 
 ---

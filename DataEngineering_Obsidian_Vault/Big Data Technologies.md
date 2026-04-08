@@ -108,7 +108,7 @@ You can only guarantee **2 of 3:**
 | Tool | Purpose |
 |------|---------|
 | **Apache Hadoop** | Original distributed storage + compute |
-| **Apache Spark** | Fast distributed processing (see [[Apache Spark]]) |
+| **Apache Spark** | Fast distributed processing (see [[DataEngineering_Obsidian_Vault/Apache Spark]]) |
 | **Apache Kafka** | Real-time event streaming (see [[Apache Kafka]]) |
 | **Apache Hive** | SQL on top of HDFS |
 | **Apache Flink** | Real-time stream processing |
@@ -128,7 +128,7 @@ You can only guarantee **2 of 3:**
 
 ## 🔗 Related Notes
 
-- [[Apache Spark]] — The dominant big data processing engine today
+- [[DataEngineering_Obsidian_Vault/Apache Spark]] — The dominant big data processing engine today
 - [[Apache Kafka]] — Handles the Velocity (fast-moving data) problem
 - [[Data Lakes vs Data Warehouses]] — Hadoop/HDFS is the original data lake
 - [[Cloud for Data Engineering]] — Cloud-managed big data services (EMR, Dataproc)
@@ -137,4 +137,4 @@ You can only guarantee **2 of 3:**
 
 ## ➡️ Next Step
 
-[[Apache Spark]] — The most important big data tool you'll use day-to-day.
+[[DataEngineering_Obsidian_Vault/Apache Spark]] — The most important big data tool you'll use day-to-day.

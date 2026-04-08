@@ -179,7 +179,7 @@ DAG Files: stored in /dags/ folder, synced from GitHub
 
 - [[Data Pipelines]] — Airflow orchestrates all types of pipelines
 - [[ETL vs ELT]] — Airflow schedules both ETL and ELT workflows
-- [[Apache Spark]] — Airflow has SparkSubmitOperator to trigger Spark jobs
+- [[DataEngineering_Obsidian_Vault/Apache Spark]] — Airflow has SparkSubmitOperator to trigger Spark jobs
 - [[Apache Kafka]] — Airflow can poll Kafka or trigger jobs from events
 - [[Cloud for Data Engineering]] — Managed Airflow services on each cloud
 

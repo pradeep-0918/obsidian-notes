@@ -88,7 +88,7 @@
 - Athena query showing performance with partition pruning
 - Cost estimate for the pipeline
 
-**Key concepts demonstrated:** [[Data Lakes vs Data Warehouses]] · [[Cloud for Data Engineering]] · [[Apache Spark]]
+**Key concepts demonstrated:** [[Data Lakes vs Data Warehouses]] · [[Cloud for Data Engineering]] · [[DataEngineering_Obsidian_Vault/Apache Spark]]
 
 ---
 
@@ -112,7 +112,7 @@
 - Real-time console output showing processed events
 - GitHub repo with clear README and architecture diagram
 
-**Key concepts demonstrated:** [[Apache Kafka]] · [[Data Pipelines]] · [[Apache Spark]]
+**Key concepts demonstrated:** [[Apache Kafka]] · [[Data Pipelines]] · [[DataEngineering_Obsidian_Vault/Apache Spark]]
 
 ---
 

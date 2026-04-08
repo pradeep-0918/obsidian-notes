@@ -164,7 +164,7 @@ Monitored by: CloudWatch + PagerDuty
 ## 🔗 Related Notes
 
 - [[Data Lakes vs Data Warehouses]] — Both live in cloud storage
-- [[Apache Spark]] — Runs on EMR / Dataproc / Databricks
+- [[DataEngineering_Obsidian_Vault/Apache Spark]] — Runs on EMR / Dataproc / Databricks
 - [[Apache Kafka]] | — AWS MSK / Confluent Cloud are managed Kafka
 - [[Airflow]] — MWAA / Cloud Composer are managed Airflow
 - [[Data Warehousing]] — Redshift / BigQuery / Synapse are cloud warehouses

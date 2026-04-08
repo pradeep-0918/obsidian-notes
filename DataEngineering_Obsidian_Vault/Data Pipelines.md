@@ -118,7 +118,7 @@ Slack alert: "✅ Pipeline completed — 1,247 records loaded"
 | Category | Tools |
 |----------|-------|
 | Orchestration | [[Airflow]], Prefect, Dagster |
-| Batch processing | [[Apache Spark]], dbt, Pandas |
+| Batch processing | [[DataEngineering_Obsidian_Vault/Apache Spark]], dbt, Pandas |
 | Streaming | [[Apache Kafka]], AWS Kinesis, Flink |
 | Managed EL | Fivetran, Airbyte, Stitch |
 | Data quality | Great Expectations, dbt tests |
@@ -141,7 +141,7 @@ Slack alert: "✅ Pipeline completed — 1,247 records loaded"
 - [[ETL vs ELT]] — The core pattern all pipelines implement
 - [[Airflow]] — The most popular tool to orchestrate and schedule pipelines
 - [[Apache Kafka]] — For streaming (real-time) pipelines
-- [[Apache Spark]] — For large-scale batch processing inside pipelines
+- [[DataEngineering_Obsidian_Vault/Apache Spark]] — For large-scale batch processing inside pipelines
 - [[Data Warehousing]] — The most common pipeline destination
 
 ---

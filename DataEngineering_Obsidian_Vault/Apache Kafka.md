@@ -148,7 +148,7 @@ Kafka → S3 (Sink Connector)
 ## 🔗 Related Notes
 
 - [[Big Data Technologies]] — Kafka fits in the Velocity part of Big Data
-- [[Apache Spark]] — Spark Structured Streaming reads from Kafka
+- [[DataEngineering_Obsidian_Vault/Apache Spark]] — Spark Structured Streaming reads from Kafka
 - [[Data Pipelines]] — Kafka is the backbone of streaming pipelines
 - [[Airflow]] — Airflow can trigger jobs based on Kafka events
 - [[Cloud for Data Engineering]] — AWS MSK, Confluent Cloud are managed Kafka services

@@ -46,7 +46,7 @@
 | Step | Topic | What You'll Learn |
 |------|-------|-------------------|
 | 8 | [[Big Data Technologies]] | Hadoop, distributed computing concepts |
-| 9 | [[Apache Spark]] | Distributed data processing at scale |
+| 9 | [[DataEngineering_Obsidian_Vault/Apache Spark]] | Distributed data processing at scale |
 | 10 | [[Apache Kafka]] | Real-time streaming data |
 | 11 | [[Airflow]] | Pipeline orchestration & scheduling |
 
@@ -90,7 +90,7 @@ Version Control → Git, GitHub
 - [[SQL for Data Engineering]] · [[Python for Data Engineering]] · [[Data Modeling]]
 - [[ETL vs ELT]] · [[Data Pipelines]] · [[Data Warehousing]]
 - [[Data Lakes vs Data Warehouses]] · [[Big Data Technologies]]
-- [[Apache Spark]] · [[Apache Kafka]] · [[Airflow]]
+- [[DataEngineering_Obsidian_Vault/Apache Spark]] · [[Apache Kafka]] · [[Airflow]]
 - [[Cloud for Data Engineering]]
 - [[Projects for Data Engineering]] · [[Interview Preparation]]
 
