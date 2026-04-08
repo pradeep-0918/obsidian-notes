@@ -12,10 +12,12 @@
 - *Yahoo -> Pig Latin(doesn't know about java as well as Sql)*
 - *Scoop -> Group of Contributors -> RDMS* 
 - *OOZIE (Yahoo) -> Scheduler (Automation)* 
-## Four Components - > Abstraction of MapReduce() -> Depends on map& Reduce()
+## Four Components - > Abstraction of MapReduce() -> Depends on map& Reduce() -> Java
 
 ```
 HIVE
+MR
+HDFS
 pig Latin
 Scoop
 Oozie
@@ -25,5 +27,6 @@ Oozie
 
 ```
 Hbase - > database(NoSql)
-
+Mahoot -> data science and Machine learning
+Flume -> RDMS and Batch Processing & Stream Processing
 ```
