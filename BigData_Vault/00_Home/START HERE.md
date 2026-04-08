@@ -6,8 +6,8 @@
 
 ## 🗺️ Vault Map
 
-```
-BigData_Vault/
+
+a_Vault/
 ├── 00_Home/           ← You are here
 ├── 01_Fundamentals/   ← What is Big Data? The 5 Vs. Simple explanations.
 ├── 02_History/        ← GFS → MapReduce → Hadoop → Modern Stack
