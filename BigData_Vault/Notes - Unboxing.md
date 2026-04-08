@@ -19,7 +19,7 @@ HIVE
 MR
 HDFS
 pig Latin
-Scoop
+Scoop -> RDMS ->FDFS -> HIVE -> reading same -> (HBASE -> RDMS X  Schema Doesn't understand  in Scoop)
 Oozie
 ```
 
@@ -30,3 +30,7 @@ Hbase - > database(NoSql)
 Mahoot -> data science and Machine learning
 Flume -> RDMS and Batch Processing & Stream Processing
 ```
+
+## Framework
+* Loosely coupled frame work Components... 
+* 
