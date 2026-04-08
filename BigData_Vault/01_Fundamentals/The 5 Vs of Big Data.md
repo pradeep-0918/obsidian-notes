@@ -36,10 +36,10 @@ Imagine you're at a cricket match. You want to update the scoreboard after every
 
 ### Two Modes of Velocity
 
-| Mode | Description | Example |
-|------|-------------|---------|
-| **Batch Processing** | Collect data, then process all at once | Bank reconciliation at midnight |
-| **Stream Processing** | Process data the instant it arrives | Fraud detection on your debit card |
+| Mode                  | Description                            | Example                            |
+| --------------------- | -------------------------------------- | ---------------------------------- |
+| **Batch Processing**  | Collect data, then process all at once | Bank reconciliation at midnight    |
+| **Stream Processing** | Process data the instant it arrives    | Fraud detection on your debit card |
 
 ### Real Example
 - Stock market: **millions of trades per second**, each must be validated instantly
@@ -69,7 +69,6 @@ Unstructured  →  Images, videos, audio, PDFs, social media posts
 
 ### Shocking Stat
 > **80–90% of all data generated today is unstructured.** Traditional SQL databases can't handle this.
-
 ---
 
 ## 4️⃣ Veracity — "How Trustworthy?"

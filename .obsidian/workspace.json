@@ -562,8 +562,9 @@
   },
   "active": "d653a6a94a28d454",
   "lastOpenFiles": [
-    "BigData_Vault/02_History/Hadoop Origin Story.md",
+    "BigData_Vault/01_Fundamentals/What is Big Data.md",
     "BigData_Vault/01_Fundamentals/The 5 Vs of Big Data.md",
+    "BigData_Vault/02_History/Hadoop Origin Story.md",
     "BigData_Vault/03_Hadoop/YARN Explained.md",
     "BigData_Vault/03_Hadoop/MapReduce Explained.md",
     "BigData_Vault/03_Hadoop/HDFS Deep Dive.md",
@@ -576,7 +577,6 @@
     "SQL/05 - DDL DML TCL DCL.md",
     "Videos - Shortcut.lnk",
     "SQL/02 - MySQL Installation Windows.md",
-    "BigData_Vault/01_Fundamentals/What is Big Data.md",
     "BigData_Vault/00_Home/START HERE.md",
     "BigData_Vault/Companies.md",
     "DSA-Notes/DataStructures/Graph.md",
