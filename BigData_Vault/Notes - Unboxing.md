@@ -32,5 +32,9 @@ Flume -> RDMS and Batch Processing & Stream Processing
 ```
 
 ## Framework
+
 * Loosely coupled frame work Components... 
-* 
+* Spark Framework can be connected in Hadoop.
+* 95% Hadoop can be connected by other components.
+* Open Source Tools...
+* Integration (Easy to connect Ml , Ai, Data Science)

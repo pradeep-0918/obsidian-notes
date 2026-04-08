@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BigData_Vault/Notes - Unboxing.md",
+                "file": "BigData_Vault/01_Fundamentals/The 5 Vs of Big Data.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Notes - Unboxing"
+              "title": "The 5 Vs of Big Data"
             }
           },
           {
@@ -563,15 +563,21 @@
   "active": "d653a6a94a28d454",
   "lastOpenFiles": [
     "BigData_Vault/02_History/Hadoop Origin Story.md",
+    "BigData_Vault/01_Fundamentals/The 5 Vs of Big Data.md",
+    "BigData_Vault/03_Hadoop/YARN Explained.md",
+    "BigData_Vault/03_Hadoop/MapReduce Explained.md",
     "BigData_Vault/03_Hadoop/HDFS Deep Dive.md",
+    "BigData_Vault/06_Real_World/Real World Use Cases.md",
+    "BigData_Vault/07_Quick_Reference/Hadoop vs Modern Stack.md",
+    "BigData_Vault/07_Quick_Reference/Big Data Cheat Sheet.md",
+    "BigData_Vault/Apache Spark.md",
     "BigData_Vault/Notes - Unboxing.md",
+    "BigData_Vault/Hadoop_Ecosystem.md",
     "SQL/05 - DDL DML TCL DCL.md",
     "Videos - Shortcut.lnk",
     "SQL/02 - MySQL Installation Windows.md",
     "BigData_Vault/01_Fundamentals/What is Big Data.md",
-    "BigData_Vault/01_Fundamentals/The 5 Vs of Big Data.md",
     "BigData_Vault/00_Home/START HERE.md",
-    "BigData_Vault/Apache Spark.md",
     "BigData_Vault/Companies.md",
     "DSA-Notes/DataStructures/Graph.md",
     "DSA-Notes/DataStructures/Directed Graph.md",
@@ -583,12 +589,6 @@
     "scala-vault/08-Advanced/09-Advanced-Scala.md",
     "scala-vault/07-OOP/08-OOP-Concepts.md",
     "scala-vault/05-Functions/06-Functions.md",
-    "scala-vault/04-Strings-Math/05-Strings-Math.md",
-    "scala-vault/03-Control-Flow/04-Control-Flow.md",
-    "scala-vault/02-Variables-Types/03-Variables-Types.md",
-    "scala-vault/01-Basics/02-Input-Output.md",
-    "scala-vault/01-Basics/01-Basic-Syntax.md",
-    "scala-vault/Scala/01-What-Is-Scala.md",
     "Untitled.canvas",
     "Practise",
     "Untitled.base",
