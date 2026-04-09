@@ -42,5 +42,6 @@ Flume -> RDMS and Batch Processing & Stream Processing
 file system vs database
 
 ## Distributed file System  
-                        > peer to peer communication
-                        > Master & Slave Computing(Hadoop & Spark)
+                        > peer to peer communication(no Spoc and Spof)
+                        > Master & Slave Computing(Hadoop & Spark) -> centralized System -> Single point of failure....Spoof
+                        > 

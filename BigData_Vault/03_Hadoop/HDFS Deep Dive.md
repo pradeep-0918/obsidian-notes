@@ -78,10 +78,10 @@ It's more like a **janitor that tidies up the NameNode's files**, not a standby 
 
 ### Default Block Size
 
-| Version | Default Block Size |
-|---------|------------------|
-| Hadoop 1.x | 64 MB |
-| Hadoop 2.x+ | **128 MB** |
+| Version     | Default Block Size |
+| ----------- | ------------------ |
+| Hadoop 1.x  | 64 MB              |
+| Hadoop 2.x+ | **128 MB**         |
 
 ### Why So Large?
 
