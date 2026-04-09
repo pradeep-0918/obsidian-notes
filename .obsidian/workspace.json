@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BigData_Vault/Distributed_Systems_FAQ.md",
+                "file": "BigData_Vault/Problem in Hadoop Version.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Distributed_Systems_FAQ"
+              "title": "Problem in Hadoop Version"
             }
           },
           {
@@ -576,8 +576,8 @@
   },
   "active": "63316fa47e4761ec",
   "lastOpenFiles": [
-    "BigData_Vault/Problem in Hadoop Version.md",
     "BigData_Vault/Distributed_Systems_FAQ.md",
+    "BigData_Vault/Problem in Hadoop Version.md",
     "BigData_Vault/03_Hadoop/HDFS Deep Dive.md",
     "BigData_Vault/Notes - Unboxing.md",
     "BigData_Vault/03_Hadoop/MapReduce Explained.md",
