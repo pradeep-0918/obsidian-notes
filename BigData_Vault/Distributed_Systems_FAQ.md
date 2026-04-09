@@ -27,7 +27,7 @@
 | NTFS        | 16 KB      |
 | EXT         | 512 KB     |
 
-**Tags:** #block #storage #filesystem
+**Tags:** #block #storage #filesystem 
 
 ---
 
