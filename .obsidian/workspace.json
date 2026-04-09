@@ -576,8 +576,9 @@
   },
   "active": "63316fa47e4761ec",
   "lastOpenFiles": [
-    "BigData_Vault/Distributed_Systems_FAQ.md",
+    "BigData_Vault/Peer-to-Peer_vs_Master-Slave_Communication.md",
     "BigData_Vault/Problem in Hadoop Version.md",
+    "BigData_Vault/Distributed_Systems_FAQ.md",
     "BigData_Vault/03_Hadoop/HDFS Deep Dive.md",
     "BigData_Vault/Notes - Unboxing.md",
     "BigData_Vault/03_Hadoop/MapReduce Explained.md",
@@ -602,7 +603,6 @@
     "scala-vault/10-Cheatsheets/OOP-Cheatsheet.md",
     "scala-vault/10-Cheatsheets/Collections-Cheatsheet.md",
     "scala-vault/09-Data-Engineering/10-Data-Engineering.md",
-    "scala-vault/08-Advanced/09-Advanced-Scala.md",
     "Untitled.canvas",
     "Practise",
     "Untitled.base",
