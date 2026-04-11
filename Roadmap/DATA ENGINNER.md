@@ -124,7 +124,7 @@
 
 ---
 
-### ⚡ Apache Spark — [[DataEngineering_Obsidian_Vault/Apache Spark]]
+### ⚡ Apache Spark — [[Data-Engineering-Vault/DataEngineering_Obsidian_Vault/Apache Spark]]
 
 #### Architecture
 - [ ] Driver vs Executor model

@@ -260,7 +260,7 @@ Flow:  RDBMS ──Sqoop──► HDFS ──► Hive (for querying)
 
 ## 🔗 Related Notes
 
-- [[Apache Spark]]
+- [[BigData_Vault/Apache Spark]]
 - [[HDFS Deep Dive]]
 - [[Data Engineering Pipeline]]
 - [[NoSQL Databases]]
