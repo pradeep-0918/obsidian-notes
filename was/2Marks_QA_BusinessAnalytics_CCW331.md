@@ -16,12 +16,12 @@
 
 ## Q2. Differentiate Logic-Driven and Data-Driven Models.
 
-| Feature | Logic-Driven Models | Data-Driven Models |
-|---------|--------------------|--------------------|
-| **Basis** | Built on rules, assumptions, and domain knowledge | Built by learning patterns from historical data |
-| **Human input** | Heavy — experts define the logic | Minimal — algorithm learns automatically |
-| **Flexibility** | Less flexible; rigid rule structure | Highly flexible; adapts to new data |
-| **Example** | Decision trees with expert-defined rules | Machine learning (Random Forest, Neural Networks) |
+| Feature         | Logic-Driven Models                               | Data-Driven Models                                |
+| --------------- | ------------------------------------------------- | ------------------------------------------------- |
+| **Basis**       | Built on rules, assumptions, and domain knowledge | Built by learning patterns from historical data   |
+| **Human input** | Heavy — experts define the logic                  | Minimal — algorithm learns automatically          |
+| **Flexibility** | Less flexible; rigid rule structure               | Highly flexible; adapts to new data               |
+| **Example**     | Decision trees with expert-defined rules          | Machine learning (Random Forest, Neural Networks) |
 
 - **Logic-driven** = "If this, then that" — driven by human reasoning.
 - **Data-driven** = "Let the data speak" — driven by statistical patterns.

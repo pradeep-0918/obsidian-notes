@@ -51,14 +51,14 @@ Monitor & Retrain (as new data arrives)
 ### ▶ Type 1: Supervised Learning
 > Model learns from **labeled historical data** (input + known output).
 
-| Algorithm | Use Case |
-|-----------|----------|
-| **Linear Regression** | Predict sales revenue from ad spend |
-| **Logistic Regression** | Predict customer churn (Yes/No) |
-| **Decision Trees** | Predict loan approval |
-| **Random Forest** | Demand forecasting |
-| **Gradient Boosting (XGBoost)** | Customer lifetime value prediction |
-| **Neural Networks** | Complex pattern recognition in sales |
+| Algorithm                       | Use Case                             |
+| ------------------------------- | ------------------------------------ |
+| **Linear Regression**           | Predict sales revenue from ad spend  |
+| **Logistic Regression**         | Predict customer churn (Yes/No)      |
+| **Decision Trees**              | Predict loan approval                |
+| **Random Forest**               | Demand forecasting                   |
+| **Gradient Boosting (XGBoost)** | Customer lifetime value prediction   |
+| **Neural Networks**             | Complex pattern recognition in sales |
 
 **Example:**
 > Train a model on 3 years of sales data. Input = month, promotions, weather. Output = sales volume. Model learns the relationship and predicts next month's sales.
@@ -95,15 +95,15 @@ Monitor & Retrain (as new data arrives)
 
 ## 📌 4. ML Predictive Analytics – Business Examples
 
-| Industry | ML Application | Business Benefit |
-|----------|---------------|-----------------|
-| **Retail** | Demand forecasting | Reduce stockouts by 30% |
-| **Banking** | Fraud detection | Prevent financial losses |
-| **Telecom** | Churn prediction | Retain high-value customers |
-| **HR** | Employee attrition prediction | Reduce hiring costs |
-| **Healthcare** | Readmission prediction | Improve patient care |
-| **E-Commerce** | Product recommendation | Increase revenue by 15-35% |
-| **Manufacturing** | Predictive maintenance | Reduce equipment downtime |
+| Industry          | ML Application                | Business Benefit            |
+| ----------------- | ----------------------------- | --------------------------- |
+| **Retail**        | Demand forecasting            | Reduce stockouts by 30%     |
+| **Banking**       | Fraud detection               | Prevent financial losses    |
+| **Telecom**       | Churn prediction              | Retain high-value customers |
+| **HR**            | Employee attrition prediction | Reduce hiring costs         |
+| **Healthcare**    | Readmission prediction        | Improve patient care        |
+| **E-Commerce**    | Product recommendation        | Increase revenue by 15-35%  |
+| **Manufacturing** | Predictive maintenance        | Reduce equipment downtime   |
 
 ---
 
