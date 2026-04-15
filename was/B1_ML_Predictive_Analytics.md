@@ -18,6 +18,13 @@
 > **Predictive Analytics** uses historical data, statistics, and ML models to **forecast future events, behaviors, or trends** in business.
 
 ### Connection:
+56
+
+
+
+
+
+
 > ML is the **engine** that powers modern predictive analytics. Instead of fixed rules, ML models **discover rules from data** and apply them to unseen future data.
 
 ---
