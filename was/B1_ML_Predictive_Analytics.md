@@ -8,7 +8,7 @@
 > 💡 **Feynman Trick:** Imagine teaching a child to recognize dogs. You show 1000 photos of dogs and non-dogs. The child learns the pattern on their own — no rulebook needed. That's **Machine Learning**. Now apply that to business data — the ML model learns patterns from past sales, customers, and trends to **predict the future**.
 
 ---
-
+7
 ## 📌 1. Introduction / Definition
 
 ### What is Machine Learning (ML)?

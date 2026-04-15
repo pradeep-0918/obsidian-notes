@@ -8,6 +8,8 @@
 
 ## 📌 1. Introduction / Definition
 
+
+""""""""""""""""""""""""""""""""""""""""""""""""""""""
 **Arduino** is an **open-source microcontroller platform** used to build interactive electronic projects. It combines hardware (a physical board) and software (Arduino IDE) to read inputs (sensors, buttons) and control outputs (LEDs, motors).
 
 > 🔑 **Key Idea:** Arduino programming follows a **fixed structure** — every sketch (program) has exactly **two mandatory functions**: `setup()` and `loop()`.
