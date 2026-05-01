@@ -87,7 +87,6 @@ BASE_URL=http://localhost:5000
 
 ```js
 import mongoose from "mongoose";
-
 // Define the shape of a URL document in MongoDB
 const urlSchema = new mongoose.Schema(
   {
@@ -155,7 +154,7 @@ router.post("/shorten", async (req, res) => {
       return res.json({
         shortUrl: `${process.env.BASE_URL}/${existing.shortCode}`,
       });
-    }
+	    }
 
     // Step 3: Generate a unique short code
     // nanoid(8) produces 8 random URL-safe characters like "V1StGXR8"

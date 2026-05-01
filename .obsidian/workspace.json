@@ -139,12 +139,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Roadmap/DATA ENGINNER.md",
+                "file": "afford/URL_Shortener_Code_Explanation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "DATA ENGINNER"
+              "title": "URL_Shortener_Code_Explanation"
             }
           },
           {
@@ -646,6 +646,8 @@
   },
   "active": "abc2e903a2cbdedf",
   "lastOpenFiles": [
+    "afford/AffordMed_Backend_Interview_Prep.md",
+    "Roadmap/DATA ENGINNER.md",
     "Assignment/Introduction of IE.md",
     "Assignment/Data wareHouse.md",
     "Assignment/IOT.md",
@@ -671,8 +673,6 @@
     "Data-Engineering-Vault/DataEngineering_Obsidian_Vault/Projects/Project 06-10 - API to Enterprise CSV.md",
     "Data-Engineering-Vault/DataEngineering_Obsidian_Vault/Projects/Project 02-05 - Scraper to Clickstream.md",
     "Data-Engineering-Vault/DataEngineering_Obsidian_Vault/Projects/Project 01 - CSV Data Pipeline.md",
-    "Data-Engineering-Vault/01-Roadmap/Advanced.md",
-    "Data-Engineering-Vault/05-Projects/Intermediate-Projects.md",
     "Iot_notes",
     "was",
     "Data-Engineering-Vault/{01-Roadmap,02-Core-Concepts,03-Tools,04-System-Design,05-Projects,06-Interview-Prep,07-Resources}",
