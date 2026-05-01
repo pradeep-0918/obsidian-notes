@@ -41,7 +41,7 @@
 ### 🗄️ SQL — [[SQL]]
 
 #### Core Topics
-- [ ] DDL / DML / DCL (CREATE, ALTER, DROP, INSERT, UPDATE, DELETE)
+- [x] DDL / DML / DCL (CREATE, ALTER, DROP, INSERT, UPDATE, DELETE)
 - [ ] JOINs — INNER, LEFT, RIGHT, FULL OUTER, CROSS, SELF JOIN
 - [ ] Window Functions — ROW_NUMBER, RANK, DENSE_RANK, LAG, LEAD, NTILE
 - [ ] CTEs & Subqueries — WITH clause, correlated subqueries
