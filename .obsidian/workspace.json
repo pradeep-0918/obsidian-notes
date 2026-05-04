@@ -349,12 +349,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Model_Exam/OOSE -CCS356/5 ) Bamboo — Software Development Tool.md",
+                "file": "Model_Exam/WAS - CCS374/2-Marks Answers.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5 ) Bamboo — Software Development Tool"
+              "title": "2-Marks Answers"
             }
           },
           {
@@ -700,8 +700,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "5715ee7f490332bf",
+  "active": "0d991c2fe891fc20",
   "lastOpenFiles": [
+    "Model_Exam/WAS - CCS374/15-Mark Answers.md",
+    "Model_Exam/WAS - CCS374/2-Marks Answers.md",
+    "Model_Exam/OOSE -CCS356/5 ) Bamboo — Software Development Tool.md",
     "Untitled 1",
     "Model_Exam/WAS - CCS374",
     "Model_Exam/OOSE -CCS356/6 ) Product Breakdown Structure & Product.md",
@@ -710,7 +713,6 @@
     "Model_Exam/OOSE -CCS356/1) Perspectives & Specialized Processes.md",
     "Model_Exam/OOSE -CCS356.zip",
     "Model_Exam/OOSE -CCS356/SET _ B.md",
-    "Model_Exam/OOSE -CCS356/5 ) Bamboo — Software Development Tool.md",
     "Model_Exam/OOSE -CCS356/4 ) White Box, Black Box Testing & Debugging.md",
     "Model_Exam/OOSE -CCS356/3) Observer Design Pattern.md",
     "Model_Exam/OOSE -CCS356/2) Library Management System.md",
@@ -731,13 +733,11 @@
     "SETUP_Fedora_WSL.md",
     "SETUP_Ubuntu_WSL.md",
     "04_to_11_Core_Topics.md",
-    "03_File_Permissions.md",
     "Assignment",
     "Iot_notes",
     "was",
     "Data-Engineering-Vault/{01-Roadmap,02-Core-Concepts,03-Tools,04-System-Design,05-Projects,06-Interview-Prep,07-Resources}",
     "Data-Engineering-Vault/07-Resources",
-    "Data-Engineering-Vault/06-Interview-Prep",
     "Untitled.canvas",
     "SQL Learning/Pasted image 20260309085702.png",
     "SQL Learning/Pasted image 20260309085600.png",
