@@ -349,12 +349,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Model_Exam/IOT- CS3691/8051 Microcontroller Architecture.md",
+                "file": "Career_path/Roadmap.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "8051 Microcontroller Architecture"
+              "title": "Roadmap"
             }
           },
           {
@@ -702,8 +702,10 @@
   },
   "active": "0d991c2fe891fc20",
   "lastOpenFiles": [
-    "Model_Exam/WAS - CCS374/2-Marks Answers.md",
     "Model_Exam/IOT- CS3691/8051 Microcontroller Architecture.md",
+    "Career_path/Roadmap.md",
+    "Career_path",
+    "Model_Exam/WAS - CCS374/2-Marks Answers.md",
     "Model_Exam/IOT- CS3691",
     "Model_Exam/Untitled.md",
     "Model_Exam/WAS - CCS374.zip",
@@ -734,10 +736,8 @@
     "Assignment/Web Technologies.md",
     "Assignment/OOSE.md",
     "SETUP_DualBoot.md",
-    "SETUP_Fedora_WSL.md",
     "Assignment",
     "Iot_notes",
-    "was",
     "Untitled.canvas",
     "SQL Learning/Pasted image 20260309085702.png",
     "SQL Learning/Pasted image 20260309085600.png",

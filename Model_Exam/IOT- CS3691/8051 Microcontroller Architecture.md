@@ -262,7 +262,8 @@ PROGRAM MEMORY (ROM):          DATA MEMORY (RAM):
     - P3.3 = INT1 (External Interrupt 1)
     - P3.4 = T0 (Timer 0 external input)
     - P3.5 = T1 (Timer 1 external input)
-    - P3.6 = WR (Write strobe)
+    
+	- P3.6 = WR (Write strobe)
     - P3.7 = RD (Read strobe)
 
 #### 4. ⏱️ Timer/Counter (Timer 0 & Timer 1)
