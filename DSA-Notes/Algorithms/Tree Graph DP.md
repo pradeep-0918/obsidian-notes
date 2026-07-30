@@ -28,7 +28,7 @@ DP computed on a tree structure where the state of a node depends on states of i
 - Forgetting that max path through a node uses at most two children
 
 ## 🔗 Related Topics
-[[Dynamic Programming]] | [[Depth First Search]] | [[Tree]]
+[[Dynamic Programming]] | [[Depth First Search]] | [[DSA-Notes/DataStructures/Tree]]
 
 ---
 - [ ] Learned  - [ ] Practiced  - [ ] Mastered

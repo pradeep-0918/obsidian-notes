@@ -1530,7 +1530,7 @@
   - Link: https://leetcode.com/problems/minimum-height-trees/
   - Difficulty: Medium
   - Pattern: Topological Sort (Leaf trimming)
-  - Topics: [[Graph]], [[Topological Sort], [[Tree]]
+  - Topics: [[Graph]], [[Topological Sort], [[DSA-Notes/DataStructures/Tree]]
 
 - [ ] Sort Items by Groups Respecting Dependencies
   - Link: https://leetcode.com/problems/sort-items-by-groups-respecting-dependencies/

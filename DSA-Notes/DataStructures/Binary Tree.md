@@ -2,7 +2,7 @@
 
 #DataStructure #NonLinear #Tree
 
-⬅️ [[Tree]] | ➡️ [[Binary Search Tree]]
+⬅️ [[DSA-Notes/DataStructures/Tree]] | ➡️ [[Binary Search Tree]]
 
 ---
 

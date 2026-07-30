@@ -47,7 +47,7 @@
 ### Trees
 | Structure | Status |
 |-----------|--------|
-| [[Tree]] | - [ ] Completed |
+| [[DSA-Notes/DataStructures/Tree]] | - [ ] Completed |
 | [[Binary Tree]] | - [ ] Completed |
 | [[Binary Search Tree]] | - [ ] Completed |
 | [[AVL Tree]] | - [ ] Completed |

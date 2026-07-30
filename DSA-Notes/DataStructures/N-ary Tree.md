@@ -42,7 +42,7 @@ A tree where each node can have at most **N children** (as opposed to 2 in a bin
 - Forgetting to iterate over all children during traversal
 
 ## 🔗 Related Topics
-[[Tree]] | [[Binary Tree]] | [[Depth First Search]] | [[Breadth First Search]]
+[[DSA-Notes/DataStructures/Tree]] | [[Binary Tree]] | [[Depth First Search]] | [[Breadth First Search]]
 
 ## ⬅️ Previous
 [[Binary Tree]]
