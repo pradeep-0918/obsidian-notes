@@ -2,7 +2,7 @@
 
 #Algorithm #Greedy
 
-⬅️ [[Backtracking]] | ➡️ [[Dynamic Programming]]
+⬅️ [[Backtracking]] | ➡️ [[DSA-Notes/Algorithms/Dynamic Programming]]
 
 ---
 
@@ -57,7 +57,7 @@ Usually O(n log n) due to sorting, O(n) for the greedy pass.
 
 ## 🔗 Related Topics
 
-- [[Dynamic Programming]] — when greedy doesn't work
+- [[DSA-Notes/Algorithms/Dynamic Programming]] — when greedy doesn't work
 - [[Heap]] — greedy with priority
 - [[Sorting]] — greedy often needs sorted input
 

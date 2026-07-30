@@ -23,7 +23,7 @@ DP over digits of a number, counting integers in a range [0, N] satisfying certa
 - Not handling leading zeros separately
 
 ## 🔗 Related Topics
-[[Dynamic Programming]] | [[Recursion]]
+[[DSA-Notes/Algorithms/Dynamic Programming]] | [[Recursion]]
 
 ---
 - [ ] Learned  - [ ] Practiced  - [ ] Mastered

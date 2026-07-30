@@ -92,7 +92,7 @@ T(n) = aT(n/b) + f(n)
 ## 🔗 Related Topics
 - [[Backtracking]]
 - [[Divide and Conquer]]
-- [[Dynamic Programming]]
+- [[DSA-Notes/Algorithms/Dynamic Programming]]
 - [[DSA-Notes/DataStructures/Tree]] — Most tree problems use recursion
 
 ---

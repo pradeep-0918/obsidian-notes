@@ -67,7 +67,7 @@ for i in range(n):
 
 - [[Stack]] — underlying structure
 - [[Monotonic Queue]] — deque variant
-- [[Array]] — usually applied to arrays
+- [[DSA-Notes/DataStructures/Array]] — usually applied to arrays
 
 ---
 

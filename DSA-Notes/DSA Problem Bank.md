@@ -18,61 +18,61 @@
   - Link: https://leetcode.com/problems/move-zeroes/
   - Difficulty: Easy
   - Pattern: Two Pointers
-  - Topics: [[Array]], [[Two Pointers]]
+  - Topics: [[DSA-Notes/DataStructures/Array]], [[Two Pointers]]
 
 - [ ] Majority Element
   - Link: https://leetcode.com/problems/majority-element/
   - Difficulty: Easy
   - Pattern: Boyer-Moore Voting
-  - Topics: [[Array]], [[Hash Map]], [[Divide and Conquer]]
+  - Topics: [[DSA-Notes/DataStructures/Array]], [[Hash Map]], [[Divide and Conquer]]
 
 - [ ] Remove Duplicates from Sorted Array
   - Link: https://leetcode.com/problems/remove-duplicates-from-sorted-array/
   - Difficulty: Easy
   - Pattern: Two Pointers
-  - Topics: [[Array]], [[Two Pointers]]
+  - Topics: [[DSA-Notes/DataStructures/Array]], [[Two Pointers]]
 
 - [ ] Best Time to Buy and Sell Stock
   - Link: https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
   - Difficulty: Easy
   - Pattern: Greedy / Kadane's
-  - Topics: [[Array]], [[Greedy Algorithms]], [[Dynamic Programming]]
+  - Topics: [[DSA-Notes/DataStructures/Array]], [[Greedy Algorithms]], [[DSA-Notes/Algorithms/Dynamic Programming]]
 
 - [ ] Rotate Array
   - Link: https://leetcode.com/problems/rotate-array/
   - Difficulty: Medium
   - Pattern: Array Manipulation
-  - Topics: [[Array]], [[Two Pointers]]
+  - Topics: [[DSA-Notes/DataStructures/Array]], [[Two Pointers]]
 
 - [ ] Product of Array Except Self
   - Link: https://leetcode.com/problems/product-of-array-except-self/
   - Difficulty: Medium
   - Pattern: Prefix Sum
-  - Topics: [[Array]], [[Prefix Sum]]
+  - Topics: [[DSA-Notes/DataStructures/Array]], [[Prefix Sum]]
 
 - [ ] Best Time to Buy and Sell Stock II
   - Link: https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/
   - Difficulty: Medium
   - Pattern: Greedy
-  - Topics: [[Array]], [[Greedy Algorithms]], [[Dynamic Programming]]
+  - Topics: [[DSA-Notes/DataStructures/Array]], [[Greedy Algorithms]], [[DSA-Notes/Algorithms/Dynamic Programming]]
 
 - [ ] Number of Zero-Filled Subarrays
   - Link: https://leetcode.com/problems/number-of-zero-filled-subarrays/
   - Difficulty: Medium
   - Pattern: Array Counting
-  - Topics: [[Array]], [[Math]]
+  - Topics: [[DSA-Notes/DataStructures/Array]], [[Math]]
 
 - [ ] Increasing Triplet Subsequence
   - Link: https://leetcode.com/problems/increasing-triplet-subsequence/
   - Difficulty: Medium
   - Pattern: Greedy
-  - Topics: [[Array]], [[Greedy Algorithms]]
+  - Topics: [[DSA-Notes/DataStructures/Array]], [[Greedy Algorithms]]
 
 - [ ] First Missing Positive
   - Link: https://leetcode.com/problems/first-missing-positive/
   - Difficulty: Hard
   - Pattern: Array Hashing
-  - Topics: [[Array]], [[Hash Table]]
+  - Topics: [[DSA-Notes/DataStructures/Array]], [[Hash Table]]
 
 ---
 
@@ -82,7 +82,7 @@
   - Link: https://leetcode.com/problems/is-subsequence/
   - Difficulty: Easy
   - Pattern: Two Pointers
-  - Topics: [[String]], [[Two Pointers]], [[Dynamic Programming]]
+  - Topics: [[String]], [[Two Pointers]], [[DSA-Notes/Algorithms/Dynamic Programming]]
 
 - [ ] Valid Palindrome
   - Link: https://leetcode.com/problems/valid-palindrome/
@@ -100,7 +100,7 @@
   - Link: https://leetcode.com/problems/zigzag-conversion/
   - Difficulty: Medium
   - Pattern: String Simulation
-  - Topics: [[String]], [[Array]]
+  - Topics: [[String]], [[DSA-Notes/DataStructures/Array]]
 
 - [ ] Reverse Words in a String
   - Link: https://leetcode.com/problems/reverse-words-in-a-string/
@@ -112,7 +112,7 @@
   - Link: https://leetcode.com/problems/guess-the-word/
   - Difficulty: Hard
   - Pattern: Minimax / Random
-  - Topics: [[String]], [[Array]]
+  - Topics: [[String]], [[DSA-Notes/DataStructures/Array]]
 
 ---
 
@@ -122,7 +122,7 @@
   - Link: https://leetcode.com/problems/single-number/
   - Difficulty: Easy
   - Pattern: XOR
-  - Topics: [[Array]], [[Bit Manipulation]]
+  - Topics: [[DSA-Notes/DataStructures/Array]], [[Bit Manipulation]]
 
 - [ ] Number of 1 Bits
   - Link: https://leetcode.com/problems/number-of-1-bits/
@@ -134,7 +134,7 @@
   - Link: https://leetcode.com/problems/counting-bits/
   - Difficulty: Easy
   - Pattern: DP + Bits
-  - Topics: [[Bit Manipulation]], [[Dynamic Programming]]
+  - Topics: [[Bit Manipulation]], [[DSA-Notes/Algorithms/Dynamic Programming]]
 
 - [ ] Reverse Bits
   - Link: https://leetcode.com/problems/reverse-bits/
@@ -152,7 +152,7 @@
   - Link: https://leetcode.com/problems/single-number-iii/
   - Difficulty: Medium
   - Pattern: XOR
-  - Topics: [[Array]], [[Bit Manipulation]]
+  - Topics: [[DSA-Notes/DataStructures/Array]], [[Bit Manipulation]]
 
 - [ ] Sum of Two Integers
   - Link: https://leetcode.com/problems/sum-of-two-integers/
@@ -168,7 +168,7 @@
   - Link: https://leetcode.com/problems/design-hashmap/
   - Difficulty: Easy
   - Pattern: Design
-  - Topics: [[Hash Map]], [[Array]], [[Linked List]]
+  - Topics: [[Hash Map]], [[DSA-Notes/DataStructures/Array]], [[Linked List]]
 
 - [ ] Maximum Number of Balloons
   - Link: https://leetcode.com/problems/maximum-number-of-balloons/
@@ -180,7 +180,7 @@
   - Link: https://leetcode.com/problems/number-of-good-pairs/
   - Difficulty: Easy
   - Pattern: Counting
-  - Topics: [[Array]], [[Hash Map]]
+  - Topics: [[DSA-Notes/DataStructures/Array]], [[Hash Map]]
 
 - [ ] Isomorphic Strings
   - Link: https://leetcode.com/problems/isomorphic-strings/
@@ -198,13 +198,13 @@
   - Link: https://leetcode.com/problems/contains-duplicate-ii/
   - Difficulty: Easy
   - Pattern: Sliding Window Hash
-  - Topics: [[Array]], [[Hash Map]], [[Sliding Window]]
+  - Topics: [[DSA-Notes/DataStructures/Array]], [[Hash Map]], [[Sliding Window]]
 
 - [ ] Group Anagrams
   - Link: https://leetcode.com/problems/group-anagrams/
   - Difficulty: Medium
   - Pattern: Grouping
-  - Topics: [[String]], [[Hash Map]], [[Array]]
+  - Topics: [[String]], [[Hash Map]], [[DSA-Notes/DataStructures/Array]]
 
 - [ ] Encode and Decode TinyURL
   - Link: https://leetcode.com/problems/encode-and-decode-tinyurl/
@@ -222,19 +222,19 @@
   - Link: https://leetcode.com/problems/longest-consecutive-sequence/
   - Difficulty: Medium
   - Pattern: Hash Set
-  - Topics: [[Array]], [[Hash Set]]
+  - Topics: [[DSA-Notes/DataStructures/Array]], [[Hash Set]]
 
 - [ ] Split Array into Consecutive Subsequences
   - Link: https://leetcode.com/problems/split-array-into-consecutive-subsequences/
   - Difficulty: Medium
   - Pattern: Greedy + Hash
-  - Topics: [[Array]], [[Hash Map]], [[Greedy Algorithms]]
+  - Topics: [[DSA-Notes/DataStructures/Array]], [[Hash Map]], [[Greedy Algorithms]]
 
 - [ ] Number of Matching Subsequences
   - Link: https://leetcode.com/problems/number-of-matching-subsequences/
   - Difficulty: Medium
   - Pattern: Hash Bucketing
-  - Topics: [[String]], [[Hash Map]], [[Array]]
+  - Topics: [[String]], [[Hash Map]], [[DSA-Notes/DataStructures/Array]]
 
 - [ ] Number of Good Ways to Split a String
   - Link: https://leetcode.com/problems/number-of-good-ways-to-split-a-string/
@@ -250,31 +250,31 @@
   - Link: https://leetcode.com/problems/merge-sorted-array/
   - Difficulty: Easy
   - Pattern: Two Pointers
-  - Topics: [[Array]], [[Two Pointers]]
+  - Topics: [[DSA-Notes/DataStructures/Array]], [[Two Pointers]]
 
 - [ ] Two Sum II - Input Array Is Sorted
   - Link: https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/
   - Difficulty: Medium
   - Pattern: Two Pointers
-  - Topics: [[Array]], [[Two Pointers]], [[Binary Search]]
+  - Topics: [[DSA-Notes/DataStructures/Array]], [[Two Pointers]], [[Binary Search]]
 
 - [ ] Container With Most Water
   - Link: https://leetcode.com/problems/container-with-most-water/
   - Difficulty: Medium
   - Pattern: Two Pointers
-  - Topics: [[Array]], [[Two Pointers]], [[Greedy Algorithms]]
+  - Topics: [[DSA-Notes/DataStructures/Array]], [[Two Pointers]], [[Greedy Algorithms]]
 
 - [ ] 3Sum
   - Link: https://leetcode.com/problems/3sum/
   - Difficulty: Medium
   - Pattern: Two Pointers + Sort
-  - Topics: [[Array]], [[Two Pointers]]
+  - Topics: [[DSA-Notes/DataStructures/Array]], [[Two Pointers]]
 
 - [ ] Trapping Rain Water
   - Link: https://leetcode.com/problems/trapping-rain-water/
   - Difficulty: Hard
   - Pattern: Two Pointers / Stack
-  - Topics: [[Array]], [[Two Pointers]], [[Stack]], [[Dynamic Programming]]
+  - Topics: [[DSA-Notes/DataStructures/Array]], [[Two Pointers]], [[Stack]], [[DSA-Notes/Algorithms/Dynamic Programming]]
 
 ---
 
@@ -284,31 +284,31 @@
   - Link: https://leetcode.com/problems/range-sum-query-immutable/
   - Difficulty: Easy
   - Pattern: Prefix Sum
-  - Topics: [[Array]], [[Prefix Sum]]
+  - Topics: [[DSA-Notes/DataStructures/Array]], [[Prefix Sum]]
 
 - [ ] Subarray Sum Equals K
   - Link: https://leetcode.com/problems/subarray-sum-equals-k/
   - Difficulty: Medium
   - Pattern: Prefix Sum + Hash
-  - Topics: [[Array]], [[Prefix Sum]], [[Hash Map]]
+  - Topics: [[DSA-Notes/DataStructures/Array]], [[Prefix Sum]], [[Hash Map]]
 
 - [ ] Subarray Sums Divisible by K
   - Link: https://leetcode.com/problems/subarray-sums-divisible-by-k/
   - Difficulty: Medium
   - Pattern: Prefix Sum + Modulo
-  - Topics: [[Array]], [[Prefix Sum]], [[Hash Map]]
+  - Topics: [[DSA-Notes/DataStructures/Array]], [[Prefix Sum]], [[Hash Map]]
 
 - [ ] Continuous Subarray Sum
   - Link: https://leetcode.com/problems/continuous-subarray-sum/
   - Difficulty: Medium
   - Pattern: Prefix Sum + Modulo
-  - Topics: [[Array]], [[Prefix Sum]], [[Hash Map]]
+  - Topics: [[DSA-Notes/DataStructures/Array]], [[Prefix Sum]], [[Hash Map]]
 
 - [ ] Contiguous Array
   - Link: https://leetcode.com/problems/contiguous-array/
   - Difficulty: Medium
   - Pattern: Prefix Sum + Hash
-  - Topics: [[Array]], [[Prefix Sum]], [[Hash Map]]
+  - Topics: [[DSA-Notes/DataStructures/Array]], [[Prefix Sum]], [[Hash Map]]
 
 ---
 
@@ -318,7 +318,7 @@
   - Link: https://leetcode.com/problems/maximum-average-subarray-i/
   - Difficulty: Easy
   - Pattern: Fixed Sliding Window
-  - Topics: [[Array]], [[Sliding Window]]
+  - Topics: [[DSA-Notes/DataStructures/Array]], [[Sliding Window]]
 
 - [ ] Find All Anagrams in a String
   - Link: https://leetcode.com/problems/find-all-anagrams-in-a-string/
@@ -336,7 +336,7 @@
   - Link: https://leetcode.com/problems/maximum-sum-of-distinct-subarrays-with-length-k/
   - Difficulty: Medium
   - Pattern: Fixed Sliding Window
-  - Topics: [[Array]], [[Hash Map]], [[Sliding Window]]
+  - Topics: [[DSA-Notes/DataStructures/Array]], [[Hash Map]], [[Sliding Window]]
 
 - [ ] Substring with Concatenation of All Words
   - Link: https://leetcode.com/problems/substring-with-concatenation-of-all-words/
@@ -364,13 +364,13 @@
   - Link: https://leetcode.com/problems/minimum-size-subarray-sum/
   - Difficulty: Medium
   - Pattern: Dynamic Sliding Window
-  - Topics: [[Array]], [[Sliding Window]], [[Binary Search]]
+  - Topics: [[DSA-Notes/DataStructures/Array]], [[Sliding Window]], [[Binary Search]]
 
 - [ ] Max Consecutive Ones III
   - Link: https://leetcode.com/problems/max-consecutive-ones-iii/
   - Difficulty: Medium
   - Pattern: Dynamic Sliding Window
-  - Topics: [[Array]], [[Sliding Window]]
+  - Topics: [[DSA-Notes/DataStructures/Array]], [[Sliding Window]]
 
 - [ ] Minimum Window Substring
   - Link: https://leetcode.com/problems/minimum-window-substring/
@@ -386,25 +386,25 @@
   - Link: https://leetcode.com/problems/maximum-subarray/
   - Difficulty: Medium
   - Pattern: Kadane's
-  - Topics: [[Array]], [[Kadane's Algorithm]], [[Dynamic Programming]]
+  - Topics: [[DSA-Notes/DataStructures/Array]], [[Kadane's Algorithm]], [[DSA-Notes/Algorithms/Dynamic Programming]]
 
 - [ ] Maximum Sum Circular Subarray
   - Link: https://leetcode.com/problems/maximum-sum-circular-subarray/
   - Difficulty: Medium
   - Pattern: Kadane's + Circular
-  - Topics: [[Array]], [[Kadane's Algorithm]], [[Dynamic Programming]]
+  - Topics: [[DSA-Notes/DataStructures/Array]], [[Kadane's Algorithm]], [[DSA-Notes/Algorithms/Dynamic Programming]]
 
 - [ ] Maximum Product Subarray
   - Link: https://leetcode.com/problems/maximum-product-subarray/
   - Difficulty: Medium
   - Pattern: DP / Kadane's Variant
-  - Topics: [[Array]], [[Dynamic Programming]]
+  - Topics: [[DSA-Notes/DataStructures/Array]], [[DSA-Notes/Algorithms/Dynamic Programming]]
 
 - [ ] Best Sightseeing Pair
   - Link: https://leetcode.com/problems/best-sightseeing-pair/
   - Difficulty: Medium
   - Pattern: Kadane's Variant
-  - Topics: [[Array]], [[Dynamic Programming]]
+  - Topics: [[DSA-Notes/DataStructures/Array]], [[DSA-Notes/Algorithms/Dynamic Programming]]
 
 ---
 
@@ -414,31 +414,31 @@
   - Link: https://leetcode.com/problems/spiral-matrix/
   - Difficulty: Medium
   - Pattern: Simulation
-  - Topics: [[Array]], [[Matrix]]
+  - Topics: [[DSA-Notes/DataStructures/Array]], [[Matrix]]
 
 - [ ] Rotate Image
   - Link: https://leetcode.com/problems/rotate-image/
   - Difficulty: Medium
   - Pattern: In-place Rotation
-  - Topics: [[Array]], [[Matrix]]
+  - Topics: [[DSA-Notes/DataStructures/Array]], [[Matrix]]
 
 - [ ] Set Matrix Zeroes
   - Link: https://leetcode.com/problems/set-matrix-zeroes/
   - Difficulty: Medium
   - Pattern: Matrix Marking
-  - Topics: [[Array]], [[Matrix]]
+  - Topics: [[DSA-Notes/DataStructures/Array]], [[Matrix]]
 
 - [ ] Valid Sudoku
   - Link: https://leetcode.com/problems/valid-sudoku/
   - Difficulty: Medium
   - Pattern: Hash Set Validation
-  - Topics: [[Array]], [[Matrix]], [[Hash Set]]
+  - Topics: [[DSA-Notes/DataStructures/Array]], [[Matrix]], [[Hash Set]]
 
 - [ ] Game of Life
   - Link: https://leetcode.com/problems/game-of-life/
   - Difficulty: Medium
   - Pattern: Matrix Simulation
-  - Topics: [[Array]], [[Matrix]]
+  - Topics: [[DSA-Notes/DataStructures/Array]], [[Matrix]]
 
 ---
 
@@ -592,7 +592,7 @@
   - Link: https://leetcode.com/problems/evaluate-reverse-polish-notation/
   - Difficulty: Medium
   - Pattern: Stack Evaluation
-  - Topics: [[Stack]], [[Array]]
+  - Topics: [[Stack]], [[DSA-Notes/DataStructures/Array]]
 
 - [ ] Basic Calculator II
   - Link: https://leetcode.com/problems/basic-calculator-ii/
@@ -604,7 +604,7 @@
   - Link: https://leetcode.com/problems/longest-valid-parentheses/
   - Difficulty: Hard
   - Pattern: Stack / DP
-  - Topics: [[Stack]], [[String]], [[Dynamic Programming]]
+  - Topics: [[Stack]], [[String]], [[DSA-Notes/Algorithms/Dynamic Programming]]
 
 ---
 
@@ -614,13 +614,13 @@
   - Link: https://leetcode.com/problems/next-greater-element-i/
   - Difficulty: Easy
   - Pattern: Monotonic Stack
-  - Topics: [[Stack]], [[Monotonic Stack]], [[Array]]
+  - Topics: [[Stack]], [[Monotonic Stack]], [[DSA-Notes/DataStructures/Array]]
 
 - [ ] Daily Temperatures
   - Link: https://leetcode.com/problems/daily-temperatures/
   - Difficulty: Medium
   - Pattern: Monotonic Stack
-  - Topics: [[Stack]], [[Monotonic Stack]], [[Array]]
+  - Topics: [[Stack]], [[Monotonic Stack]], [[DSA-Notes/DataStructures/Array]]
 
 - [ ] Online Stock Span
   - Link: https://leetcode.com/problems/online-stock-span/
@@ -632,19 +632,19 @@
   - Link: https://leetcode.com/problems/132-pattern/
   - Difficulty: Medium
   - Pattern: Monotonic Stack
-  - Topics: [[Stack]], [[Monotonic Stack]], [[Array]]
+  - Topics: [[Stack]], [[Monotonic Stack]], [[DSA-Notes/DataStructures/Array]]
 
 - [ ] Number of Visible People in a Queue
   - Link: https://leetcode.com/problems/number-of-visible-people-in-a-queue/
   - Difficulty: Hard
   - Pattern: Monotonic Stack
-  - Topics: [[Stack]], [[Monotonic Stack]], [[Array]]
+  - Topics: [[Stack]], [[Monotonic Stack]], [[DSA-Notes/DataStructures/Array]]
 
 - [ ] Largest Rectangle in Histogram
   - Link: https://leetcode.com/problems/largest-rectangle-in-histogram/
   - Difficulty: Hard
   - Pattern: Monotonic Stack
-  - Topics: [[Stack]], [[Monotonic Stack]], [[Array]]
+  - Topics: [[Stack]], [[Monotonic Stack]], [[DSA-Notes/DataStructures/Array]]
 
 ---
 
@@ -660,13 +660,13 @@
   - Link: https://leetcode.com/problems/time-needed-to-buy-tickets/
   - Difficulty: Easy
   - Pattern: Queue Simulation
-  - Topics: [[Queue]], [[Array]]
+  - Topics: [[Queue]], [[DSA-Notes/DataStructures/Array]]
 
 - [ ] Reveal Cards In Increasing Order
   - Link: https://leetcode.com/problems/reveal-cards-in-increasing-order/
   - Difficulty: Medium
   - Pattern: Queue Simulation
-  - Topics: [[Queue]], [[Array]]
+  - Topics: [[Queue]], [[DSA-Notes/DataStructures/Array]]
 
 ---
 
@@ -682,7 +682,7 @@
   - Link: https://leetcode.com/problems/jump-game-vi/
   - Difficulty: Medium
   - Pattern: Monotonic Queue + DP
-  - Topics: [[Deque]], [[Monotonic Queue]], [[Dynamic Programming]]
+  - Topics: [[Deque]], [[Monotonic Queue]], [[DSA-Notes/Algorithms/Dynamic Programming]]
 
 - [ ] Sliding Window Maximum
   - Link: https://leetcode.com/problems/sliding-window-maximum/
@@ -716,7 +716,7 @@
   - Link: https://leetcode.com/problems/maximum-gap/
   - Difficulty: Medium
   - Pattern: Bucket Sort
-  - Topics: [[Array]], [[Bucket Sort]]
+  - Topics: [[DSA-Notes/DataStructures/Array]], [[Bucket Sort]]
 
 ---
 
@@ -776,7 +776,7 @@
   - Link: https://leetcode.com/problems/reverse-pairs/
   - Difficulty: Hard
   - Pattern: Merge Sort
-  - Topics: [[Array]], [[Merge Sort]], [[Divide and Conquer]]
+  - Topics: [[DSA-Notes/DataStructures/Array]], [[Merge Sort]], [[Divide and Conquer]]
 
 ---
 
@@ -786,13 +786,13 @@
   - Link: https://leetcode.com/problems/sort-colors/
   - Difficulty: Medium
   - Pattern: Dutch National Flag / Quick Sort
-  - Topics: [[Array]], [[Two Pointers], [[Quick Sort]]
+  - Topics: [[DSA-Notes/DataStructures/Array]], [[Two Pointers], [[Quick Sort]]
 
 - [ ] Kth Largest Element in an Array
   - Link: https://leetcode.com/problems/kth-largest-element-in-an-array/
   - Difficulty: Medium
   - Pattern: QuickSelect / Heap
-  - Topics: [[Array]], [[Heap]], [[QuickSelect]]
+  - Topics: [[DSA-Notes/DataStructures/Array]], [[Heap]], [[QuickSelect]]
 
 ---
 
@@ -802,61 +802,61 @@
   - Link: https://leetcode.com/problems/search-insert-position/
   - Difficulty: Easy
   - Pattern: Binary Search
-  - Topics: [[Array]], [[Binary Search]]
+  - Topics: [[DSA-Notes/DataStructures/Array]], [[Binary Search]]
 
 - [ ] Find First and Last Position of Element in Sorted Array
   - Link: https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/
   - Difficulty: Medium
   - Pattern: Binary Search Boundaries
-  - Topics: [[Array]], [[Binary Search]]
+  - Topics: [[DSA-Notes/DataStructures/Array]], [[Binary Search]]
 
 - [ ] Search in Rotated Sorted Array
   - Link: https://leetcode.com/problems/search-in-rotated-sorted-array/
   - Difficulty: Medium
   - Pattern: Binary Search Variant
-  - Topics: [[Array]], [[Binary Search]]
+  - Topics: [[DSA-Notes/DataStructures/Array]], [[Binary Search]]
 
 - [ ] Find Peak Element
   - Link: https://leetcode.com/problems/find-peak-element/
   - Difficulty: Medium
   - Pattern: Binary Search
-  - Topics: [[Array]], [[Binary Search]]
+  - Topics: [[DSA-Notes/DataStructures/Array]], [[Binary Search]]
 
 - [ ] Random Pick with Weight
   - Link: https://leetcode.com/problems/random-pick-with-weight/
   - Difficulty: Medium
   - Pattern: Prefix Sum + Binary Search
-  - Topics: [[Array]], [[Binary Search], [[Prefix Sum], [[Math]]
+  - Topics: [[DSA-Notes/DataStructures/Array]], [[Binary Search], [[Prefix Sum], [[Math]]
 
 - [ ] Koko Eating Bananas
   - Link: https://leetcode.com/problems/koko-eating-bananas/
   - Difficulty: Medium
   - Pattern: Binary Search on Answer
-  - Topics: [[Array]], [[Binary Search]]
+  - Topics: [[DSA-Notes/DataStructures/Array]], [[Binary Search]]
 
 - [ ] Find Minimum in Rotated Sorted Array
   - Link: https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/
   - Difficulty: Medium
   - Pattern: Binary Search Variant
-  - Topics: [[Array]], [[Binary Search]]
+  - Topics: [[DSA-Notes/DataStructures/Array]], [[Binary Search]]
 
 - [ ] Search a 2D Matrix
   - Link: https://leetcode.com/problems/search-a-2d-matrix/
   - Difficulty: Medium
   - Pattern: Binary Search on Matrix
-  - Topics: [[Array]], [[Matrix], [[Binary Search]]
+  - Topics: [[DSA-Notes/DataStructures/Array]], [[Matrix], [[Binary Search]]
 
 - [ ] Find in Mountain Array
   - Link: https://leetcode.com/problems/find-in-mountain-array/
   - Difficulty: Hard
   - Pattern: Binary Search
-  - Topics: [[Array]], [[Binary Search]]
+  - Topics: [[DSA-Notes/DataStructures/Array]], [[Binary Search]]
 
 - [ ] Median of Two Sorted Arrays
   - Link: https://leetcode.com/problems/median-of-two-sorted-arrays/
   - Difficulty: Hard
   - Pattern: Binary Search
-  - Topics: [[Array]], [[Binary Search]], [[Divide and Conquer]]
+  - Topics: [[DSA-Notes/DataStructures/Array]], [[Binary Search]], [[Divide and Conquer]]
 
 ---
 
@@ -872,25 +872,25 @@
   - Link: https://leetcode.com/problems/permutations/
   - Difficulty: Medium
   - Pattern: Backtracking
-  - Topics: [[Array]], [[Backtracking], [[Recursion]]
+  - Topics: [[DSA-Notes/DataStructures/Array]], [[Backtracking], [[Recursion]]
 
 - [ ] Subsets
   - Link: https://leetcode.com/problems/subsets/
   - Difficulty: Medium
   - Pattern: Backtracking
-  - Topics: [[Array]], [[Backtracking], [[Bit Manipulation]]
+  - Topics: [[DSA-Notes/DataStructures/Array]], [[Backtracking], [[Bit Manipulation]]
 
 - [ ] Combination Sum
   - Link: https://leetcode.com/problems/combination-sum/
   - Difficulty: Medium
   - Pattern: Backtracking
-  - Topics: [[Array]], [[Backtracking]]
+  - Topics: [[DSA-Notes/DataStructures/Array]], [[Backtracking]]
 
 - [ ] Combination Sum II
   - Link: https://leetcode.com/problems/combination-sum-ii/
   - Difficulty: Medium
   - Pattern: Backtracking
-  - Topics: [[Array]], [[Backtracking]]
+  - Topics: [[DSA-Notes/DataStructures/Array]], [[Backtracking]]
 
 - [ ] Letter Combinations of a Phone Number
   - Link: https://leetcode.com/problems/letter-combinations-of-a-phone-number/
@@ -902,13 +902,13 @@
   - Link: https://leetcode.com/problems/palindrome-partitioning/
   - Difficulty: Medium
   - Pattern: Backtracking + DP
-  - Topics: [[String]], [[Backtracking], [[Dynamic Programming]]
+  - Topics: [[String]], [[Backtracking], [[DSA-Notes/Algorithms/Dynamic Programming]]
 
 - [ ] N-Queens
   - Link: https://leetcode.com/problems/n-queens/
   - Difficulty: Hard
   - Pattern: Backtracking
-  - Topics: [[Array]], [[Backtracking]]
+  - Topics: [[DSA-Notes/DataStructures/Array]], [[Backtracking]]
 
 ---
 
@@ -976,7 +976,7 @@
   - Link: https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/
   - Difficulty: Easy
   - Pattern: Divide and Conquer
-  - Topics: [[Binary Search Tree]], [[Array]], [[Divide and Conquer]]
+  - Topics: [[Binary Search Tree]], [[DSA-Notes/DataStructures/Array]], [[Divide and Conquer]]
 
 - [ ] Count Complete Tree Nodes
   - Link: https://leetcode.com/problems/count-complete-tree-nodes/
@@ -1110,7 +1110,7 @@
   - Link: https://leetcode.com/problems/binary-tree-maximum-path-sum/
   - Difficulty: Hard
   - Pattern: DFS
-  - Topics: [[Binary Tree]], [[Depth First Search], [[Dynamic Programming]]
+  - Topics: [[Binary Tree]], [[Depth First Search], [[DSA-Notes/Algorithms/Dynamic Programming]]
 
 ---
 
@@ -1132,7 +1132,7 @@
   - Link: https://leetcode.com/problems/my-calendar-ii/
   - Difficulty: Medium
   - Pattern: Sweep Line / BST
-  - Topics: [[Binary Search Tree]], [[Array]]
+  - Topics: [[Binary Search Tree]], [[DSA-Notes/DataStructures/Array]]
 
 - [ ] Stock Price Fluctuation
   - Link: https://leetcode.com/problems/stock-price-fluctuation/
@@ -1254,31 +1254,31 @@
   - Link: https://leetcode.com/problems/merge-intervals/
   - Difficulty: Medium
   - Pattern: Sort + Merge
-  - Topics: [[Array]], [[Sorting]]
+  - Topics: [[DSA-Notes/DataStructures/Array]], [[Sorting]]
 
 - [ ] Insert Interval
   - Link: https://leetcode.com/problems/insert-interval/
   - Difficulty: Medium
   - Pattern: Linear Scan
-  - Topics: [[Array]]
+  - Topics: [[DSA-Notes/DataStructures/Array]]
 
 - [ ] Minimum Number of Arrows to Burst Balloons
   - Link: https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/
   - Difficulty: Medium
   - Pattern: Greedy
-  - Topics: [[Array]], [[Greedy Algorithms]]
+  - Topics: [[DSA-Notes/DataStructures/Array]], [[Greedy Algorithms]]
 
 - [ ] Maximum Number of Events That Can Be Attended
   - Link: https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended/
   - Difficulty: Medium
   - Pattern: Greedy + Heap
-  - Topics: [[Array]], [[Heap], [[Greedy Algorithms]]
+  - Topics: [[DSA-Notes/DataStructures/Array]], [[Heap], [[Greedy Algorithms]]
 
 - [ ] Non-overlapping Intervals
   - Link: https://leetcode.com/problems/non-overlapping-intervals/
   - Difficulty: Medium
   - Pattern: Greedy
-  - Topics: [[Array]], [[Greedy Algorithms]]
+  - Topics: [[DSA-Notes/DataStructures/Array]], [[Greedy Algorithms]]
 
 ---
 
@@ -1288,13 +1288,13 @@
   - Link: https://leetcode.com/problems/find-k-pairs-with-smallest-sums/
   - Difficulty: Medium
   - Pattern: K-Way Merge / Heap
-  - Topics: [[Array]], [[Heap]]
+  - Topics: [[DSA-Notes/DataStructures/Array]], [[Heap]]
 
 - [ ] Kth Smallest Element in a Sorted Matrix
   - Link: https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/
   - Difficulty: Medium
   - Pattern: K-Way Merge / Binary Search
-  - Topics: [[Array]], [[Matrix], [[Heap], [[Binary Search]]
+  - Topics: [[DSA-Notes/DataStructures/Array]], [[Matrix], [[Heap], [[Binary Search]]
 
 - [ ] Merge k Sorted Lists
   - Link: https://leetcode.com/problems/merge-k-sorted-lists/
@@ -1306,7 +1306,7 @@
   - Link: https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists/
   - Difficulty: Hard
   - Pattern: K-Way Merge + Sliding Window
-  - Topics: [[Array]], [[Heap], [[Hash Map]]
+  - Topics: [[DSA-Notes/DataStructures/Array]], [[Heap], [[Hash Map]]
 
 ---
 
@@ -1316,7 +1316,7 @@
   - Link: https://leetcode.com/problems/design-browser-history/
   - Difficulty: Medium
   - Pattern: Design / Stack
-  - Topics: [[Array]], [[Stack], [[Doubly Linked List]]
+  - Topics: [[DSA-Notes/DataStructures/Array]], [[Stack], [[Doubly Linked List]]
 
 - [ ] Time Based Key-Value Store
   - Link: https://leetcode.com/problems/time-based-key-value-store/
@@ -1328,7 +1328,7 @@
   - Link: https://leetcode.com/problems/snapshot-array/
   - Difficulty: Medium
   - Pattern: Binary Search + Hash
-  - Topics: [[Array]], [[Hash Map], [[Binary Search]]
+  - Topics: [[DSA-Notes/DataStructures/Array]], [[Hash Map], [[Binary Search]]
 
 - [ ] Design Twitter
   - Link: https://leetcode.com/problems/design-twitter/
@@ -1346,7 +1346,7 @@
   - Link: https://leetcode.com/problems/insert-delete-getrandom-o1/
   - Difficulty: Medium
   - Pattern: Design / Hash + Array
-  - Topics: [[Hash Map]], [[Array]]
+  - Topics: [[Hash Map]], [[DSA-Notes/DataStructures/Array]]
 
 - [ ] Design a Food Rating System
   - Link: https://leetcode.com/problems/design-a-food-rating-system/
@@ -1368,7 +1368,7 @@
   - Link: https://leetcode.com/problems/jump-game-ii/
   - Difficulty: Medium
   - Pattern: Greedy
-  - Topics: [[Array]], [[Greedy Algorithms]], [[Dynamic Programming]]
+  - Topics: [[DSA-Notes/DataStructures/Array]], [[Greedy Algorithms]], [[DSA-Notes/Algorithms/Dynamic Programming]]
 
 - [ ] Minimum Add to Make Parentheses Valid
   - Link: https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/
@@ -1380,31 +1380,31 @@
   - Link: https://leetcode.com/problems/gas-station/
   - Difficulty: Medium
   - Pattern: Greedy
-  - Topics: [[Array]], [[Greedy Algorithms]]
+  - Topics: [[DSA-Notes/DataStructures/Array]], [[Greedy Algorithms]]
 
 - [ ] Task Scheduler
   - Link: https://leetcode.com/problems/task-scheduler/
   - Difficulty: Medium
   - Pattern: Greedy / Heap
-  - Topics: [[Array]], [[Greedy Algorithms], [[Heap]]
+  - Topics: [[DSA-Notes/DataStructures/Array]], [[Greedy Algorithms], [[Heap]]
 
 - [ ] Minimum Cost to Hire K Workers
   - Link: https://leetcode.com/problems/minimum-cost-to-hire-k-workers/
   - Difficulty: Hard
   - Pattern: Greedy + Heap
-  - Topics: [[Array]], [[Greedy Algorithms], [[Heap]]
+  - Topics: [[DSA-Notes/DataStructures/Array]], [[Greedy Algorithms], [[Heap]]
 
 - [ ] Candy
   - Link: https://leetcode.com/problems/candy/
   - Difficulty: Hard
   - Pattern: Greedy
-  - Topics: [[Array]], [[Greedy Algorithms]]
+  - Topics: [[DSA-Notes/DataStructures/Array]], [[Greedy Algorithms]]
 
 - [ ] Minimum Number of Refueling Stops
   - Link: https://leetcode.com/problems/minimum-number-of-refueling-stops/
   - Difficulty: Hard
   - Pattern: Greedy + Heap
-  - Topics: [[Array]], [[Greedy Algorithms], [[Heap], [[Dynamic Programming]]
+  - Topics: [[DSA-Notes/DataStructures/Array]], [[Greedy Algorithms], [[Heap], [[DSA-Notes/Algorithms/Dynamic Programming]]
 
 ---
 
@@ -1484,7 +1484,7 @@
   - Link: https://leetcode.com/problems/01-matrix/
   - Difficulty: Medium
   - Pattern: Multi-source BFS
-  - Topics: [[DSA-Notes/DataStructures/Graph]], [[Breadth First Search], [[Matrix], [[Dynamic Programming]]
+  - Topics: [[DSA-Notes/DataStructures/Graph]], [[Breadth First Search], [[Matrix], [[DSA-Notes/Algorithms/Dynamic Programming]]
 
 - [ ] Open the Lock
   - Link: https://leetcode.com/problems/open-the-lock/
@@ -1590,7 +1590,7 @@
   - Link: https://leetcode.com/problems/cheapest-flights-within-k-stops/
   - Difficulty: Medium
   - Pattern: Bellman-Ford / Dijkstra's Modified
-  - Topics: [[DSA-Notes/DataStructures/Graph]], [[Shortest Path Algorithms], [[Dynamic Programming]]
+  - Topics: [[DSA-Notes/DataStructures/Graph]], [[Shortest Path Algorithms], [[DSA-Notes/Algorithms/Dynamic Programming]]
 
 - [ ] Path with Maximum Probability
   - Link: https://leetcode.com/problems/path-with-maximum-probability/
@@ -1634,25 +1634,25 @@
   - Link: https://leetcode.com/problems/climbing-stairs/
   - Difficulty: Easy
   - Pattern: 1D DP (Fibonacci)
-  - Topics: [[Dynamic Programming]], [[Recursion]]
+  - Topics: [[DSA-Notes/Algorithms/Dynamic Programming]], [[Recursion]]
 
 - [ ] Min Cost Climbing Stairs
   - Link: https://leetcode.com/problems/min-cost-climbing-stairs/
   - Difficulty: Easy
   - Pattern: 1D DP
-  - Topics: [[Array]], [[Dynamic Programming]]
+  - Topics: [[DSA-Notes/DataStructures/Array]], [[DSA-Notes/Algorithms/Dynamic Programming]]
 
 - [ ] House Robber
   - Link: https://leetcode.com/problems/house-robber/
   - Difficulty: Medium
   - Pattern: 1D DP
-  - Topics: [[Array]], [[Dynamic Programming]]
+  - Topics: [[DSA-Notes/DataStructures/Array]], [[DSA-Notes/Algorithms/Dynamic Programming]]
 
 - [ ] House Robber II
   - Link: https://leetcode.com/problems/house-robber-ii/
   - Difficulty: Medium
   - Pattern: 1D DP Circular
-  - Topics: [[Array]], [[Dynamic Programming]]
+  - Topics: [[DSA-Notes/DataStructures/Array]], [[DSA-Notes/Algorithms/Dynamic Programming]]
 
 ---
 
@@ -1662,19 +1662,19 @@
   - Link: https://leetcode.com/problems/partition-equal-subset-sum/
   - Difficulty: Medium
   - Pattern: 0/1 Knapsack
-  - Topics: [[Array]], [[Dynamic Programming], [[Knapsack DP]]
+  - Topics: [[DSA-Notes/DataStructures/Array]], [[Dynamic Programming], [[Knapsack DP]]
 
 - [ ] Target Sum
   - Link: https://leetcode.com/problems/target-sum/
   - Difficulty: Medium
   - Pattern: 0/1 Knapsack / DFS
-  - Topics: [[Array]], [[Dynamic Programming], [[Knapsack DP]]
+  - Topics: [[DSA-Notes/DataStructures/Array]], [[Dynamic Programming], [[Knapsack DP]]
 
 - [ ] Last Stone Weight II
   - Link: https://leetcode.com/problems/last-stone-weight-ii/
   - Difficulty: Medium
   - Pattern: 0/1 Knapsack
-  - Topics: [[Array]], [[Dynamic Programming], [[Knapsack DP]]
+  - Topics: [[DSA-Notes/DataStructures/Array]], [[Dynamic Programming], [[Knapsack DP]]
 
 ---
 
@@ -1684,19 +1684,19 @@
   - Link: https://leetcode.com/problems/coin-change/
   - Difficulty: Medium
   - Pattern: Unbounded Knapsack
-  - Topics: [[Array]], [[Dynamic Programming], [[Unbounded Knapsack DP]]
+  - Topics: [[DSA-Notes/DataStructures/Array]], [[Dynamic Programming], [[Unbounded Knapsack DP]]
 
 - [ ] Coin Change II
   - Link: https://leetcode.com/problems/coin-change-ii/
   - Difficulty: Medium
   - Pattern: Unbounded Knapsack
-  - Topics: [[Array]], [[Dynamic Programming], [[Unbounded Knapsack DP]]
+  - Topics: [[DSA-Notes/DataStructures/Array]], [[Dynamic Programming], [[Unbounded Knapsack DP]]
 
 - [ ] Perfect Squares
   - Link: https://leetcode.com/problems/perfect-squares/
   - Difficulty: Medium
   - Pattern: Unbounded Knapsack / BFS
-  - Topics: [[Array]], [[Dynamic Programming], [[Breadth First Search]]
+  - Topics: [[DSA-Notes/DataStructures/Array]], [[Dynamic Programming], [[Breadth First Search]]
 
 ---
 
@@ -1706,19 +1706,19 @@
   - Link: https://leetcode.com/problems/longest-increasing-subsequence/
   - Difficulty: Medium
   - Pattern: LIS DP / Binary Search
-  - Topics: [[Array]], [[Dynamic Programming], [[Binary Search]]
+  - Topics: [[DSA-Notes/DataStructures/Array]], [[Dynamic Programming], [[Binary Search]]
 
 - [ ] Number of Longest Increasing Subsequence
   - Link: https://leetcode.com/problems/number-of-longest-increasing-subsequence/
   - Difficulty: Medium
   - Pattern: LIS DP
-  - Topics: [[Array]], [[Dynamic Programming]]
+  - Topics: [[DSA-Notes/DataStructures/Array]], [[DSA-Notes/Algorithms/Dynamic Programming]]
 
 - [ ] Russian Doll Envelopes
   - Link: https://leetcode.com/problems/russian-doll-envelopes/
   - Difficulty: Hard
   - Pattern: LIS + Sort
-  - Topics: [[Array]], [[Dynamic Programming], [[Binary Search]]
+  - Topics: [[DSA-Notes/DataStructures/Array]], [[Dynamic Programming], [[Binary Search]]
 
 ---
 
@@ -1728,55 +1728,55 @@
   - Link: https://leetcode.com/problems/unique-paths-ii/
   - Difficulty: Medium
   - Pattern: 2D DP
-  - Topics: [[Array]], [[Matrix], [[Dynamic Programming]]
+  - Topics: [[DSA-Notes/DataStructures/Array]], [[Matrix], [[DSA-Notes/Algorithms/Dynamic Programming]]
 
 - [ ] Minimum Path Sum
   - Link: https://leetcode.com/problems/minimum-path-sum/
   - Difficulty: Medium
   - Pattern: 2D DP
-  - Topics: [[Array]], [[Matrix], [[Dynamic Programming]]
+  - Topics: [[DSA-Notes/DataStructures/Array]], [[Matrix], [[DSA-Notes/Algorithms/Dynamic Programming]]
 
 - [ ] Triangle
   - Link: https://leetcode.com/problems/triangle/
   - Difficulty: Medium
   - Pattern: 2D DP
-  - Topics: [[Array]], [[Dynamic Programming]]
+  - Topics: [[DSA-Notes/DataStructures/Array]], [[DSA-Notes/Algorithms/Dynamic Programming]]
 
 - [ ] Count Square Submatrices with All Ones
   - Link: https://leetcode.com/problems/count-square-submatrices-with-all-ones/
   - Difficulty: Medium
   - Pattern: 2D DP
-  - Topics: [[Array]], [[Matrix], [[Dynamic Programming]]
+  - Topics: [[DSA-Notes/DataStructures/Array]], [[Matrix], [[DSA-Notes/Algorithms/Dynamic Programming]]
 
 - [ ] Maximum Number of Points with Cost
   - Link: https://leetcode.com/problems/maximum-number-of-points-with-cost/
   - Difficulty: Medium
   - Pattern: 2D DP Optimized
-  - Topics: [[Array]], [[Matrix], [[Dynamic Programming]]
+  - Topics: [[DSA-Notes/DataStructures/Array]], [[Matrix], [[DSA-Notes/Algorithms/Dynamic Programming]]
 
 - [ ] Burst Balloons
   - Link: https://leetcode.com/problems/burst-balloons/
   - Difficulty: Hard
   - Pattern: Interval DP
-  - Topics: [[Array]], [[Dynamic Programming], [[Divide and Conquer]]
+  - Topics: [[DSA-Notes/DataStructures/Array]], [[Dynamic Programming], [[Divide and Conquer]]
 
 - [ ] Maximum Profit in Job Scheduling
   - Link: https://leetcode.com/problems/maximum-profit-in-job-scheduling/
   - Difficulty: Hard
   - Pattern: DP + Binary Search
-  - Topics: [[Array]], [[Dynamic Programming], [[Binary Search]]
+  - Topics: [[DSA-Notes/DataStructures/Array]], [[Dynamic Programming], [[Binary Search]]
 
 - [ ] Cherry Pickup
   - Link: https://leetcode.com/problems/cherry-pickup/
   - Difficulty: Hard
   - Pattern: 3D DP
-  - Topics: [[Array]], [[Matrix], [[Dynamic Programming]]
+  - Topics: [[DSA-Notes/DataStructures/Array]], [[Matrix], [[DSA-Notes/Algorithms/Dynamic Programming]]
 
 - [ ] Longest Increasing Path in a Matrix
   - Link: https://leetcode.com/problems/longest-increasing-path-in-a-matrix/
   - Difficulty: Hard
   - Pattern: DFS + Memoization
-  - Topics: [[Matrix]], [[Depth First Search], [[Dynamic Programming]]
+  - Topics: [[Matrix]], [[Depth First Search], [[DSA-Notes/Algorithms/Dynamic Programming]]
 
 ---
 
@@ -1786,25 +1786,25 @@
   - Link: https://leetcode.com/problems/longest-common-subsequence/
   - Difficulty: Medium
   - Pattern: String DP
-  - Topics: [[String]], [[Dynamic Programming]]
+  - Topics: [[String]], [[DSA-Notes/Algorithms/Dynamic Programming]]
 
 - [ ] Edit Distance
   - Link: https://leetcode.com/problems/edit-distance/
   - Difficulty: Medium
   - Pattern: String DP
-  - Topics: [[String]], [[Dynamic Programming]]
+  - Topics: [[String]], [[DSA-Notes/Algorithms/Dynamic Programming]]
 
 - [ ] Longest Palindromic Subsequence
   - Link: https://leetcode.com/problems/longest-palindromic-subsequence/
   - Difficulty: Medium
   - Pattern: String DP
-  - Topics: [[String]], [[Dynamic Programming]]
+  - Topics: [[String]], [[DSA-Notes/Algorithms/Dynamic Programming]]
 
 - [ ] Decode Ways
   - Link: https://leetcode.com/problems/decode-ways/
   - Difficulty: Medium
   - Pattern: 1D DP
-  - Topics: [[String]], [[Dynamic Programming]]
+  - Topics: [[String]], [[DSA-Notes/Algorithms/Dynamic Programming]]
 
 - [ ] Word Break
   - Link: https://leetcode.com/problems/word-break/
@@ -1816,25 +1816,25 @@
   - Link: https://leetcode.com/problems/interleaving-string/
   - Difficulty: Medium
   - Pattern: 2D DP
-  - Topics: [[String]], [[Dynamic Programming]]
+  - Topics: [[String]], [[DSA-Notes/Algorithms/Dynamic Programming]]
 
 - [ ] Wildcard Matching
   - Link: https://leetcode.com/problems/wildcard-matching/
   - Difficulty: Hard
   - Pattern: DP / Greedy
-  - Topics: [[String]], [[Dynamic Programming]]
+  - Topics: [[String]], [[DSA-Notes/Algorithms/Dynamic Programming]]
 
 - [ ] Distinct Subsequences
   - Link: https://leetcode.com/problems/distinct-subsequences/
   - Difficulty: Hard
   - Pattern: String DP
-  - Topics: [[String]], [[Dynamic Programming]]
+  - Topics: [[String]], [[DSA-Notes/Algorithms/Dynamic Programming]]
 
 - [ ] Palindrome Partitioning II
   - Link: https://leetcode.com/problems/palindrome-partitioning-ii/
   - Difficulty: Hard
   - Pattern: DP
-  - Topics: [[String]], [[Dynamic Programming]]
+  - Topics: [[String]], [[DSA-Notes/Algorithms/Dynamic Programming]]
 
 ---
 
@@ -1850,7 +1850,7 @@
   - Link: https://leetcode.com/problems/unique-binary-search-trees-ii/
   - Difficulty: Medium
   - Pattern: DP / Catalan
-  - Topics: [[Binary Search Tree]], [[Dynamic Programming]]
+  - Topics: [[Binary Search Tree]], [[DSA-Notes/Algorithms/Dynamic Programming]]
 
 - [ ] Number of Ways to Arrive at Destination
   - Link: https://leetcode.com/problems/number-of-ways-to-arrive-at-destination/
@@ -1868,7 +1868,7 @@
   - Link: https://leetcode.com/problems/sum-of-distances-in-tree/
   - Difficulty: Hard
   - Pattern: Tree DP (Rerooting)
-  - Topics: [[DSA-Notes/DataStructures/Graph]], [[Tree], [[Dynamic Programming]]
+  - Topics: [[DSA-Notes/DataStructures/Graph]], [[Tree], [[DSA-Notes/Algorithms/Dynamic Programming]]
 
 ---
 
@@ -1944,13 +1944,13 @@
   - Link: https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/
   - Difficulty: Medium
   - Pattern: State Machine DP
-  - Topics: [[Array]], [[Dynamic Programming], [[State Machine DP]]
+  - Topics: [[DSA-Notes/DataStructures/Array]], [[Dynamic Programming], [[State Machine DP]]
 
 - [ ] Best Time to Buy and Sell Stock III
   - Link: https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/
   - Difficulty: Hard
   - Pattern: State Machine DP
-  - Topics: [[Array]], [[Dynamic Programming], [[State Machine DP]]
+  - Topics: [[DSA-Notes/DataStructures/Array]], [[Dynamic Programming], [[State Machine DP]]
 
 ---
 
@@ -2032,13 +2032,13 @@
   - Link: https://leetcode.com/problems/minimum-interval-to-include-each-query/
   - Difficulty: Hard
   - Pattern: Line Sweep + Heap
-  - Topics: [[Array]], [[Heap], [[Line Sweep]]
+  - Topics: [[DSA-Notes/DataStructures/Array]], [[Heap], [[Line Sweep]]
 
 - [ ] The Skyline Problem
   - Link: https://leetcode.com/problems/the-skyline-problem/
   - Difficulty: Hard
   - Pattern: Line Sweep + Heap
-  - Topics: [[Array]], [[Heap], [[Line Sweep]]
+  - Topics: [[DSA-Notes/DataStructures/Array]], [[Heap], [[Line Sweep]]
 
 ---
 

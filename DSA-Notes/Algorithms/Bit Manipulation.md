@@ -51,7 +51,7 @@ XOR same number twice cancels: a^a = 0
 - Signed vs unsigned right shift (`>>` vs `>>>` in Java)
 
 ## 🔗 Related Topics
-[[Dynamic Programming]] | [[Bitmask DP]] | [[Array]]
+[[DSA-Notes/Algorithms/Dynamic Programming]] | [[Bitmask DP]] | [[DSA-Notes/DataStructures/Array]]
 
 ---
 - [ ] Learned  - [ ] Practiced  - [ ] Mastered

@@ -70,7 +70,7 @@ Typically exponential — O(n! ), O(2^n), or O(n^k) depending on the problem. Pr
 ## 🔗 Related Topics
 - [[Recursion]]
 - [[Depth First Search]]
-- [[Dynamic Programming]] — When subproblems overlap
+- [[DSA-Notes/Algorithms/Dynamic Programming]] — When subproblems overlap
 
 ---
 

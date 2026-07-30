@@ -76,7 +76,7 @@ A **string** is a sequence of characters. In most languages, strings are **immut
 - [[Hash Map]]
 - [[Trie]]
 - [[KMP]]
-- [[Dynamic Programming]] — String DP
+- [[DSA-Notes/Algorithms/Dynamic Programming]] — String DP
 
 ---
 

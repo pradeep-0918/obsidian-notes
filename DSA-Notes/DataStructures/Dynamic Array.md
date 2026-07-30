@@ -2,7 +2,7 @@
 
 #DataStructure #Linear #Array
 
-⬅️ [[Array]] | ➡️ [[Sparse Array]]
+⬅️ [[DSA-Notes/DataStructures/Array]] | ➡️ [[Sparse Array]]
 
 ---
 
@@ -68,7 +68,7 @@ Add 5: RESIZE → [1, 2, 3, 4, 5, _, _, _]  (cap=8)
 
 ## 🧪 Problems
 
-Most [[Array]] problems apply here. Dynamic arrays underlie most array-based patterns.
+Most [[DSA-Notes/DataStructures/Array]] problems apply here. Dynamic arrays underlie most array-based patterns.
 
 ---
 
@@ -81,7 +81,7 @@ Most [[Array]] problems apply here. Dynamic arrays underlie most array-based pat
 
 ## 🔗 Related Topics
 
-- [[Array]] — static version
+- [[DSA-Notes/DataStructures/Array]] — static version
 - [[DSA-Notes/Theory/Amortized Analysis]] — why append is O(1)
 - [[Stack]] — commonly built on dynamic array
 

@@ -25,7 +25,7 @@ Dynamic programming on one or two string inputs. State typically represents pref
 - Confusing subsequence (non-contiguous) vs substring (contiguous)
 
 ## 🔗 Related Topics
-[[Dynamic Programming]] | [[String]] | [[Two Pointers]]
+[[DSA-Notes/Algorithms/Dynamic Programming]] | [[String]] | [[Two Pointers]]
 
 ---
 - [ ] Learned  - [ ] Practiced  - [ ] Mastered

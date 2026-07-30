@@ -26,7 +26,7 @@ DP where the state explicitly models a finite state machine — transitions betw
 - Initialising `hold` state to 0 instead of -∞
 
 ## 🔗 Related Topics
-[[Dynamic Programming]] | [[Greedy Algorithms]]
+[[DSA-Notes/Algorithms/Dynamic Programming]] | [[Greedy Algorithms]]
 
 ---
 - [ ] Learned  - [ ] Practiced  - [ ] Mastered

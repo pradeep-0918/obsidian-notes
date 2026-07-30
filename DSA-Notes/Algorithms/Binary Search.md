@@ -117,7 +117,7 @@ while left < right:
 
 ## 🔗 Related Topics
 
-- [[Array]] — applied to sorted arrays
+- [[DSA-Notes/DataStructures/Array]] — applied to sorted arrays
 - [[Divide and Conquer]] — same principle
 - [[Two Pointers]] — related pattern
 - [[Ternary Search]] — for unimodal functions

@@ -73,7 +73,7 @@
 
 | Algorithm | Status |
 |-----------|--------|
-| [[Dynamic Programming]] | - [ ] Completed |
+| [[DSA-Notes/Algorithms/Dynamic Programming]] | - [ ] Completed |
 | [[Memoization]] | - [ ] Completed |
 | [[Tabulation]] | - [ ] Completed |
 | [[Knapsack DP]] | - [ ] Completed |
@@ -166,7 +166,7 @@
 | [[Binary Search]] | Sorted data, search space reduction | Array |
 | [[Depth First Search]] | Path finding, connected components | Graph, Tree |
 | [[Breadth First Search]] | Shortest path, level order | Graph, Tree |
-| [[Dynamic Programming]] | Optimal substructure, overlapping subproblems | Array, Matrix |
+| [[DSA-Notes/Algorithms/Dynamic Programming]] | Optimal substructure, overlapping subproblems | Array, Matrix |
 | [[Backtracking]] | Exhaustive search with pruning | Recursion |
 | [[Greedy Algorithms]] | Locally optimal = globally optimal | Sorted Array, Heap |
 | [[Union Find]] | Connected components, merging sets | DSU |

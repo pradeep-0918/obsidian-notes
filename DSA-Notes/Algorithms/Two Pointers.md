@@ -83,7 +83,7 @@ while i < len(a) and j < len(b):
 - [[Sliding Window]] — window variant
 - [[Fast and Slow Pointers]] — cycle detection
 - [[Binary Search]] — sorted array patterns
-- [[Array]] — primary application
+- [[DSA-Notes/DataStructures/Array]] — primary application
 
 ---
 

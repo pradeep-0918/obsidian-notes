@@ -17,7 +17,7 @@ Data Structures and Algorithms form the **backbone of computer science** and sof
 
 ### 🟢 Beginner
 1. [[Big-O Notation]] → [[Time Complexity]] → [[Space Complexity]]
-2. [[Array]] → [[String]] → [[Hash Table]]
+2. [[DSA-Notes/DataStructures/Array]] → [[String]] → [[Hash Table]]
 3. [[Stack]] → [[Queue]]
 4. [[Linked List]] → [[Singly Linked List]] → [[Doubly Linked List]]
 5. [[Binary Search]]
@@ -28,7 +28,7 @@ Data Structures and Algorithms form the **backbone of computer science** and sof
 2. [[Heap]] → [[Min Heap]] → [[Max Heap]]
 3. [[DSA-Notes/DataStructures/Graph]] → [[Depth First Search]] → [[Breadth First Search]]
 4. [[Sorting Algorithms]] → [[Merge Sort]] → [[Quick Sort]]
-5. [[Dynamic Programming]] (1D → 2D)
+5. [[DSA-Notes/Algorithms/Dynamic Programming]] (1D → 2D)
 6. [[Backtracking]]
 7. [[Greedy]]
 8. [[Trie]]

@@ -62,7 +62,7 @@ Sparse: {3: 42, 7: 7}  → only non-zeros stored
 
 ## 🔗 Related Topics
 
-- [[Array]] — dense version
+- [[DSA-Notes/DataStructures/Array]] — dense version
 - [[Hash Map]] — common implementation
 - [[DSA-Notes/DataStructures/Graph]] — sparse adjacency matrices
 

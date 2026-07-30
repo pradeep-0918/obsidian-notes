@@ -83,7 +83,7 @@ for right in range(len(s)):
 - [[Two Pointers]] — left/right form the window
 - [[Hash Map]] — track character frequencies
 - [[Monotonic Queue]] — max/min in window
-- [[Array]] — applied to arrays
+- [[DSA-Notes/DataStructures/Array]] — applied to arrays
 - [[String]] — applied to strings
 
 ---

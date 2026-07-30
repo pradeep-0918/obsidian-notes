@@ -30,7 +30,7 @@ Use Master Theorem: T(n) = aT(n/b) + f(n)
 | Paradigm | Subproblems | Overlap | Example |
 |----------|------------|---------|---------|
 | Divide & Conquer | Independent | No | Merge Sort |
-| [[Dynamic Programming]] | Overlap | Yes | Fibonacci |
+| [[DSA-Notes/Algorithms/Dynamic Programming]] | Overlap | Yes | Fibonacci |
 | [[Greedy Algorithms]] | No recursion | — | Interval scheduling |
 
 ## 🧪 Problems
@@ -45,7 +45,7 @@ Use Master Theorem: T(n) = aT(n/b) + f(n)
 - Not identifying the right subproblem structure
 
 ## 🔗 Related Topics
-[[Recursion]] | [[Dynamic Programming]] | [[Merge Sort]] | [[Quick Sort]] | [[Binary Search]]
+[[Recursion]] | [[DSA-Notes/Algorithms/Dynamic Programming]] | [[Merge Sort]] | [[Quick Sort]] | [[Binary Search]]
 
 ## ⬅️ Previous
 [[Recursion]]

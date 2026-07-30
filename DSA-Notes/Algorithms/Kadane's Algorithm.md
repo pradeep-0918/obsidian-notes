@@ -59,8 +59,8 @@ def max_subarray(arr):
 
 ## 🔗 Related Topics
 
-- [[Dynamic Programming]] — Kadane's is DP
-- [[Array]] — applied to arrays
+- [[DSA-Notes/Algorithms/Dynamic Programming]] — Kadane's is DP
+- [[DSA-Notes/DataStructures/Array]] — applied to arrays
 - [[Prefix Sum]] — alternative approach
 
 ---

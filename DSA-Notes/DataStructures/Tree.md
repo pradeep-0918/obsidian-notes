@@ -65,7 +65,7 @@ A **tree** is a hierarchical, non-linear data structure with a root node and sub
 - [[Binary Tree]]
 - [[Depth First Search]]
 - [[Breadth First Search]]
-- [[Dynamic Programming]] — Tree DP
+- [[DSA-Notes/Algorithms/Dynamic Programming]] — Tree DP
 
 ---
 

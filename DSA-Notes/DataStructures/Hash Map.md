@@ -38,7 +38,7 @@ del d['key']
 
 - [[Hash Table]] — underlying concept
 - [[Hash Set]] — keys only
-- [[Array]] — bucket backing structure
+- [[DSA-Notes/DataStructures/Array]] — bucket backing structure
 
 ---
 

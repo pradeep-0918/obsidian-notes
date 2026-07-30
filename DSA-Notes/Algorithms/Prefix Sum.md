@@ -73,7 +73,7 @@ def subarray_sum(arr, k):
 
 ## 🔗 Related Topics
 
-- [[Array]] — applied to arrays
+- [[DSA-Notes/DataStructures/Array]] — applied to arrays
 - [[Hash Map]] — prefix + hash for subarray sum
 - [[Segment Tree]] — dynamic prefix sums
 - [[Fenwick Tree]] — dynamic prefix sums

@@ -268,3 +268,239 @@ Recognition
 |Tree Algorithms|191C|
 |Counting Paths|587C|
 |Tree Diameter|1294F|
+## Phase 2: Pattern Recognition (Hidden Tree Problems)
+
+Practice problems where you first identify that it is a tree.
+
+|Concept|LeetCode|
+|---|---|
+|Count Good Nodes|LC 1448|
+|Pseudo Palindromic Paths|LC 1457|
+|Longest ZigZag Path|LC 1372|
+|Deepest Leaves Sum|LC 1302|
+|Even Odd Tree|LC 1609|
+|Smallest String From Leaf|LC 988|
+|Sum Root to Leaf Numbers|LC 129|
+|Binary Tree Cameras|LC 968|
+|House Robber III|LC 337|
+|Distribute Coins|LC 979|
+
+---
+
+# Phase 3: Tree + Graph Mixed Problems
+
+Many Juspay questions blur the line between trees and graphs.
+
+|Problem|Pattern|
+|---|---|
+|Number of Good Leaf Nodes Pairs (LC 1530)|Tree DP|
+|All Nodes Distance K (LC 863)|Tree → Graph|
+|Delete Nodes And Return Forest (LC 1110)|DFS|
+|Count Complete Tree Nodes (LC 222)|Complete Tree|
+|Lowest Common Ancestor II|Variation|
+|Path Sum III (LC 437)|Prefix Sum + DFS|
+
+---
+
+# Phase 4: Company-style Word Problems
+
+These are excellent for interviews because they require understanding the story first.
+
+### 1. Company Hierarchy
+
+Given employees and managers, answer:
+
+- number of subordinates
+- kth manager
+- common manager
+- distance between employees
+
+(CSES + Binary Lifting)
+
+---
+
+### 2. File System
+
+```
+/
+├── home
+│   ├── user
+│   └── guest
+└── var
+```
+
+Questions:
+
+- total files
+- deepest folder
+- path to file
+- delete subtree
+
+Pattern:  
+DFS
+
+---
+
+### 3. Family Tree
+
+Questions:
+
+- common ancestor
+- cousin
+- generation
+- descendants
+
+Pattern:  
+LCA
+
+---
+
+### 4. Network of Routers
+
+Tree because there are no cycles.
+
+Questions:
+
+- shortest communication
+- failed router
+- farthest router
+
+Pattern:  
+Diameter / LCA
+
+---
+
+### 5. Organization Structure
+
+```
+CEO
+├── CTO
+│   ├── Dev1
+│   └── Dev2
+└── CFO
+```
+
+Questions:
+
+- reporting chain
+- department size
+- manager after k promotions
+
+Pattern:  
+DFS + Binary Lifting
+
+---
+
+### 6. Folder Permissions
+
+Grant permission to a folder.
+
+Need to update all descendants.
+
+Pattern:  
+Euler Tour
+
+---
+
+### 7. Game Skill Tree
+
+Unlock skills.
+
+Need:
+
+- ancestor
+- subtree
+- path
+
+Pattern:  
+Tree DP
+
+---
+
+### 8. Road Network
+
+Cities connected without cycles.
+
+Need:
+
+- distance
+- rerooting
+- longest road
+
+Pattern:  
+Diameter
+
+---
+
+### 9. Social Referral Tree
+
+Who referred whom.
+
+Need:
+
+- total referrals
+- best influencer
+- kth referral
+
+Pattern:  
+DFS
+
+---
+
+### 10. DNA Evolution Tree
+
+Need:
+
+- common ancestor
+- mutation count
+- deepest species
+
+Pattern:  
+LCA
+
+---
+
+# CSES Problems (Must Do)
+
+These are extremely valuable for interview preparation.
+
+1. Subordinates ✅
+2. Company Queries I
+3. Company Queries II
+4. Tree Distances I
+5. Tree Distances II
+6. Tree Diameter
+7. Tree Matching
+8. Tree Algorithms
+9. Counting Paths
+10. Fixed Length Paths
+
+---
+
+# Codeforces Problems
+
+After CSES, solve around 20–30 tree problems from Codeforces, focusing on ratings **1200–1700**:
+
+- DFS on trees
+- Subtree sizes
+- Rerooting
+- Tree DP
+- LCA
+- Binary lifting
+
+These improve implementation speed and expose you to varied problem statements.
+
+---
+
+# Interview-Level Challenge Set
+
+After the core patterns, these are some of the hardest and most rewarding tree problems:
+
+- LC 863 — All Nodes Distance K in Binary Tree
+- LC 968 — Binary Tree Cameras
+- LC 979 — Distribute Coins in Binary Tree
+- LC 1530 — Number of Good Leaf Nodes Pairs
+- LC 2458 — Height of Binary Tree After Subtree Removal Queries
+- LC 834 — Sum of Distances in Tree
+- LC 310 — Minimum Height Trees
+- LC 1377 — Frog Position After T Seconds

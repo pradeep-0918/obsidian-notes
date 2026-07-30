@@ -28,7 +28,7 @@ Classic DP pattern finding the longest strictly increasing subsequence (LIS) in 
 - Not understanding patience sort — it doesn't track actual subsequence
 
 ## 🔗 Related Topics
-[[Dynamic Programming]] | [[Binary Search]]
+[[DSA-Notes/Algorithms/Dynamic Programming]] | [[Binary Search]]
 
 ---
 - [ ] Learned  - [ ] Practiced  - [ ] Mastered

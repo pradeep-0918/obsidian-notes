@@ -24,7 +24,7 @@
 - Mixing up 0/1 vs unbounded knapsack loop order
 
 ## 🔗 Related Topics
-[[Unbounded Knapsack DP]] | [[Dynamic Programming]] | [[Backtracking]]
+[[Unbounded Knapsack DP]] | [[DSA-Notes/Algorithms/Dynamic Programming]] | [[Backtracking]]
 
 ---
 - [ ] Learned  - [ ] Practiced  - [ ] Mastered

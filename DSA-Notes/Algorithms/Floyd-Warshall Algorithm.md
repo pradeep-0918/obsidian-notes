@@ -40,7 +40,7 @@ An all-pairs shortest path algorithm that finds shortest paths between **every p
 - Not initialising diagonal to 0 and off-diagonal to ∞
 
 ## 🔗 Related Topics
-[[Bellman-Ford Algorithm]] | [[Dijkstra's Algorithm]] | [[Shortest Path Algorithms]] | [[Dynamic Programming]]
+[[Bellman-Ford Algorithm]] | [[Dijkstra's Algorithm]] | [[Shortest Path Algorithms]] | [[DSA-Notes/Algorithms/Dynamic Programming]]
 
 ---
 - [ ] Learned  - [ ] Practiced  - [ ] Mastered

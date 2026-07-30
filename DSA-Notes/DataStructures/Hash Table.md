@@ -76,7 +76,7 @@ hash("dog")   → 7 → bucket[7] → "animal"
 - [[Hash Map]] — key-value store
 - [[Hash Set]] — existence only
 - [[Bloom Filter]] — probabilistic membership
-- [[Array]] — underlying bucket array
+- [[DSA-Notes/DataStructures/Array]] — underlying bucket array
 - [[Linked List]] — chaining
 
 ---

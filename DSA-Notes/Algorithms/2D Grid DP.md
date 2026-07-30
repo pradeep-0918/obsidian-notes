@@ -27,7 +27,7 @@ Dynamic programming on a 2D grid where state is a cell (i, j) and transitions co
 - Forgetting obstacle cells block propagation
 
 ## 🔗 Related Topics
-[[Dynamic Programming]] | [[Array]] | [[Depth First Search]]
+[[DSA-Notes/Algorithms/Dynamic Programming]] | [[DSA-Notes/DataStructures/Array]] | [[Depth First Search]]
 
 ---
 - [ ] Learned  - [ ] Practiced  - [ ] Mastered

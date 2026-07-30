@@ -23,7 +23,7 @@ Knapsack variant where each item can be selected **unlimited times**. State: `dp
 - Iterating weights in reverse (gives 0/1 knapsack behaviour instead)
 
 ## 🔗 Related Topics
-[[Knapsack DP]] | [[Dynamic Programming]]
+[[Knapsack DP]] | [[DSA-Notes/Algorithms/Dynamic Programming]]
 
 ---
 - [ ] Learned  - [ ] Practiced  - [ ] Mastered

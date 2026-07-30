@@ -24,7 +24,7 @@ DP computing expected values or probabilities of outcomes over sequential random
 - Off-by-one in probability normalisation
 
 ## 🔗 Related Topics
-[[Dynamic Programming]] | [[Math]]
+[[DSA-Notes/Algorithms/Dynamic Programming]] | [[Math]]
 
 ---
 - [ ] Learned  - [ ] Practiced  - [ ] Mastered

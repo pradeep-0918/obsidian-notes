@@ -25,7 +25,7 @@ DP where state includes a bitmask representing a subset of elements. Enables exp
 - Not precomputing compatible masks
 
 ## 🔗 Related Topics
-[[Bit Manipulation]] | [[Dynamic Programming]]
+[[Bit Manipulation]] | [[DSA-Notes/Algorithms/Dynamic Programming]]
 
 ---
 - [ ] Learned  - [ ] Practiced  - [ ] Mastered

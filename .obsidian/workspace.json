@@ -419,12 +419,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Juspay/Graph.md",
+                "file": "Juspay/Operating System & Computer Network.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Graph"
+              "title": "Operating System & Computer Network"
             }
           },
           {
@@ -772,6 +772,10 @@
   },
   "active": "2ba8e803f8ea6aec",
   "lastOpenFiles": [
+    "Juspay/Greedy.md",
+    "Juspay/Strings.md",
+    "Juspay/Array.md",
+    "Juspay/Dynamic Programming.md",
     "Juspay/Tree.md",
     "Juspay/Graph.md",
     "Juspay/Operating System & Computer Network.md",
@@ -796,10 +800,6 @@
     "afford/AffordMed_Backend_Interview_Prep.md",
     "Taxonomies/17. Segment Tree and Fenwick Tree.md",
     "Taxonomies/16. Bit Manipulation.md",
-    "Taxonomies/15. Union Find.md",
-    "Taxonomies/14. Trie.md",
-    "Taxonomies/13. Divide and Conquer.md",
-    "Taxonomies/12. Dynamic Programming.md",
     "Taxonomies.zip",
     "Taxonomies",
     "Career_path",

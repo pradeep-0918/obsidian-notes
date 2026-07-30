@@ -45,7 +45,7 @@
 
 - [[Time Complexity]]
 - [[Big-O Notation]]
-- [[Dynamic Programming]] — space optimization
+- [[DSA-Notes/Algorithms/Dynamic Programming]] — space optimization
 
 ---
 

@@ -15,7 +15,7 @@
 ### Arrays & Strings
 | Structure | Status |
 |-----------|--------|
-| [[Array]] | - [ ] Completed |
+| [[DSA-Notes/DataStructures/Array]] | - [ ] Completed |
 | [[Dynamic Array]] | - [ ] Completed |
 | [[Sparse Array]] | - [ ] Completed |
 | [[String]] | - [ ] Completed |
