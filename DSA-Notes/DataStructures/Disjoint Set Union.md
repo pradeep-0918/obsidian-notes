@@ -81,7 +81,7 @@ class DSU:
 
 ## 🔗 Related Topics
 
-- [[Graph]] — used in graph problems
+- [[DSA-Notes/DataStructures/Graph]] — used in graph problems
 - [[Minimum Spanning Tree]] — Kruskal's uses DSU
 - [[Topological Sort]] — alternative for connectivity
 - [[Depth First Search]] — alternative for connected components

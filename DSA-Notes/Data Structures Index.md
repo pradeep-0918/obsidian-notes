@@ -69,7 +69,7 @@
 ### Graphs
 | Structure | Status |
 |-----------|--------|
-| [[Graph]] | - [ ] Completed |
+| [[DSA-Notes/DataStructures/Graph]] | - [ ] Completed |
 | [[Directed Graph]] | - [ ] Completed |
 | [[Undirected Graph]] | - [ ] Completed |
 | [[Weighted Graph]] | - [ ] Completed |

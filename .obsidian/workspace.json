@@ -377,7 +377,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal/Tree.md",
+                "file": "Juspay/Tree.md",
                 "mode": "source",
                 "source": false
               },
@@ -419,12 +419,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Juspay/Operating System & Computer Network.md",
+                "file": "Juspay/Graph.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Operating System & Computer Network"
+              "title": "Graph"
             }
           },
           {
@@ -772,11 +772,12 @@
   },
   "active": "2ba8e803f8ea6aec",
   "lastOpenFiles": [
-    "Personal/Untitled 3.md",
+    "Juspay/Tree.md",
+    "Juspay/Graph.md",
     "Juspay/Operating System & Computer Network.md",
+    "Personal/Untitled 3.md",
     "Personal/Untitled 2.md",
     "Personal/Untitled 1.md",
-    "Personal/Tree.md",
     "Personal/Untitled.md",
     "Juspay",
     "Personal/Resume.md",
@@ -799,7 +800,6 @@
     "Taxonomies/14. Trie.md",
     "Taxonomies/13. Divide and Conquer.md",
     "Taxonomies/12. Dynamic Programming.md",
-    "Taxonomies/05. Sorting.md",
     "Taxonomies.zip",
     "Taxonomies",
     "Career_path",

@@ -26,7 +26,7 @@ Data Structures and Algorithms form the **backbone of computer science** and sof
 ### 🟡 Intermediate
 1. [[DSA-Notes/DataStructures/Tree]] → [[Binary Tree]] → [[Binary Search Tree]]
 2. [[Heap]] → [[Min Heap]] → [[Max Heap]]
-3. [[Graph]] → [[Depth First Search]] → [[Breadth First Search]]
+3. [[DSA-Notes/DataStructures/Graph]] → [[Depth First Search]] → [[Breadth First Search]]
 4. [[Sorting Algorithms]] → [[Merge Sort]] → [[Quick Sort]]
 5. [[Dynamic Programming]] (1D → 2D)
 6. [[Backtracking]]

@@ -1414,31 +1414,31 @@
   - Link: https://leetcode.com/problems/number-of-islands/
   - Difficulty: Medium
   - Pattern: DFS / BFS
-  - Topics: [[Graph]], [[Depth First Search], [[Breadth First Search], [[Matrix]]
+  - Topics: [[DSA-Notes/DataStructures/Graph]], [[Depth First Search], [[Breadth First Search], [[Matrix]]
 
 - [ ] Time Needed to Inform All Employees
   - Link: https://leetcode.com/problems/time-needed-to-inform-all-employees/
   - Difficulty: Medium
   - Pattern: DFS Tree
-  - Topics: [[Graph]], [[Depth First Search]]
+  - Topics: [[DSA-Notes/DataStructures/Graph]], [[Depth First Search]]
 
 - [ ] All Paths From Source to Target
   - Link: https://leetcode.com/problems/all-paths-from-source-to-target/
   - Difficulty: Medium
   - Pattern: DFS Backtracking
-  - Topics: [[Graph]], [[Depth First Search], [[Backtracking]]
+  - Topics: [[DSA-Notes/DataStructures/Graph]], [[Depth First Search], [[Backtracking]]
 
 - [ ] Clone Graph
   - Link: https://leetcode.com/problems/clone-graph/
   - Difficulty: Medium
   - Pattern: DFS / BFS + Hash
-  - Topics: [[Graph]], [[Depth First Search], [[Hash Map]]
+  - Topics: [[DSA-Notes/DataStructures/Graph]], [[Depth First Search], [[Hash Map]]
 
 - [ ] Is Graph Bipartite?
   - Link: https://leetcode.com/problems/is-graph-bipartite/
   - Difficulty: Medium
   - Pattern: Graph Coloring DFS/BFS
-  - Topics: [[Graph]], [[Depth First Search], [[Breadth First Search]]
+  - Topics: [[DSA-Notes/DataStructures/Graph]], [[Depth First Search], [[Breadth First Search]]
 
 - [ ] All Nodes Distance K in Binary Tree
   - Link: https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/
@@ -1450,25 +1450,25 @@
   - Link: https://leetcode.com/problems/employee-importance/
   - Difficulty: Medium
   - Pattern: DFS / BFS
-  - Topics: [[Graph]], [[Depth First Search], [[Hash Map]]
+  - Topics: [[DSA-Notes/DataStructures/Graph]], [[Depth First Search], [[Hash Map]]
 
 - [ ] Surrounded Regions
   - Link: https://leetcode.com/problems/surrounded-regions/
   - Difficulty: Medium
   - Pattern: DFS from boundary
-  - Topics: [[Graph]], [[Depth First Search], [[Matrix]]
+  - Topics: [[DSA-Notes/DataStructures/Graph]], [[Depth First Search], [[Matrix]]
 
 - [ ] Pacific Atlantic Water Flow
   - Link: https://leetcode.com/problems/pacific-atlantic-water-flow/
   - Difficulty: Medium
   - Pattern: Multi-source DFS/BFS
-  - Topics: [[Graph]], [[Depth First Search], [[Breadth First Search], [[Matrix]]
+  - Topics: [[DSA-Notes/DataStructures/Graph]], [[Depth First Search], [[Breadth First Search], [[Matrix]]
 
 - [ ] Making A Large Island
   - Link: https://leetcode.com/problems/making-a-large-island/
   - Difficulty: Hard
   - Pattern: DFS + Union Find
-  - Topics: [[Graph]], [[Depth First Search], [[Union Find], [[Matrix]]
+  - Topics: [[DSA-Notes/DataStructures/Graph]], [[Depth First Search], [[Union Find], [[Matrix]]
 
 ---
 
@@ -1478,37 +1478,37 @@
   - Link: https://leetcode.com/problems/rotting-oranges/
   - Difficulty: Medium
   - Pattern: Multi-source BFS
-  - Topics: [[Graph]], [[Breadth First Search], [[Matrix], [[Queue]]
+  - Topics: [[DSA-Notes/DataStructures/Graph]], [[Breadth First Search], [[Matrix], [[Queue]]
 
 - [ ] 01 Matrix
   - Link: https://leetcode.com/problems/01-matrix/
   - Difficulty: Medium
   - Pattern: Multi-source BFS
-  - Topics: [[Graph]], [[Breadth First Search], [[Matrix], [[Dynamic Programming]]
+  - Topics: [[DSA-Notes/DataStructures/Graph]], [[Breadth First Search], [[Matrix], [[Dynamic Programming]]
 
 - [ ] Open the Lock
   - Link: https://leetcode.com/problems/open-the-lock/
   - Difficulty: Medium
   - Pattern: BFS State Space
-  - Topics: [[Graph]], [[Breadth First Search], [[Hash Set]]
+  - Topics: [[DSA-Notes/DataStructures/Graph]], [[Breadth First Search], [[Hash Set]]
 
 - [ ] Shortest Path in a Grid with Obstacles Elimination
   - Link: https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination/
   - Difficulty: Hard
   - Pattern: BFS with State
-  - Topics: [[Graph]], [[Breadth First Search], [[Matrix]]
+  - Topics: [[DSA-Notes/DataStructures/Graph]], [[Breadth First Search], [[Matrix]]
 
 - [ ] Bus Routes
   - Link: https://leetcode.com/problems/bus-routes/
   - Difficulty: Hard
   - Pattern: BFS Graph
-  - Topics: [[Graph]], [[Breadth First Search], [[Hash Map]]
+  - Topics: [[DSA-Notes/DataStructures/Graph]], [[Breadth First Search], [[Hash Map]]
 
 - [ ] Word Ladder
   - Link: https://leetcode.com/problems/word-ladder/
   - Difficulty: Hard
   - Pattern: BFS
-  - Topics: [[Graph]], [[Breadth First Search], [[Hash Set]]
+  - Topics: [[DSA-Notes/DataStructures/Graph]], [[Breadth First Search], [[Hash Set]]
 
 ---
 
@@ -1518,25 +1518,25 @@
   - Link: https://leetcode.com/problems/course-schedule-ii/
   - Difficulty: Medium
   - Pattern: Topological Sort
-  - Topics: [[Graph]], [[Topological Sort], [[Depth First Search]]
+  - Topics: [[DSA-Notes/DataStructures/Graph]], [[Topological Sort], [[Depth First Search]]
 
 - [ ] Find Eventual Safe States
   - Link: https://leetcode.com/problems/find-eventual-safe-states/
   - Difficulty: Medium
   - Pattern: Topological Sort / DFS
-  - Topics: [[Graph]], [[Topological Sort], [[Depth First Search]]
+  - Topics: [[DSA-Notes/DataStructures/Graph]], [[Topological Sort], [[Depth First Search]]
 
 - [ ] Minimum Height Trees
   - Link: https://leetcode.com/problems/minimum-height-trees/
   - Difficulty: Medium
   - Pattern: Topological Sort (Leaf trimming)
-  - Topics: [[Graph]], [[Topological Sort], [[DSA-Notes/DataStructures/Tree]]
+  - Topics: [[DSA-Notes/DataStructures/Graph]], [[Topological Sort], [[DSA-Notes/DataStructures/Tree]]
 
 - [ ] Sort Items by Groups Respecting Dependencies
   - Link: https://leetcode.com/problems/sort-items-by-groups-respecting-dependencies/
   - Difficulty: Hard
   - Pattern: Topological Sort
-  - Topics: [[Graph]], [[Topological Sort]]
+  - Topics: [[DSA-Notes/DataStructures/Graph]], [[Topological Sort]]
 
 ---
 
@@ -1546,25 +1546,25 @@
   - Link: https://leetcode.com/problems/number-of-provinces/
   - Difficulty: Medium
   - Pattern: Union Find / DFS
-  - Topics: [[Graph]], [[Union Find], [[Disjoint Set Union]]
+  - Topics: [[DSA-Notes/DataStructures/Graph]], [[Union Find], [[Disjoint Set Union]]
 
 - [ ] Redundant Connection
   - Link: https://leetcode.com/problems/redundant-connection/
   - Difficulty: Medium
   - Pattern: Union Find
-  - Topics: [[Graph]], [[Union Find], [[Disjoint Set Union]]
+  - Topics: [[DSA-Notes/DataStructures/Graph]], [[Union Find], [[Disjoint Set Union]]
 
 - [ ] Accounts Merge
   - Link: https://leetcode.com/problems/accounts-merge/
   - Difficulty: Medium
   - Pattern: Union Find
-  - Topics: [[Graph]], [[Union Find], [[Disjoint Set Union], [[Hash Map]]
+  - Topics: [[DSA-Notes/DataStructures/Graph]], [[Union Find], [[Disjoint Set Union], [[Hash Map]]
 
 - [ ] Minimize Malware Spread
   - Link: https://leetcode.com/problems/minimize-malware-spread/
   - Difficulty: Hard
   - Pattern: Union Find
-  - Topics: [[Graph]], [[Union Find], [[Disjoint Set Union]]
+  - Topics: [[DSA-Notes/DataStructures/Graph]], [[Union Find], [[Disjoint Set Union]]
 
 ---
 
@@ -1574,7 +1574,7 @@
   - Link: https://leetcode.com/problems/min-cost-to-connect-all-points/
   - Difficulty: Medium
   - Pattern: Prim's / Kruskal's
-  - Topics: [[Graph]], [[Minimum Spanning Tree], [[Heap]]
+  - Topics: [[DSA-Notes/DataStructures/Graph]], [[Minimum Spanning Tree], [[Heap]]
 
 ---
 
@@ -1584,31 +1584,31 @@
   - Link: https://leetcode.com/problems/network-delay-time/
   - Difficulty: Medium
   - Pattern: Dijkstra's
-  - Topics: [[Graph]], [[Dijkstra's Algorithm], [[Heap]]
+  - Topics: [[DSA-Notes/DataStructures/Graph]], [[Dijkstra's Algorithm], [[Heap]]
 
 - [ ] Cheapest Flights Within K Stops
   - Link: https://leetcode.com/problems/cheapest-flights-within-k-stops/
   - Difficulty: Medium
   - Pattern: Bellman-Ford / Dijkstra's Modified
-  - Topics: [[Graph]], [[Shortest Path Algorithms], [[Dynamic Programming]]
+  - Topics: [[DSA-Notes/DataStructures/Graph]], [[Shortest Path Algorithms], [[Dynamic Programming]]
 
 - [ ] Path with Maximum Probability
   - Link: https://leetcode.com/problems/path-with-maximum-probability/
   - Difficulty: Medium
   - Pattern: Dijkstra's (Max)
-  - Topics: [[Graph]], [[Dijkstra's Algorithm], [[Heap]]
+  - Topics: [[DSA-Notes/DataStructures/Graph]], [[Dijkstra's Algorithm], [[Heap]]
 
 - [ ] Path With Minimum Effort
   - Link: https://leetcode.com/problems/path-with-minimum-effort/
   - Difficulty: Medium
   - Pattern: Dijkstra's / Binary Search
-  - Topics: [[Graph]], [[Dijkstra's Algorithm], [[Binary Search], [[Matrix]]
+  - Topics: [[DSA-Notes/DataStructures/Graph]], [[Dijkstra's Algorithm], [[Binary Search], [[Matrix]]
 
 - [ ] Swim in Rising Water
   - Link: https://leetcode.com/problems/swim-in-rising-water/
   - Difficulty: Hard
   - Pattern: Dijkstra's / Binary Search
-  - Topics: [[Graph]], [[Dijkstra's Algorithm], [[Heap]]
+  - Topics: [[DSA-Notes/DataStructures/Graph]], [[Dijkstra's Algorithm], [[Heap]]
 
 ---
 
@@ -1618,13 +1618,13 @@
   - Link: https://leetcode.com/problems/reconstruct-itinerary/
   - Difficulty: Hard
   - Pattern: Eulerian Path (Hierholzer's)
-  - Topics: [[Graph]], [[Eulerian Circuit], [[Depth First Search]]
+  - Topics: [[DSA-Notes/DataStructures/Graph]], [[Eulerian Circuit], [[Depth First Search]]
 
 - [ ] Cracking the Safe
   - Link: https://leetcode.com/problems/cracking-the-safe/
   - Difficulty: Hard
   - Pattern: Eulerian Circuit (De Bruijn)
-  - Topics: [[Graph]], [[Eulerian Circuit], [[Depth First Search]]
+  - Topics: [[DSA-Notes/DataStructures/Graph]], [[Eulerian Circuit], [[Depth First Search]]
 
 ---
 
@@ -1856,7 +1856,7 @@
   - Link: https://leetcode.com/problems/number-of-ways-to-arrive-at-destination/
   - Difficulty: Medium
   - Pattern: Dijkstra's + DP
-  - Topics: [[Graph]], [[Dynamic Programming], [[Dijkstra's Algorithm]]
+  - Topics: [[DSA-Notes/DataStructures/Graph]], [[Dynamic Programming], [[Dijkstra's Algorithm]]
 
 - [ ] Binary Tree Cameras
   - Link: https://leetcode.com/problems/binary-tree-cameras/
@@ -1868,7 +1868,7 @@
   - Link: https://leetcode.com/problems/sum-of-distances-in-tree/
   - Difficulty: Hard
   - Pattern: Tree DP (Rerooting)
-  - Topics: [[Graph]], [[Tree], [[Dynamic Programming]]
+  - Topics: [[DSA-Notes/DataStructures/Graph]], [[Tree], [[Dynamic Programming]]
 
 ---
 
@@ -1890,7 +1890,7 @@
   - Link: https://leetcode.com/problems/shortest-path-visiting-all-nodes/
   - Difficulty: Hard
   - Pattern: Bitmask DP + BFS
-  - Topics: [[Graph]], [[Dynamic Programming], [[Bitmask DP], [[Breadth First Search]]
+  - Topics: [[DSA-Notes/DataStructures/Graph]], [[Dynamic Programming], [[Bitmask DP], [[Breadth First Search]]
 
 ---
 

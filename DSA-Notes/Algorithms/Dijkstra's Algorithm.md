@@ -75,7 +75,7 @@ def dijkstra(graph, src, n):
 - [[Breadth First Search]] — unweighted shortest path
 - [[Bellman-Ford Algorithm]] — handles negative weights
 - [[Heap]] — priority queue implementation
-- [[Graph]] — applied to weighted graphs
+- [[DSA-Notes/DataStructures/Graph]] — applied to weighted graphs
 - [[Shortest Path Algorithms]] — family of algorithms
 
 ---

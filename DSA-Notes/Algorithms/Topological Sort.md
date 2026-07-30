@@ -95,7 +95,7 @@ def topo_dfs(graph, n):
 
 ## 🔗 Related Topics
 
-- [[Graph]] — applied to DAG
+- [[DSA-Notes/DataStructures/Graph]] — applied to DAG
 - [[Depth First Search]] — DFS-based topo sort
 - [[Breadth First Search]] — Kahn's algorithm
 - [[Disjoint Set Union]] — alternative for connectivity

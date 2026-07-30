@@ -100,7 +100,7 @@ def postorder(root):  # Left → Right → Root
 - [[Breadth First Search]] — level-order, shortest path
 - [[Backtracking]] — DFS with pruning
 - [[Topological Sort]] — DFS-based ordering
-- [[Graph]] — primary application
+- [[DSA-Notes/DataStructures/Graph]] — primary application
 - [[Binary Tree]] — tree traversals
 - [[Stack]] — explicit DFS implementation
 - [[Recursion]] — implicit stack

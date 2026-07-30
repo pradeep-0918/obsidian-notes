@@ -65,7 +65,7 @@ class UnionFind:
 ## 🔗 Related Topics
 
 - [[Disjoint Set Union]] — the data structure
-- [[Graph]] — applied to graphs
+- [[DSA-Notes/DataStructures/Graph]] — applied to graphs
 - [[Minimum Spanning Tree]] — Kruskal's uses this
 - [[Depth First Search]] — alternative for components
 

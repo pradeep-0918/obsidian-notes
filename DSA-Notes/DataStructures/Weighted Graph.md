@@ -1,7 +1,7 @@
 # Weighted Graph
 
 ## 📌 Definition
-A [[Graph]] where each edge carries a numerical weight representing cost, distance, or capacity.
+A [[DSA-Notes/DataStructures/Graph]] where each edge carries a numerical weight representing cost, distance, or capacity.
 
 ## ⚙️ How It Works
 - Each edge (u, v) has an associated weight w
@@ -44,10 +44,10 @@ A [[Graph]] where each edge carries a numerical weight representing cost, distan
 - Confusing directed and undirected edge representations in code
 
 ## 🔗 Related Topics
-[[Graph]] | [[Depth First Search]] | [[Breadth First Search]] | [[Topological Sort]] | [[Dijkstra's Algorithm]] | [[Union Find]]
+[[DSA-Notes/DataStructures/Graph]] | [[Depth First Search]] | [[Breadth First Search]] | [[Topological Sort]] | [[Dijkstra's Algorithm]] | [[Union Find]]
 
 ## ⬅️ Previous
-[[Graph]]
+[[DSA-Notes/DataStructures/Graph]]
 
 ## ➡️ Next
 [[Disjoint Set Union]]

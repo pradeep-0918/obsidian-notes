@@ -1,7 +1,7 @@
 # Undirected Graph
 
 ## 📌 Definition
-A [[Graph]] where edges have no direction — if A connects to B, then B connects to A.
+A [[DSA-Notes/DataStructures/Graph]] where edges have no direction — if A connects to B, then B connects to A.
 
 ## ⚙️ How It Works
 - Edges represented as unordered pairs {u, v}
@@ -44,10 +44,10 @@ A [[Graph]] where edges have no direction — if A connects to B, then B connect
 - Confusing directed and undirected edge representations in code
 
 ## 🔗 Related Topics
-[[Graph]] | [[Depth First Search]] | [[Breadth First Search]] | [[Topological Sort]] | [[Dijkstra's Algorithm]] | [[Union Find]]
+[[DSA-Notes/DataStructures/Graph]] | [[Depth First Search]] | [[Breadth First Search]] | [[Topological Sort]] | [[Dijkstra's Algorithm]] | [[Union Find]]
 
 ## ⬅️ Previous
-[[Graph]]
+[[DSA-Notes/DataStructures/Graph]]
 
 ## ➡️ Next
 [[Disjoint Set Union]]

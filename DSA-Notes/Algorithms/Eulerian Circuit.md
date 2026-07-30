@@ -35,7 +35,7 @@ An Eulerian circuit is a closed walk that visits **every edge** in a graph exact
 - Not checking existence conditions before applying algorithm
 
 ## 🔗 Related Topics
-[[Graph]] | [[Directed Graph]] | [[Depth First Search]] | [[Topological Sort]]
+[[DSA-Notes/DataStructures/Graph]] | [[Directed Graph]] | [[Depth First Search]] | [[Topological Sort]]
 
 ---
 - [ ] Learned  - [ ] Practiced  - [ ] Mastered

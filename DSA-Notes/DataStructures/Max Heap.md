@@ -2,7 +2,7 @@
 
 #DataStructure #Tree #Heap
 
-⬅️ [[Min Heap]] | ➡️ [[Graph]]
+⬅️ [[Min Heap]] | ➡️ [[DSA-Notes/DataStructures/Graph]]
 
 ---
 

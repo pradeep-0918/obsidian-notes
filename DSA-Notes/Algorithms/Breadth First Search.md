@@ -103,7 +103,7 @@ def level_order(root):
 - [[Depth First Search]] — explores deep, not wide
 - [[Queue]] — core data structure
 - [[Dijkstra's Algorithm]] — weighted BFS
-- [[Graph]] — primary application
+- [[DSA-Notes/DataStructures/Graph]] — primary application
 - [[Binary Tree]] — level-order traversal
 
 ---

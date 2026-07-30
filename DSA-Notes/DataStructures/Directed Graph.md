@@ -1,7 +1,7 @@
 # Directed Graph
 
 ## 📌 Definition
-A [[Graph]] where edges have a direction, going from one vertex to another. Also called a digraph.
+A [[DSA-Notes/DataStructures/Graph]] where edges have a direction, going from one vertex to another. Also called a digraph.
 
 ## ⚙️ How It Works
 - Edges represented as ordered pairs (u, v)
@@ -44,10 +44,10 @@ A [[Graph]] where edges have a direction, going from one vertex to another. Also
 - Confusing directed and undirected edge representations in code
 
 ## 🔗 Related Topics
-[[Graph]] | [[Depth First Search]] | [[Breadth First Search]] | [[Topological Sort]] | [[Dijkstra's Algorithm]] | [[Union Find]]
+[[DSA-Notes/DataStructures/Graph]] | [[Depth First Search]] | [[Breadth First Search]] | [[Topological Sort]] | [[Dijkstra's Algorithm]] | [[Union Find]]
 
 ## ⬅️ Previous
-[[Graph]]
+[[DSA-Notes/DataStructures/Graph]]
 
 ## ➡️ Next
 [[Disjoint Set Union]]
